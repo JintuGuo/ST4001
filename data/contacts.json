@@ -1,0 +1,25 @@
+{
+  "course": {
+    "name": "刘钰",
+    "email": "yuliu@intl.zju.edu.cn",
+    "note": "负责：课程设置、选课、退课、毕业审核"
+  },
+
+  "exam": {
+    "name": "孙佳怡",
+    "email": "jiayisun@intl.zju.edu.cn",
+    "note": "负责：成绩登录、考试安排、补考、特考、四六级考试、学位转换(UIUC transfer)、成绩单开具"
+  },
+
+  "student_status": {
+    "name": "王若沁",
+    "email": "ruoqinwang@intl.zju.edu.cn",
+    "note": "负责：学籍管理、学期报到、学位登记、学位证照片、本科生科研训练、SRTP、暑研、海外交换项目、助教管理"
+  },
+
+  "default": {
+    "name": "邵昉伟",
+    "email": "fangweishao@intl.zju.edu.cn",
+    "note": "负责：综合问题"
+  }
+}

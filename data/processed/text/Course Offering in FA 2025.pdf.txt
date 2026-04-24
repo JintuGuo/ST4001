@@ -1,0 +1,841 @@
+Zhang, Xisha
+Course Offering in FA 2025
+All the courses offered in FA 2025 are categorized into the following three types: 
+ 
+Courses are also categorized as mandatory (section 3 in your curriculum) and
+elective ones (section 4 in your curriculum). 
+ 
+Please read all the following notes before dive into the course table.
+1. UIUC courses are those taught by UIUC faculties or co-taught by ZJUI and
+UIUC faculties. The academic credits (AU) earned from UIUC courses are
+therefore counted as UIUC credits. Final grades will be recorded in both ZJUI
+and UIUC systems.
+All UIUC courses are highlighted in blue in the course tables.
+2. ZJUI courses are those taught by ZJUI faculties normally without the
+involvement of UIUC faculties. AUs earned from ZJUI courses are therefore
+counted as ZJUI credits.  Grades of these courses will be recorded in
+INTL PeopleSoft system and will be transferred to UIUC after students have
+been successfully admitted by UIUC through international transfer during
+their junior year.
+3. ZJU courses are those taught by ZJU faculties that are used to fulfil the
+graduation requirement for the ZJU degree.
+1. Mandatory courses include fundamental mathematics and science, technical
+cores, and composition. Everyone must complete all mandatory courses.
+2. Elective courses include technical courses, general education (liberal
+education) and free electives. Elective courses are optional. Students must
+take sufficient AUs from elective courses to fulfil the total credit requirement
+of both ZJU and UIUC degrees. Free electives can be almost any course under
+the categories of ZJUI and UIUC courses.
+1. All the available courses in FA 2025 are listed below according to the main
+cohort of attendance.
+2026/2/22 11:23
+Course Offering in FA 2025
+https://zjuintl.sharepoint.com/sites/ZJUIUG/SitePages/ZJUI-Course-Offerings-in-Fall-Semester-2025.aspx?csf=1&web=1&e=q2i9Td&CID=e32ea…
+1/10
+
+ 
+Courses in FA 2025
+ 
+1.ZJUI and UIUC courses
+ 
+A. Freshmen courses
+COURSE
+CODE
+COURSE NAME
+AU
+INSTRUCTORS
+COURSE
+TYPE
+Pre-
+requisite
+ECE 110
+Introduction to
+Electronics
+3
+Chao
+QIAN/Umberto
+Ravaioli (UIUC)
+UIUC
+ 
+ECE 120
+Introduction to
+Computing
+4
+Zhang
+Qiang/Zuozhu
+LIU/Ujjal Bhowmik
+(UIUC)
+UIUC
+ 
+CEE 190
+Project Based
+Introduction to
+Civil Engineering
+4
+Art Schmidt (UIUC
+Online) ZJUI
+calendar
+UIUC
+ 
+RHET
+101
+Principles of
+Writing
+4
+Ryan
+Flanagan/UIUC
+faculty/ Ashley
+Barr
+UIUC
+ 
+CHEM
+102
+General Chemistry I
+3
+Fangwei SHAO
+ZJUI
+ 
+CHEM
+103
+General Chemistry
+Lab I
+1
+Mian PAN/ Miao
+HUANG
+ZJUI
+CHEM 102
+or
+concurrent
+CS 101
+Introduction to
+Computing:
+Engineering &
+Science
+3
+Weeliat ONG
+ZJUI
+ 
+ENGR
+100
+Engineering
+Orientation
+1
+Zuozhu LIU/Lee
+Der-Horng
+ZJUI
+ 
+2. Students are NOT allowed to register more than 18 AUs of the sum of ZJUI
+and UIUC courses.
+3. Students must satisfy the pre-requisites for course registration. The pre-
+requisites of each course are listed along with course in the following table.
+4. The instructors' name followed by “(Online)” remark, will teach the course
+online. Except CEE 190 & CEE 201, all the rest of online courses will follow
+UIUC calendar. First day of instruction will be August 25 2025. 
+2026/2/22 11:23
+Course Offering in FA 2025
+https://zjuintl.sharepoint.com/sites/ZJUIUG/SitePages/ZJUI-Course-Offerings-in-Fall-Semester-2025.aspx?csf=1&web=1&e=q2i9Td&CID=e32ea…
+2/10
+
+lEE/Erping Li
+MATH
+221
+Calculus I
+4
+Cui ZHOU
+ZJUI
+ 
+MATH
+231
+Calculus II
+3
+Cui ZHOU
+ZJUI
+MATH 221
+ME 290
+ME Freshmen
+Seminar
+1
+Weeliat ONG
+ZJUI
+ 
+PHYS
+211
+University Physics:
+Statics
+4
+Oleksiy Penkov
+ZJUI
+ 
+B. Sophomore Courses
+COURSE
+CODE
+COURSE NAME
+AU
+INSTRUCTORS
+COURSE
+TYPE
+Pre-requisite
+CEE 201
+Systems
+Engineering &
+Economics
+3
+Hadi Meidani
+(UIUC Online)
+ZJUI calendar
+UIUC
+MATH231&CS101&
+or concurrent
+ME 270
+Design for
+Manufacturability
+3
+Timothy
+LEE/Mickey
+Clemon
+UIUC
+ME170
+1. AU cap: Semester AU cap in Fall 2025 is set at 20 AU for all the freshmen.
+2. TPT for MATH 221: Students passing Math 221 proficiency exam will proceed
+to Math 231 and can also register to MATH 257 if AU cap allows.
+3. CivE required: ENGR 100, Math 221, CEE 190, RHET 101, PHYS 211. Student
+can register CS 101 or CHEM 102, if s/he has not reached AU cap.
+4. CompE required: ENGR 100, Math 221, ECE 110, ECE 120, RHET 101. Student
+can register CHEM 102/103, if s/he has not reached AU cap.
+5. EE required: ENGR 100, CHEM 102/103, Math 221, RHET 101, ECE 110.
+Student can register ECE 120, if s/he has not reached AU cap.
+6. ME required: ENGR 100, Math 221, CS 101, ME 290, RHET 101, PHYS 211.
+Student can register CHEM 102/103, if s/he has not reached AU cap.
+7. CS 101 and CHEM 102/103 are recommended for CompE and EE students as
+free elective courses.
+8. ECE 110, ECE 120, CS 101, CHEM 102/103 and Phys 211 will be offered again
+in SP 2026.
+9. All required courses are pre-registered. Student cannot drop these courses
+unless approved by institute.
+ 
+2026/2/22 11:23
+Course Offering in FA 2025
+https://zjuintl.sharepoint.com/sites/ZJUIUG/SitePages/ZJUI-Course-Offerings-in-Fall-Semester-2025.aspx?csf=1&web=1&e=q2i9Td&CID=e32ea…
+3/10
+
+
+
+COURSE
+CODE
+COURSE NAME
+AU
+INSTRUCTORS
+COURSE
+TYPE
+Pre-requisite
+TAM
+211
+Statics
+3
+Jiahuan
+CUI/Tom
+Golecki
+UIUC
+PHYS211&((MATH 
+concurrent) or (MA
+concurrent))
+ECE 313
+Probability with
+Engineering
+Application
+3
+Piao CHEN/Xu
+Chen
+UIUC
+MATH257 or concu
+ECE 314
+Probability in
+Engineering Lab
+1
+Piao CHEN/Xu
+Chen
+UIUC
+ECE313 or concurre
+MATH
+257
+Linear Algebra
+with
+Computational
+Applications
+3
+Xiangming
+MENG
+ZJUI
+MATH221 & (CS10
+120 or concurrent)
+MATH
+213
+Introduction to
+Discrete
+Mathematics
+3
+Meng ZHANG
+ZJUI
+MATH221
+MATH
+241
+Calculus Ⅲ
+4
+Hao
+YANG/Qingchun
+HOU
+ZJUI
+MATH231
+PHYS
+212
+University
+Physics: Elec&
+Mag
+4
+Ruisheng DIAO/
+Chao QIAN
+ZJUI
+PHYS211
+C. Junior Courses
+COURSE
+CODE
+COURSE NAME
+AU
+INSTRUCTORS
+COURSE
+TYPE
+Pre-
+requisite
+ECE329
+Fields and Waves I
+3
+Shurun TAN
+ZJUI
+ECE210
+1. AU cap: Semester AU cap in Fall 2025 is set at 18 AU for all the sophomore.
+2. CivE required: MATH 257, MATH 241, PHYS 212, CEE 201, TAM 211.
+3. ME required: MATH 257, MATH 241, PHYS 212, ME 270, TAM 211.
+4. CompE required: MATH 213, MATH 257, MATH 241, PHYS 212. ECE 313/314
+are highly recommended.
+5. EE required: MATH 257, MATH 241, PHYS 212. ECE 313/314 are highly
+recommended. Math 213 is highly recommended, but not required.
+6. Sophomore students can enroll other courses if AU cap is not exceeded. 
+ 
+2026/2/22 11:23
+Course Offering in FA 2025
+https://zjuintl.sharepoint.com/sites/ZJUIUG/SitePages/ZJUI-Course-Offerings-in-Fall-Semester-2025.aspx?csf=1&web=1&e=q2i9Td&CID=e32ea…
+4/10
+
+COURSE
+CODE
+COURSE NAME
+AU
+INSTRUCTORS
+COURSE
+TYPE
+Pre-
+requisite
+ECE374
+Introduction to
+Algorithms &
+Models of
+Computation
+4
+Pavel LOSKOT
+ZJUI
+(CS 173 or
+MATH
+213)& CS
+225
+D. Senior Courses
+COURSE
+CODE
+COURSE NAME
+AU
+INSTRUCTORS
+COURSE
+TYPE
+Pre-requisite
+ECE 408
+Applied Parallel
+Programming
+4
+Volodymyr
+Kindratenko
+(UIUC Online)
+UIUC calendar
+UIUC
+ECE 220
+ECE 457
+Microwave Devices
+& Circuits
+3
+Hanzhi MA
+ZJUI
+ECE 329 or
+concurrent, &
+ECE 350 is
+recommended
+ECE 459
+Communications
+System
+3
+Said MIKKI/Juan
+Alvarez (UIUC)
+UIUC
+ECE 313
+ECE 464
+Power Electronics
+3
+Chushan
+LI/Arijit
+Banerjee (UIUC)
+UIUC
+ 
+ECE 469
+Power Electronics
+Lab
+2
+Lin QIU/Arijit
+Banerjee (UIUC)
+UIUC
+ECE 343 &
+(ECE 464 or
+concurrent)
+ECE
+470/
+ME 445*
+Introduction to
+Robotics
+4
+Liangjing
+YANG/Katie
+Driggs-
+Campbell
+(UIUC)
+UIUC
+MATH 225 or
+MATH 257 or
+MATH 418
+ECE 486
+Control Systems
+4
+Hua CHEN/Ali
+Belabbas (UIUC)
+UIUC
+ECE210 or ME
+360
+ECE 490
+Introduction to
+Optimization
+3
+Bo ZHAO
+ZJUI
+ECE
+220 & MATH
+1. AU cap: Semester AU cap in Fall 2025 is set at 18 AU for all the juniors.
+2. All the junior students staying on Haining campus in FA 2025 should attend
+academic advisory interview at UA office. Please make an appointment via
+zjui_undergraded@intl.zju.edu.cn
+ 
+2026/2/22 11:23
+Course Offering in FA 2025
+https://zjuintl.sharepoint.com/sites/ZJUIUG/SitePages/ZJUI-Course-Offerings-in-Fall-Semester-2025.aspx?csf=1&web=1&e=q2i9Td&CID=e32ea…
+5/10
+
+COURSE
+CODE
+COURSE NAME
+AU
+INSTRUCTORS
+COURSE
+TYPE
+Pre-requisite
+257
+ECE
+498MF
+Mathematical
+Foundations for
+Machine Learning
+3
+Pavel Loskot
+ZJUI
+Math 213 &
+Math 257 &
+(Math 285 or
+286)
+ECE
+498EAI
+Embodied Artificial
+Intelligence
+3
+Gaoang WANG
+ZJUI
+Math 257 &
+ECE 313
+CS 442
+Trustworthy
+machine learning
+3
+Zuozhu
+LIU/Yushi
+CHENG
+ZJUI
+CS225 &
+(Math221 or
+Math257)
+CS 450
+Numerical Analysis
+3
+Hao YANG
+ZJUI
+(CS101 or ECE
+120 or ECE
+220) & MATH
+285 &
+(MATH257 or
+MATH225)
+ME 320
+Heat Transfer
+4
+Weeliat
+ONG/Sanjiv
+Sinha (UIUC)
+UIUC
+ME200 &
+(ME310 or
+TAM335) &
+MATH285
+ME 371
+Mechanical Design
+II
+3
+Timothy
+LEE/Brian
+Mercer (UIUC)
+UIUC
+(CEE330 or
+(ME330 or
+concurrent))
+& ME370
+ME 412
+Numerical
+Thermo-Fluid
+Mechanics
+3
+Jiahuan CUI
+ZJUI
+(ME310 or
+TAM335) &
+(ME320 or
+concurrent)
+ME 453
+Data Science in
+Manufacturing
+Quality Control
+3
+R. Toro
+Santamaria
+(UIUC online)
+UIUC calendar
+UIUC
+ME270 &
+(STAT400 or
+IE300) &
+MATH257
+ME 471
+Finite Element
+Analysis
+3
+Yasutaka
+Narazaki
+ZJUI
+CS 101 & ME
+371 or TAM
+470
+CEE 416
+Traffic Capacity
+Analysis
+3
+Simon HU/Ray
+Benekohal
+(UIUC)
+UIUC
+CEE310
+2026/2/22 11:23
+Course Offering in FA 2025
+https://zjuintl.sharepoint.com/sites/ZJUIUG/SitePages/ZJUI-Course-Offerings-in-Fall-Semester-2025.aspx?csf=1&web=1&e=q2i9Td&CID=e32ea…
+6/10
+
+COURSE
+CODE
+COURSE NAME
+AU
+INSTRUCTORS
+COURSE
+TYPE
+Pre-requisite
+CEE 434
+Environmental
+Systems I
+3
+Tingju
+ZHU/Ximing Cai
+(UIUC)
+UIUC
+CEE350
+CEE 460
+Steel Structures I
+3
+Zhi LI
+ZJUI
+CEE360
+CEE 470
+Structural Analysis
+4
+Binbin LI/Bill
+Spencer (UIUC)
+UIUC
+CEE360
+CEE 495
+Professional
+Practice
+0
+Jeff Roesler
+(UIUC Online)
+UIUC calendar
+UIUC
+ 
+ 
+E. Liberal Education courses (GenEd)
+1. CivE required: CEE 495, CEE 460 and CEE 470 (structure area), CEE 434 (water
+resource area), CEE 416 (transportation area).
+2. ME required: ME 320, ME 371.
+3. CS 450 can be used by CivEs as a Sci Elective. CS 450 will be transferred to
+UIUC as CS 357. Students cannot receive credits for both CS 450 and CS 357. 
+4. Senior students should check degree audit in PS system and enroll the
+technical electives/GedEd courses according to the curriculum requirements
+of your major.
+5. Students that enroll ECE 464, are required to enroll ECE 469 concurrently.
+6. CS 442 can be used as a free elective course.
+7. CS 3-- and 4-- courses, such as CS 412, CS 442 and CS 450, cannot be used to
+confer CS minor, if it is a transferred credit.
+8. For ECE 470/ME 445, EE and CompE students should enroll ECE 470, if choose
+this course. ME student should enroll ME 445.
+9.  ECE 498MF, ECE 498EAI and CS 442 still need further confirmation from UIUC
+before they are used as tech electives.
+1. Liberal Education courses fall into various categories.
+HUM - Humanities and the Arts
+SBS - Social and Behavioral Sciences
+a. HP - Historical and Philosophical Perspectives
+b. LA - Literature and the Arts
+2026/2/22 11:23
+Course Offering in FA 2025
+https://zjuintl.sharepoint.com/sites/ZJUIUG/SitePages/ZJUI-Course-Offerings-in-Fall-Semester-2025.aspx?csf=1&web=1&e=q2i9Td&CID=e32ea…
+7/10
+
+No.
+Course
+Number
+Course Titles
+Credits
+Categories
+Language
+Name
+1
+CLCV
+115*
+Mythology of
+Greece and
+Rome
+3
+WCC/LA/AE
+English
+朱振宇
+Zhu
+Zhengyu
+2
+ECON
+102
+Introduction to
+Microeconomics
+3
+SS
+English
+周默涵
+Zhou
+Mohan
+3
+PHIL
+101
+Introduction to
+Philosophy
+3
+HP
+English
+曾劭愷
+Tseng
+Shaokai
+4
+ECON
+103
+Macroeconomic
+Principles
+3
+SS
+English
+叶兵 Ye
+Bing
+5
+CMN
+280
+Communication,
+Technology and
+Society
+3
+SS
+English
+赵瑜佩
+Zhao
+Yupei
+6
+UNWL
+316*
+Modern Chinese
+Literature
+3
+NW/LA/AE
+Chinese
+张广海
+Zhang
+CS - Cultural Studies
+a. BSC - Behavioral Sciences
+b. SS - Social Sciences
+a. NW - Non-Western Culture(s)
+b. US - US Minority Cultures
+c. WCC - Western/Comparative Culture(s)
+2. You need to enroll the GenEd courses that satisfy both total AU number and
+AUs in each category and subcategory. For the GenEd you are required to
+satisfy, please check “Liberal Education” in section 4 of your curriculum.
+3. You can take GenEd courses in any semester at either ZJUI or UIUC, as long
+as the semester AU cap permits.
+4. All the GenEd course offered on Haining campus are ZJUI courses and AU is
+counted into total AU number for semester cap.
+5. One (1) Aesthetic Education (AE) courses are required by ZJU degree.
+6. The GenEd courses offered in FA 2025 is shown as following: 
+2026/2/22 11:23
+Course Offering in FA 2025
+https://zjuintl.sharepoint.com/sites/ZJUIUG/SitePages/ZJUI-Course-Offerings-in-Fall-Semester-2025.aspx?csf=1&web=1&e=q2i9Td&CID=e32ea…
+8/10
+
+
+
+Guanghai
+*Count as ZJU Aesthetic Education course.
+ 
+2. ZJU courses
+ 
+ 
+FALL
+Semester
+Chinese/
+International
+students
+Course
+Code
+Course Title
+Freshmen
+Chinese students
+MITR1001
+军训/Military Training
+Freshmen
+Chinese students
+PE1001
+体育Ⅰ/Physical Education I
+Freshmen
+Chinese students
+PS1001A
+形势与政策Ⅰ/Situation and Policy I
+Freshmen
+Chinese students
+ENGL1001
+综合英语Ⅰ/Integrated English I
+Freshmen
+Chinese students
+PHIL2002
+马克思主义基本原理/Introduction to
+the Principle of Marxism
+Freshmen
+Chinese students
+PS2011
+毛泽东思想和中国特色社会主义理论体
+系概论/ Intro.to Mao Thought &
+Theoretical System of China Socialism
+Freshmen
+International
+students
+CHIN1001
+基础汉语Ⅰ/Chinese Ⅰ
+sophomore
+Chinese students
+PS2011
+毛泽东思想和中国特色社会主义理论体
+系概论/ Intro.to Mao Thought &
+Theoretical System of China Socialism
+sophomore
+Chinese students
+PE2001
+体育Ⅲ/Physical Education Ⅲ
+sophomore
+Chinese students
+PS2001A
+形势与政策Ⅱ/Situation and Policy Ⅱ
+sophomore
+Chinese students
+MITR2001
+军事理论/Military Theory
+sophomore
+International
+students
+CHIN1003
+基础汉语Ⅲ/Chinese Ⅲ
+sophomore
+International
+students
+CULT2001
+中国概况
+Junior
+Chinese students
+PS2001C
+形势与政策Ⅱ/Situation and Policy Ⅱ
+2026/2/22 11:23
+Course Offering in FA 2025
+https://zjuintl.sharepoint.com/sites/ZJUIUG/SitePages/ZJUI-Course-Offerings-in-Fall-Semester-2025.aspx?csf=1&web=1&e=q2i9Td&CID=e32ea…
+9/10
+
+senior
+Chinese students
+PS3011
+习近平新时代中国特色社会主义思想概
+论/General Introduction to Xi Jinping
+Thought on Socialism with Chinese
+Characteristics for a New Era
+senior
+Chinese students
+PE4021
+体育Ⅶ/Physical Education Ⅶ--Fitness
+test and exercise
+senior
+Chinese students
+PS2001E
+形势与政策Ⅱ/Situation and Policy Ⅱ
+ 
+ 
+ 
+ 
+ 
+Office of Undergraduate Academic Affairs at ZJU-UIUC Institute
+2026/2/22 11:23
+Course Offering in FA 2025
+https://zjuintl.sharepoint.com/sites/ZJUIUG/SitePages/ZJUI-Course-Offerings-in-Fall-Semester-2025.aspx?csf=1&web=1&e=q2i9Td&CID=e32e…
+10/10

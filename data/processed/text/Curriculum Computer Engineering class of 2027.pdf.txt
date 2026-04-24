@@ -1,0 +1,1241 @@
+ 
+ 
+ 
+ 
+ 
+ 
+Curriculum 
+of 
+Computer Engineering  
+For 
+Class of 2027 
+ 
+ 
+ 
+ 
+ 
+ 
+Zhejiang University/University of Illinois Urbana-Champaign Institute 
+(ZJU-UIUC INSTITUTE) 
+ 
+
+Computer Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 1 ~ 
+Table of Contents 
+ 
+1. 
+Overview ........................................................................................................................ 2 
+2. 
+Graduation Requirement ............................................................................................. 2 
+3. 
+Required Courses ......................................................................................................... 4 
+4. 
+Elective Courses ........................................................................................................... 6 
+5. 
+ZJU Required General Education ............................................................................ 11 
+6. 
+Course Schedule Sample by Semester .................................................................. 12 
+6.1 
+First Year-First (Fall) Semester .................................................................... 12 
+6.2 
+First Year-Second (Spring) Semester ......................................................... 13 
+6.3 
+Second Year-First (Fall) Semester ............................................................... 13 
+6.4 
+Second Year-Second (Spring) Semester .................................................... 14 
+6.5 
+Third Year-First (Fall) Semester ................................................................... 15 
+6.6 
+Third Year- Second (Spring) Semester ....................................................... 15 
+6.7 
+Fourth Year-First (Fall) Semester ................................................................. 16 
+6.8 
+Fourth Year- Second (Spring) Semester ..................................................... 16 
+7. 
+Curriculum Flow Map ................................................................................................. 18 
+ 
+ 
+ 
+
+Computer Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 2 ~ 
+1. Overview 
+The Zhejiang University/University of Illinois Urbana-Champaign Institute (ZJU-UIUC Institute) 
+offers a joint dual-degree engineering program. Upon successful completion of the program, 
+and after meeting the graduation requirements of both universities, students will obtain 
+bachelor’s degrees separately from Zhejiang University (ZJU) and University of Illinois Urbana-
+Champaign (UIUC). 
+Computer engineering focuses on the development of vital computing technologies, ranging 
+from chips to computers to networks to programming tools to key algorithms for building 
+exciting applications. Fundamentally, computer engineering addresses the problem of building 
+scalable, trustworthy computing systems, and the faculty's interests span a broad spectrum of 
+issues pertinent to this theme. Computer engineering has taken the lead in revolutionizing 
+many science and engineering disciplines with parallel computing, from chips to clouds to 
+planet-scale critical infrastructures, and has defined new standards of security, privacy, and 
+dependability for systems ranging from small circuits to the electric power grids of many 
+nations. Students need a broad and sound set of mathematical and computing skills and are 
+well-served by a flexible curriculum that enables them to pursue topics of interest among the 
+many sub-disciplines in computing. 
+The core curriculum of the Computer Engineering program focuses on the fundamental 
+computer engineering knowledge: circuits, systems, electromagnetics, computer systems, 
+electronics for information processing and communication, and computer science. The rich set 
+of ECE elective courses permits students to concentrate on any sub-discipline of computer 
+engineering, including hardware systems; cyber physical systems; foundations and theory; 
+software and languages; algorithms and mathematical tools; trust, reliability, security; 
+networking, mobile and distributed computing; big data analytics and systems; artificial 
+intelligence, robotics, cybernetics. 
+During their junior and senior years students are encouraged to take courses and participate 
+in research projects in interdisciplinary areas with Civil and Environmental Engineering, 
+Mechanical Engineering, Electrical Engineering, and others. 
+ 
+2. Graduation Requirement 
+2.1 Graduation Requirements for UIUC degree 
+2.1.1 
+Grade Point Average Requirement 
+A student must maintain a minimum GPA of 2.0 (A=4.0) to remain in good standing and 
+graduate. UIUC degree is subjected to the final review by UIUC. 
+2.1.2 
+Junior Eligibility Requirement 
+To be eligible to enroll in the ECE courses listed in the third year of the curriculum, a student 
+must have completed, with a combined 2.25 grade point average, the mathematics, physics, 
+computer science, and electrical and computer engineering courses listed in the first two years. 
+
+Computer Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 3 ~ 
+2.1.3 
+Curriculum Requirement 
+The curriculum leading to the degree of Bachelor of Science in Computer Engineering at UIUC 
+requires 128 academic credits (or academic units, AUs) and is organized into required courses, 
+technical electives, general education, and other electives.  
+i). Required courses, see section 3 for details. 
+Academic Credit 
+a) Orientation and Professional Development  
+1 
+b) Basic Sciences and Mathematics 
+29 
+c) Technical Core  
+36 
+d) Composition 
+8 
+e) Advanced Composition* 
+4 
+Total Required AUs: 
+78 
+ 
+ 
+ii). Elective courses, see section 4 for details. 
+ 
+a) Technical Electives 
+30 
+b) General Education 
+12 
+c) Free Electives 
+12 
+Total Required AUs: 
+54 
+*Students take ECE 445 to satisfy advance composition and technical elective requirement, and 
+credits can be given for both. 
+ 
+2.1.4 
+Additional requirements  
+For UIUC degree, in addition to the specific course and grade point average requirements 
+listed above, each candidate for a bachelor’s degree from UIUC must meet the following 
+requirements: 
+i). Residency Requirement  
+Earn a minimum sixty (60) academic units of UIUC credit, of which at least twenty-one (21) 
+AUs must be 300 or 400 level UIUC credit courses.  
+ii). Transfer Requirement  
+Students should have a satisfactory English Proficiency Test score on TOEFL, IELTS or other 
+exams approved by UIUC, and maintain a good standing on academic studies that all term 
+GPAs, overall GPA on UIUC courses are suggested to be above 2.5. In junior year, students 
+will apply for international transfer to be admitted to UIUC and change academic status from 
+non-degree student to degree student in Fall semester of senior year.  
+2.2 Graduation Requirements for ZJU degree 
+
+Computer Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 4 ~ 
+In addition to the 128-AU requirement listed above, the curriculum leading to the degree of 
+Bachelor of Engineering from ZJU requires students to complete additional 33.5 academic 
+credits of ZJU-required general education courses for domestic students and additional seven 
+courses (23 AUs) in Chinese language and society study for international students. Please 
+refer to section 5 for details. 
+ 
+3. Required Courses 
+3.1 Orientation and Professional Development 
+This course introduces students to the opportunities and resources our institute and curriculum 
+can offer you as you work to achieve your career goals. It also provides the skills to work 
+effectively and successfully in the engineering profession. 
+Course Code 
+Course Name 
+Academic Credit 
+ENG 100 
+Engineering Orientation 
+1 
+ 
+Total Required AUs: 
+1 
+ 
+3.2 Foundational Mathematics and Science 
+These courses emphasize the fundamental mathematical and scientific principles upon which 
+the engineering discipline is based. 
+Course Code 
+Course Name 
+Academic Credits 
+MATH 221 
+Calculus I 
+4 
+MATH 231 
+Calculus II 
+3 
+MATH 241 
+Calculus III 
+4 
+MATH 257 
+Linear Algebra with Computational Application 
+3 
+MATH 285 
+Introduction to Differential Equation 
+3 
+PHYS 211 
+University Physics: Mechanics 
+4 
+PHYS 212 
+University Physics: Elec & Mag 
+4 
+PHYS 213 
+University Physics: Thermal Physics 
+2 
+PHYS 214 
+University Physics: Quantum Physics 
+2 
+ 
+Total Required AUs: 
+29 
+ 
+3.3 Technical Core 
+These courses emphasize fundamental concepts and basic laboratory techniques that 
+comprise the common intellectual understanding of electrical engineering. 
+
+Computer Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 5 ~ 
+Course Code 
+Course Name 
+Academic Credits 
+ECE 110 
+Introduction to Electronics 
+3 
+ECE 120 
+Introduction to Computing 
+4 
+ECE 210 
+Analog Signal Processing 
+4 
+ECE 220 
+Computer Systems & Programming 
+4 
+CS 173* 
+Discrete Structures 
+3 
+CS 225 
+Data Structures 
+4 
+ECE 313** 
+Probability with Engineering Application 
+3 
+ECE 374 
+Introduction to Algorithms & Models of 
+Computation 
+4 
+ECE 385 
+Digital Systems Laboratory 
+3 
+ECE 391 
+Computer Systems Engineering 
+4 
+ 
+Total Required AUs: 
+36 
+ * CS 173 can be substituted by Math 213 (Basic Discrete Mathematics, 3 AUs). 
+** ECE 313 can be substituted by STAT 410 (Statistics and Probability II, 3 AUs) 
+ 
+3.4 Composition 
+i) These courses teach fundamentals of expository writing. 
+Course Code 
+Course Name 
+Academic Credits 
+RHET 101 
+Principles of Writing 
+4 
+RHET 102 
+Principles of Research 
+4 
+ 
+Total Required AUs: 
+8 
+ 
+3.5 Advanced Composition  
+The Advanced Composition requirement is fulfilled by a writing-intensive course beyond 
+basic composition. It is normally taken in the junior or senior year. 
+Course Code 
+Course Name 
+Academic Credits 
+ECE 445* 
+Senior Design Project Lab  
+4 
+ 
+Total Required AUs: 
+4 
+* ECE 445 is also a required technical elective. 
+ 
+
+Computer Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 6 ~ 
+4. Elective Courses 
+4.1 Technical Electives1 
+These courses stress cross-disciplinary study, the rigorous analysis and design principles 
+practiced in the major sub-disciplines of computer engineering, for example cyber physical 
+systems; foundations and theory; software and languages; algorithms and mathematical tools; 
+trust, reliability, security; networking, mobile and distributed computing; big data analytics and 
+systems; artificial intelligence, robotics, cybernetics, etc. 
+Students must complete a minimum of thirty (30) AUs in technical electives, including at least: 
+Number of course Types of elective courses 
+Course list  
+Academic Credits 
+1) 
+1  
+EE Foundations courses 
+section 4.1.1 
+ 
+2) 
+3  
+Advanced Computing 
+Elective courses 
+section 4.1.2 
+ 
+3) 
+1  
+ECE 445 - Senior Design Project 
+Lab 
+ 
+ 
+4) 
+ 
+ Other 
+technical 
+elective 
+courses 
+section 4.1.4 
+ 
+ 
+Total required AUs: 
+30 
+For courses that fail in multiple categories of technical electives, the academic units of the 
+course will be counted to satisfy the AU requirements of each category, but will be counted 
+only once in satisfying the total minimum academic unit requirements (32 AUs) of technical 
+electives. 
+ 
+4.1.1 
+EE Foundation Courses 
+Select One (1) course from the following 6 EE Foundation Courses:  
+ECE: 310, 329, 330, 340, 461, 486. 
+Course Code Course Name 
+Academic Credits 
+ECE 310 
+Digital Signal Processing 
+3 
+ECE 329 
+Fields and Waves I 
+3 
+ECE 330 
+Power Circuits & Electromechanics 
+3 
+ECE 340 
+Semiconductor Electronics 
+3 
+ECE 461 
+Digital Communications 
+ 
+ECE 486 
+Control Systems 
+4 
+ 
+4.1.2 
+Advanced Computing Elective Courses 
+Following CS and ECE courses are listed as advanced computing electives. Some ECE ones 
+are cross listed with CS.  
+
+Computer Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 7 ~ 
+Select Three (3) courses from the courses listed in the following table: 
+Course Code 
+Course Name 
+Academic Credits 
+CS 357 
+Numerical Methods I 
+3 
+CS 411 
+Database Systems 
+3 
+CS 412 
+Introduction to Data Mining 
+3 
+CS 414 
+Multimedia Systems 
+3 
+CS 418 
+Interactive Computer Graphics 
+3 
+CS 419 
+Production Computer Graphics 
+3 
+CS 420 
+Parallel Programming: Scientists and Engineers 
+3 
+CS 421 
+Programming Languages & Compilers 
+3 
+CS 423 
+Operating Systems Design 
+3 
+CS 424 
+Real-Time Systems 
+3 
+CS 425 
+Distributed Systems 
+3 
+CS 426 
+Compiler Construction 
+3 
+CS 431 
+Embedded Systems 
+3 
+CS 436 
+Computer Networking Laboratory 
+3 
+CS 437 
+Topics in Internet of Things 
+3 
+CS 438 
+Communication Networks 
+3 
+CS 440 
+Artificial Intelligence 
+3 
+CS 441 
+Applied Machine Learning 
+3 
+CS 444 
+Deep Learning for Computer Vision 
+3 
+CS 446 
+Machine Learning 
+3 
+CS 450 
+Numerical Analysis 
+3 
+CS 461 
+Computer Security I 
+3 
+CS 473 
+Algorithms 
+4 
+CS 475 
+Formal Models of Computation 
+3 
+CS 476 
+Program Verification 
+3 
+CS 477 
+Formal Software Development Methods 
+3 
+CS 483 
+Applied Parallel Programming 
+3 
+ECE 407/CS 407 
+Cryptography 
+3 
+ECE 408/CS 483 
+Applied Parallel Programming 
+4 
+ECE 411 
+Computer Organization & Design 
+4 
+
+Computer Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 8 ~ 
+ECE 412 
+Microcomputer Laboratory 
+3 
+ECE 419/CS 460 
+Computer Security Laboratory 
+3 
+ECE 422/CS 461 
+Computer Security I 
+4 
+ECE 424/CS 463 
+Computer Security II 
+3 
+ECE 425 
+Intro to VLSI System Design 
+3 
+ECE 428/CS 425 
+Distributed Systems 
+3 
+ECE 434 
+Mobil Computing and Application 
+3 
+ECE 435/CS 436 
+Computer Networking Laboratory 
+3 
+ECE 438/CS 438 
+Communication Networks 
+3 
+ECE 439/CS 439 
+Wireless Networks 
+3 
+ECE 448/CS 440 
+Artificial Intelligence 
+3 
+ECE 449/CS 446 
+Machine Learning 
+3 
+ECE 462 
+Logic Synthesis 
+3 
+ECE 470 
+Introduction to Robotics 
+4 
+ECE 478/CS 477 
+Formal Software Development Methods 
+3 
+ECE 479 
+LoT and Cognitive Computing 
+3 
+ECE 484 
+Principles of Safe Autonomy 
+4 
+ECE 491/CS 450 
+Numerical Analysis 
+3 
+ECE 492/CS 420 
+Parallel Programming: Scientists and Engineers 
+3 
+ 
+4.1.3 
+Other Electives 
+Students are encouraged to build up their cross-discipline study by taking non-ECE technical 
+courses from Civil Engineering, Mechanical Engineering, Computer Science, and others at 
+ZJUI or during exchange at UIUC.  
+Select sufficient technical electives to satisfy the minimum academic units of technical 
+electives (30 AUs).  
+Note: The academic units of the courses in 4.1.1 and 4.1.2 will not be counted in 4.1.3. 
+Aerospace Eng. (AE): 202, 302, 311, 312, 321, 352, 353, 402, 403, 410, 412, 416, 419, 
+420, 428, 433, 434, 435, 451, 460 
+Agri. Bio Eng. (ABE): any 300- and 400-level course2 EXCEPT 440 
+Astronomy (ASTR): 210, 310, 330, 350, 404, 405, 406, 414, 450 
+Atmospheric Science (ATMS): 201, 301, 302, 303, 304, 305, 404, 405, 406, 410, 411, 420, 
+421, 447, 449 
+Biochemistry (BIOC): 406, 440, 446, 455 
+
+Computer Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 9 ~ 
+Bioengineering (BIOE): 201, 202, 302, 414, 415, 461, 467, 473, 476, 480, 485 
+Biophysics (BIOP): all 400-level courses1 
+Chem & Bio Eng (CHBE): 221, 321, 421, 422, 424, 430, 431, 440, 451, 452, 453, 456, 457, 
+471, 472, 473, 474 
+Chemistry (CHEM): Chem 104, 105, any 200/300/400-level2 class EXCEPT 396/7, 497, 499 
+Civil & Env. Eng. (CEE): 310, 330, 408, 410, 416, 430, 447, 491 
+Crop Sciences (CPSC): 265 
+Computer Science (CS): 242, 357, 410, 411, 412, 413, 414, 415, 416, 418, 419, 420, 421, 
+422, 423, 424, 425, 426, 427, 428, 429, 431, 433, 436, 438, 439 ,440, 445, 446, 447, 450, 460, 
+461, 463, 465, 466, 467, 473, 475, 476; 477, 481, 484. 
+ECE:  304, 307, 310, 311, 314, 329, 330, 333, 340, 342, 343, 350, 365, 380, 395, 402, 403, 
+407, 408, 410, 411, 412, 414, 415, 416, 417, 418, 419, 420, 421, 422, 424, 425, 428, 431, 432, 
+434, 435, 437, 438, 439, 441, 443, 444, 445, 446, 447, 448, 449, 451, 452, 453, 454, 455, 456, 
+457, 458, 459, 461, 460, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 476, 478, 
+479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492, 493, 495. 
+Geology (GEOL): 107, 208, 333, 380, 411, 417, 432, 436, 440, 450, 452, 460 
+Industrial Eng. (IE): 310, 330, 360, 361, 400, 410, 411, 412, 413, 420, 430, 431 
+Integrative Biology (IB): 150, 202, 203, 204, 302, 335, 348, 368, 401, 405, 420, 421, 426, 
+427, 431, 432, 440, 443, 444, 451, 452, 453, 461, 462, 463, 464, 467, 468, 471, 472, 473, 
+481, 482, 483, 485, 486 
+Linguistics (LING): 300, 406, 407, 427 
+Material Science & Engineering (MSE): 280, any 300/400-level1 class EXCEPT 304, 460, 
+461 
+Math: 347, 348, 357, 402, 403, 412, 413, 414, 415, 416, 417, 418, 423, 424, 425, 427,428, 
+432, 442, 444, 446, 447, 448, 450, 453, 473, 475, 481, 482, 484, 487, 489, 494 
+Molecular & Cellular Biology (MCB): 150, 250, 251, 252, 253, 300, 301, 314, 316, 354, 
+400, 401, 402, 403, 404, 406, 408, 410, 413, 419, 421, 424, 426, 430, 431, 433, 435, 446, 
+480 
+Mechanical Eng. (ME): 200, 310, 320, 330, 340, 370, 371, 400, 401, 402, 403, 404, 410, 
+411, 412, 420, 430, 431, 440, 445, 451, 452, 460, 461, 471, 472, 485, and 487 
+Music (MUS): 407, 409 
+Neuroscience (NEUR): 453 
+Nuclear Plasma & Radiological (NPRE): 201, 247, 402, 412, 421, 423, 429, 431, 432, 435, 
+441, 442, 444, 446, 447, 448, 451, 455, 457, 458, 470, 475 
+Physics (PHYS): 225, 246, 325, 326, 370, 371, 401, 402, 403, 406, 419, 420, 427, 460, 466, 
+470, 485, 486, 487 
+
+Computer Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 10 ~ 
+Psychology (PSYC): 204 
+Speech & Hearing Science (SHS): 200, 240, 300, 301, 320, 450, and 470 
+Statistics (STAT): 420, 424, 425, 428, 429, and 440 
+Systems Eng (SE): 411, 420, 423, 424 
+Theoretical & Applied Mechanics (TAM): 211, 212, 251, 324, 335, 412, 435, 445, 451 
+1 except seminars and special topics courses, which may be reviewed in the Advising Office. 
+ 
+4.2 General Education 
+The general education courses develop students’ understanding of human culture and society, 
+build skills of inquiry and critical thinking, and lay a foundation for civic engagement and lifelong 
+learning. To satisfy the General Education requirements, students must complete a minimum 
+of twelve (12) AUs in general education courses. Students must take all courses for grade 
+and complete sufficient courses in required categories based on the table below: 
+Required course category 
+Number of courses 
+Academic Credits 
+1) Humanities & Arts 
+Two (2) 
+6 
+2) Social & Behavioral Sciences1  
+Two (2) 
+6 
+Additional Requirements: 
+i) Culture Studies2  
+ 
+ 
+Western/Comparative Culture(s) 
+One (1) 
+3 
+Non-Western Culture(s) 
+One (1) 
+3 
+U.S. Minority Culture(s)3 
+One (1) 
+3 
+ii) Aesthetic Education4 
+One (1) 
+3 
+ 
+Total required AUs: 
+12 
+1 One of the Social and Behavioral Science courses is recommended to be an introductory economics course 
+(ECON 102 or ECON 103). 
+2 Proper selection of Social and Behavioral Sciences and in Humanities and the Arts courses will assure that 
+these courses also fulfill Western, non-Western and US Minority Cultures requirements. 
+3 Not required if students pursue ZJU degree only. 
+4 Required only for ZJU degree. 
+ 
+For courses that fail in multiple categories of general education, the academic units of the 
+course will be counted to satisfy the AU requirements of each category, but be counted only 
+once in satisfying the total minimum academic unit requirements (12 AUs) of general education. 
+ 
+4.3 Free Electives 
+These unrestricted electives give students the opportunity to explore any intellectual area of 
+unique interest. This freedom plays a critical role in helping students define their research 
+specialties. Students are encouraged to take cross-disciplinary courses as free electives. 
+
+Computer Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 11 ~ 
+Students must complete a minimum of twelve (12) AUs in free electives. 
+ 
+5. ZJU Required General Education 
+These courses introduce modern Chinese history, social development, government policies, 
+etc., and help students improve their English and maintain a healthy lifestyle.  
+5.1 For domestic students 
+Domestic students must complete all the courses below to fulfill the graduation requirements 
+for the Bachelor of Engineering Degree at ZJU. These courses can be taught in Chinese. The 
+academic credits in this section are additional to 128 AUs of credits required for UIUC degree. 
+Course Code Course Name 
+Academic Credits 
+LAW 1002 
+Ideology, Morality and Rule of Law 
+3 
+HIST 2001 
+Modern Chinese History 
+3 
+PHIL 2002 
+Introduction to the Principle of Marxism 
+3 
+PS 2011 
+Intro.to Mao Thought & Theoretical System of China 
+Socialism 
+3 
+PS 3011 
+General Introduction to Xi Jinping Thought on 
+Socialism with Chinese Characteristics for a New Era 
+3 
+PS 1001 
+Situation and Policy I 
+1 
+PS 2001 
+Situation and Policy II 
+1 
+ENGL 1001 
+Integrated English I 
+1.5 
+ENGL 1002 
+Integrated English II 
+1.5 
+ENGL 2001 
+Advanced Spoken English I 
+1.5 
+ENGL 2002 
+Advanced Spoken English II 
+1.5 
+PE 1001 
+Physical Education I 
+1 
+PE 1002 
+Physical Education II 
+1 
+PE 2001 
+Physical Education III 
+1 
+PE 2002 
+Physical Education IV 
+1 
+PE 4021 
+Physical Education VII-Fitness test and exercise 
+0.5 
+MITR 1001 
+Military Training 
+2 
+MITR 2001 
+Military Theory 
+2 
+ST 4001 
+Senior Thesis 
+2 
+ 
+Total Required AUs: 
+33.5 
+
+Computer Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 12 ~ 
+ 
+5.2 For International students 
+International students are required to complete the following courses in Chinese language 
+study and Chinese society to fulfill the graduation requirements along with the above 128 credit 
+AUs of courses towards the Bachelor of Engineering Degree at ZJU.  
+Course Code 
+Course Name 
+Academic Credits 
+CHIN 1001 
+Chinese I 
+4 
+CHIN 1002 
+Chinese II 
+4 
+CHIN 1003 
+Chinese III 
+4 
+CHIN 1004 
+Chinese IV 
+4 
+CHIN 1005 
+International Chinese Language Proficiency 
+and Testing 
+2 
+CULT 2001 
+China Survey 
+3 
+ST 4001 
+Senior Thesis 
+2 
+ 
+Total Required AUs: 
+23 
+ 
+6. 
+Course Schedule Sample by Semester 
+6.1 
+ First Year-First (Fall) Semester 
+List of ZJUI/UIUC courses for both domestic and international students 
+No Course Code Course Name 
+Academic Credits 
+1 
+Rhet 101 
+Principles of Writing 
+4 
+2 
+Math 221* 
+Calculus I 
+4 
+3 
+ECE 110 
+Intro to Electronics 
+3 
+4 
+ECE 120 
+Introduction to Computing 
+4 
+5 
+Eng 100  
+Engineering Orientation 
+1 
+5 
+GenEd 1 
+3 
+  
+  
+Total: 
+19 
+* MATH 213 can be selected if MATH 221 is exempted. 
+ 
+List of ZJU courses for domestic students 
+No 
+Course Code 
+Course Name 
+Academic Credits 
+
+Computer Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 13 ~ 
+1 
+MITR 1001 
+Military Training  
+2 
+2 
+ENGL 1001 
+Integrated English I 
+1.5 
+3 
+PE 1001 
+Physical Education I 
+1 
+4 
+PS 1001 
+Situation and Policy I 
+ 
+ 
+List of ZJU courses for International students 
+No Course Code Course Name 
+Academic Credits 
+1 
+CHIN 1001 
+Chinese I 
+4 
+ 
+6.2 
+First Year-Second (Spring) Semester 
+List of ZJUI/UIUC courses for both domestic and international students 
+No Course Code Course Name 
+Academic Credits 
+1 
+Rhet 102 
+Principles of Research 
+4 
+2 
+Math 231 
+Calculus II 
+3 
+3 
+Phys 211 
+University Physics: Mechanics  
+4 
+4 
+ECE 220 
+Computer Systems & Programming 
+4 
+5 
+MATH 257 
+Linear Algebra with Computational Application 
+3 
+  
+  
+Total: 
+18 
+List of ZJU Courses for domestic students 
+No Course Code Course Name 
+Academic Credits 
+1 
+LAW 1002 
+Ideology, Morality and Rule of Law 
+3 
+2 
+ENGL 1002 
+Integrated English II 
+1.5 
+3 
+PE 1002 
+Physical Education II 
+1 
+4 
+PS 1001B 
+Situation and Policy I 
+1 
+ 
+List of ZJU Courses for international students 
+No Course Code Course Name 
+Academic Credits 
+1 
+CHIN 1002 
+Chinese II 
+4 
+ 
+6.3 
+Second Year-First (Fall) Semester 
+List of ZJUI/UIUC courses for both domestic and international students 
+
+Computer Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 14 ~ 
+No 
+Course Code 
+Course Name 
+Academic Credits 
+1 
+Math 241  
+Calculus III 
+4 
+2 
+Phys 212   
+University Physics: Elec& Mag 
+4 
+3 
+ECE 313/314 Probability with Engineering Applications/Lab 
+4 
+4 
+Math 213 
+Basic Discrete Mathematics 
+3 
+5 
+GenEd 21 
+General Education Elective 
+3 
+ 
+  
+Total: 
+18 
+1 Suggest selecting ECON 102 or ECON 103. 
+ 
+List of ZJU Courses for domestic students 
+No 
+Course Code 
+Course Name 
+Academic Credits 
+1 
+PS 2011 
+Intro.to Mao Thought & Theoretical System of 
+China Socialism 
+3 
+2 
+ENGL 2001 
+Advanced Spoken English I 
+1.5 
+3 
+PE 2001 
+Physical Education III 
+1 
+4 
+MITR 2001 
+Military Theory 
+2 
+5 
+PS 2001 
+Situation and Policy II 
+ 
+List of ZJU Courses for international students 
+No 
+Course Code 
+Course Name 
+Academic Credits 
+1 
+CHIN 1003 
+Chinese III 
+4 
+2 
+CULT 2001 
+China Survey 
+3 
+ 
+6.4 
+Second Year-Second (Spring) Semester 
+List of ZJUI/UIUC courses for both domestic and international students 
+No 
+Course Code 
+Course Name 
+Academic Credits 
+1 
+Math 285 
+Intro to Differential Eq 
+3 
+2 
+Phys 213 
+Univ Physics: Thermal Physics 
+2 
+3 
+Phys 214 
+Univ Physics: Quantum Physics 
+2 
+4 
+ECE 210 
+Analog Signal Processing 
+4 
+5 
+CS 225 
+Data Structure 
+4 
+6 
+GenEd 3 
+General Education Elective 
+3 
+  
+  
+Total: 
+18 
+
+Computer Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 15 ~ 
+ 
+List of ZJU Courses for domestic students 
+No 
+Course Code Course Name 
+Academic Credits 
+1 
+HIST 2001 
+Modern Chinese History 
+3 
+2 
+PHIL 2002 
+Introduction to the Principle of Marxism 
+3 
+3 
+ENGL 2002 
+Advanced Spoken English II 
+1.5 
+4 
+PS 2001 
+Situation and Policy II 
+ 
+5 
+PE 2002 
+Physical Education IV 
+1 
+ 
+List of ZJU Courses for domestic students 
+No 
+Course Code 
+Course Name 
+Academic Credits 
+1 
+CHIN 1004 
+Chinese IV 
+4 
+2 
+CHIN 1005 
+International Chinese Language Proficiency 
+and Testing 
+2 
+ 
+6.5 
+Third Year-First (Fall) Semester 
+No 
+Course Code 
+Course Name 
+Academic Credits 
+1 
+EE Foundation 
+One of ECE 310, 329, 330, 340, 486 
+3 
+2 
+ECE 391 
+Computer Systems Engineering 
+4 
+3 
+Tech Elec 
+Technical Elective 
+3 
+4 
+Tech Elec 
+Technical Elective 
+3 
+5 
+GenEd 4 
+General Education Elective 
+3 
+  
+  
+Total: 
+16 
+6.6 
+Third Year- Second (Spring) Semester 
+No 
+Course Code 
+Course Name 
+Academic 
+Credits 
+1 
+ECE 374 
+Introduction to Algorithms & Models of 
+Computation 
+4 
+2 
+ECE 385 
+Digital Systems Laboratory 
+3 
+3 
+Tech Elec 
+Technical Elective 
+3 
+4 
+Tech Elec 
+Technical Elective 
+3 
+  
+  
+Total: 
+13 
+
+Computer Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 16 ~ 
+6.7 
+Fourth Year-First (Fall) Semester 
+List of ZJUI/UIUC courses for both domestic and international students 
+No 
+Course Code Course Name 
+Academic Credits 
+1 
+Tech Elec 
+Technical Elective 
+3 
+2 
+Tech Elec 
+Technical Elective 
+3 
+3 
+Tech Elec 
+Technical Elective 
+3 
+4 
+Free Elec 
+Free Elective 
+3 
+5 
+Free Elec 
+Free Elective 
+3 
+  
+  
+Total: 
+15 
+ 
+List of ZJU Courses for domestic students 
+No 
+Course Code 
+Course Name 
+Academic Credits 
+1 
+PS 3011 
+General Introduction to Xi Jinping Thought 
+on Socialism with Chinese Characteristics 
+for a New Era 
+3 
+2 
+PS 2001 
+Situation and Policy II 
+ 
+6.8 
+Fourth Year- Second (Spring) Semester 
+List of ZJUI/UIUC courses for both domestic and international students 
+No 
+Course Code Course Name 
+Academic Credits 
+1 
+ECE 445 
+Senior Design Project Lab 
+4 
+2 
+Tech Elec 
+Technical Elective 
+3 
+3 
+Tech Elec 
+Technical Elective 
+3 
+4 
+Free Elec 
+Free Elective 
+3 
+  
+  
+Total: 
+13 
+List of ZJU Courses for domestic students 
+No 
+Course Code 
+Course Name 
+Academic 
+Credits 
+1 
+PE 4021 
+Physical Education VII-Fitness test and exercise 
+0.5 
+2 
+PS 2001F 
+Situation and Policy II  
+1 
+3 
+ST 4001 
+Senior Thesis 
+2 
+ 
+List of ZJU Courses for international students 
+
+Computer Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 17 ~ 
+No 
+Course Code 
+Course Name 
+Academic Credits 
+1 
+ST 4001 
+Senior Thesis 
+2 
+ 
+ 
+
+Computer Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 18 ~ 
+7. 
+Curriculum Flow Map 
+The following flow map provides a quick summary of the main features of the Computer 
+Engineering curriculum. 
+ 
+ZJU Required General Education Course 
+ 

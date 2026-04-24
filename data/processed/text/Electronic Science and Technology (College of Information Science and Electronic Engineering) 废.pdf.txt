@@ -1,0 +1,518 @@
+Electronic Science and Technology, ISEE 
+ 
+COLLEGE OF INFORMATION SCIENCE AND ELECTRONIC ENGINEERING  
+(ISEE) 
+Electronic Science and Technology Curriculum (2020) 
+ 
+(Updated in May 2023) 
+ 
+1. Program Educational Objectives  
+Electronic Science and Technology focuses on the design and application of large and small scale 
+electronic systems to process and transmit energy and information in this professionally 
+accredited degree. This program has a balanced core and a flexible elective structure designed to 
+equip our graduates in the areas of electromagnetics, electronics and microelectronics, integrated 
+circuits, digital signal processing and photonics, etc. We expect our graduates to progress to 
+positions in industry or graduate study, or to carry the attributes of an engineering education into 
+other disciplines. These programs of study must include mathematics and basic sciences, 
+fundamentals and applications in several engineering sciences, and team-based experience in the 
+process of design, where theory is applied in the context of real-world needs and constraints, and 
+where judgement must be exercised. Our graduates should be able to think critically in solving 
+problems and managing tasks and communicates effectively in multidisciplinary professional 
+environments. To be a responsible member of the engineering profession, each graduate must be 
+aware of social, ethical, environmental and economic factors and constraints on engineering 
+activity, and must understand the importance of these matters in a global context. We aspire to 
+have our graduates exhibit intellectual depth and creativity, uphold high ethical standards, and 
+show a commitment to the betterment of society through service and professional work.  
+2. Graduation Requirement  
+The curriculum leading to the degree of Bachelor of Electronic Science and Technology from 
+ZJU requires 135 credits and is organized into required courses, technical electives, liberal 
+education, Chinese language and society study for international students, and other electives.  
+
+Electronic Science and Technology, ISEE 
+~ 1 ~ 
+3. Required Courses  
+3.1 Orientation and Professional Development  
+These courses introduce the opportunities and resources our institute and curriculum can offer 
+you as you work to achieve your career goals. They also provide the skills to work effectively 
+and successfully in the engineering profession. 
+ 
+Course Code 
+Course Name 
+Credit 
+ENGR 100 
+Engineering Orientation 
+1 
+ 
+3.2 Foundational Mathematics and Science  
+These courses stress the fundamental mathematical and scientific principles upon which the 
+engineering discipline is based. 
+ 
+Course Code 
+Course Name 
+Credit 
+MATH 221 
+Calculus I  
+4 
+MATH 231 
+Calculus Ⅱ 
+3 
+MATH 241 
+Calculus III 
+4 
+MATH 286 
+Intro Differential Equations  
+4 
+PHYS 211 
+University Physics: Mechanics  
+4 
+PHYS 212 
+University Physics: Elec& Mag  
+4 
+PHYS 213 
+Univ Physics: Thermal Physics 
+2 
+ 
+Total required 
+25 
+ 
+3.3 Technical Core  
+These courses stress fundamental concepts and basic laboratory techniques that comprise 
+the common intellectual understanding of electronic science and technology. 
+
+Electronic Science and Technology, ISEE 
+~ 2 ~ 
+ 
+Course Code 
+Course Name 
+Credit 
+ECE 110 
+Intro to Electronics 
+3 
+ECE 210 
+Analog Signal Processing 
+4 
+ECE 313 
+Probability with Eng App 
+3 
+ECE 329 
+Fields and Waves I 
+3 
+ECE 340 
+Semiconductor Electronics 
+3 
+ECE 342 
+Electronic Circuits 
+3 
+ECE 343 
+Electronic Circuits Laboratory 
+1 
+ECE 385 
+Digital Systems Laboratory 
+3 
+ECE 498FP 
+Fundamentals of Optoelectronics 
+3 
+ECE 498COD 
+Computer Organization and Design 
+3.5 
+ECE 498SS 
+Signals and Systems 
+4 
+ECE 498PI 
+Project Internship  
+2 
+ECE 498FTP 
+Final Term Project 
+12 
+ 
+Total required 
+47.5 
+ 
+4. Elective Courses  
+4.1 Technical Electives  
+This elective requirement gives each student the freedom to develop further in mathematics, 
+science and a technical course of study in Electronic Science and Technology of considerable 
+breadth and focus. Students must complete a minimum of 14.5 credits on technical electives. 
+ 
+Course Code 
+Course Name 
+Credit 
+CS 101 
+Intro to Computing: Engrg & Sci 
+3 
+CS 225 
+Data Structures 
+4 
+MATH213 
+Introduction to Discrete Mathematics 
+3 
+
+Electronic Science and Technology, ISEE 
+~ 3 ~ 
+MATH257 
+Linear Algebra with Computational Applications 
+3 
+CHEM102 
+General ChemistryⅠ 
+3 
+CHEM103 
+General Chemistry LabⅠ 
+1 
+CHEM104 
+General Chemistry II 
+3 
+CHEM105 
+General Chemistry Lab II 
+1 
+ECE 120 
+Introduction to Computing 
+4 
+ECE 310 
+Digital Signal Processing 
+3 
+ECE 311 
+Digital Signal Processing Lab 
+1 
+ECE 314 
+Probability in Engineering Lab 
+1 
+ECE 330 
+Power Circuits & Electromechanics 
+3 
+ECE 350 
+Fields and Waves II 
+3 
+ECE 365 
+Data Science and Engineering 
+3 
+ECE 374 
+Introduction to Algorithms & Models of Computation 
+4 
+ 
+4.2 Liberal Education  
+The liberal education courses develop students’ understanding of human culture and society, 
+build skills of inquiry and critical thinking, and lay a foundation for civic engagement and lifelong 
+learning. To satisfy the liberation education requirements, students must take all courses for 
+grade and complete courses based on the table below: 
+ 
+Category 
+Credit 
+1) Humanities & Arts (2 courses) 
+6 
+2) Social & Behavioral Sciences (2 courses) 
+6 
+3) Culture Studies  
+6 
+Western/Comparative Culture(s) (1 course) 
+Non-Western Culture(s) (1 course) 
+Total required 
+18 
+ 
+Appropriate choices in the Social and Behavioral Sciences and in the Humanities and Arts will 
+ensure that these courses also fulfil the requirements in the areas of Western and Non-
+Western Cultures. 
+
+Electronic Science and Technology, ISEE 
+~ 4 ~ 
+ 
+4.3 Free Electives  
+These unrestricted electives give the student the opportunity to explore any intellectual area 
+of unique interest. This freedom plays a critical role in helping students to define research 
+specialties. Students are encouraged to take cross-discipline courses as free electives for 9 
+credits. 
+5. Chinese Language and Society  
+These courses are compulsory for all international students. They introduce Chinese modern 
+history, social development, government policies, etc., and help students improve their 
+Chinese and understanding about China.  
+ 
+International students need to complete five courses (20 credit hours) in Chinese language 
+study and Chinese society to fulfill the graduate requirement. 
+Course Code 
+Course Name 
+Credit 
+CHIN 1001 
+Chinese Ⅰ 
+4 
+CHIN 1002 
+Chinese Ⅱ 
+5 
+CHIN 1003 
+Chinese Ⅲ 
+4 
+CHIN 1004 
+Chinese Ⅳ 
+4 
+CULT 2001 
+China Survey 
+3 
+ 
+Total required 
+20 
+ 
+
+Electronic Science and Technology, ISEE 
+ 
+COLLEGE OF INFORMATION SCIENCE AND ELECTRONIC ENGINEERING  
+(ISEE) 
+Electronic Science and Technology Curriculum (2021-) 
+ 
+(Updated in May 2023) 
+ 
+1. Program Educational Objectives  
+Electronic Science and Technology focuses on the design and application of large and small scale 
+electronic systems to process and transmit energy and information in this professionally 
+accredited degree. This program has a balanced core and a flexible elective structure designed to 
+equip our graduates in the areas of electromagnetics, electronics and microelectronics, integrated 
+circuits, digital signal processing and photonics, etc. We expect our graduates to progress to 
+positions in industry or graduate study, or to carry the attributes of an engineering education into 
+other disciplines. These programs of study must include mathematics and basic sciences, 
+fundamentals and applications in several engineering sciences, and team-based experience in the 
+process of design, where theory is applied in the context of real-world needs and constraints, and 
+where judgement must be exercised. Our graduates should be able to think critically in solving 
+problems and managing tasks and communicates effectively in multidisciplinary professional 
+environments. To be a responsible member of the engineering profession, each graduate must be 
+aware of social, ethical, environmental and economic factors and constraints on engineering 
+activity, and must understand the importance of these matters in a global context. We aspire to 
+have our graduates exhibit intellectual depth and creativity, uphold high ethical standards, and 
+show a commitment to the betterment of society through service and professional work.  
+2. Graduation Requirement  
+The curriculum leading to the degree of Bachelor of Electronic Science and Technology from 
+ZJU requires 135 credits and is organized into required courses, technical electives, liberal 
+education, Chinese language and society study for international students, and other electives.  
+
+Electronic Science and Technology, ISEE 
+~ 1 ~ 
+3. Required Courses  
+3.1 Orientation and Professional Development  
+These courses introduce the opportunities and resources our institute and curriculum can offer 
+you as you work to achieve your career goals. They also provide the skills to work effectively 
+and successfully in the engineering profession. 
+ 
+Course Code 
+Course Name 
+Credit 
+ENGR 100 
+Engineering Orientation 
+1 
+ 
+3.2 Foundational Mathematics and Science  
+These courses stress the fundamental mathematical and scientific principles upon which the 
+engineering discipline is based. 
+ 
+Course Code 
+Course Name 
+Credit 
+MATH 221 
+Calculus I  
+4 
+MATH 231 
+Calculus Ⅱ 
+3 
+MATH 241 
+Calculus III 
+4 
+MATH 285 
+Intro Differential Equations  
+3 
+PHYS 211 
+University Physics: Mechanics  
+4 
+PHYS 212 
+University Physics: Elec& Mag  
+4 
+PHYS 213 
+Univ Physics: Thermal Physics 
+2 
+ 
+Total required 
+24 
+ 
+3.3 Technical Core  
+These courses stress fundamental concepts and basic laboratory techniques that comprise 
+the common intellectual understanding of electronic science and technology. 
+
+Electronic Science and Technology, ISEE 
+~ 2 ~ 
+ 
+Course Code 
+Course Name 
+Credit 
+ECE 110 
+Intro to Electronics 
+3 
+ECE 210 
+Analog Signal Processing 
+4 
+ECE 220 
+Computer Systems & Programming 
+4 
+ECE 313 
+Probability with Eng App 
+3 
+ECE 329 
+Fields and Waves I 
+3 
+ECE 340 
+Semiconductor Electronics 
+3 
+ECE 385 
+Digital Systems Laboratory 
+3 
+ECE 498FP 
+Fundamentals of Optoelectronics 
+3 
+ECE 498COD 
+Computer Organization and Design 
+3.5 
+ECE 498SS 
+Signals and Systems 
+4 
+ECE 498PI 
+Project Internship  
+2 
+ECE 498FTP 
+Final Term Project 
+12 
+ 
+Total required 
+47.5 
+ 
+4. Elective Courses  
+4.1 Technical Electives  
+This elective requirement gives each student the freedom to develop further in mathematics, 
+science and a technical course of study in Electronic Science and Technology of considerable 
+breadth and focus. Students must complete a minimum of 15.5 credits on technical electives. 
+ 
+Course Code 
+Course Name 
+Credit 
+CS 101 
+Intro to Computing: Engrg & Sci 
+3 
+CS 225 
+Data Structures 
+4 
+MATH213 
+Introduction to Discrete Mathematics 
+3 
+
+Electronic Science and Technology, ISEE 
+~ 3 ~ 
+MATH257 
+Linear Algebra with Computational 
+Applications 
+3 
+CHEM102 
+General ChemistryⅠ 
+3 
+CHEM103 
+General Chemistry LabⅠ 
+1 
+CHEM104 
+General Chemistry II 
+3 
+CHEM105 
+General Chemistry Lab II 
+1 
+ECE 310 
+Digital Signal Processing 
+3 
+ECE 311 
+Digital Signal Processing Lab 
+1 
+ECE 314 
+Probability in Engineering Lab 
+1 
+ECE 330 
+Power Circuits & Electromechanics 
+3 
+ECE 343 
+Electronic Circuits Laboratory 
+1 
+ECE 350 
+Fields and Waves II 
+3 
+ECE 365 
+Data Science and Engineering 
+3 
+ECE 374 
+Introduction to Algorithms & Models of 
+Computation 
+4 
+ 
+4.2 Liberal Education  
+The liberal education courses develop students’ understanding of human culture and society, 
+build skills of inquiry and critical thinking, and lay a foundation for civic engagement and lifelong 
+learning. To satisfy the liberation education requirements, students must take all courses for 
+grade and complete courses based on the table below: 
+ 
+Category 
+Credit 
+1) Humanities & Arts (2 courses) 
+6 
+2) Social & Behavioral Sciences (2courses) 
+6 
+3) Culture Studies  
+6 
+Western/Comparative Culture(s) (1 course) 
+Non-Western Culture(s) (1 course) 
+Total required 
+18 
+ 
+
+Electronic Science and Technology, ISEE 
+~ 4 ~ 
+Appropriate choices in the Social and Behavioural Sciences and in the Humanities and Arts 
+will ensure that these courses also fulfil the requirements in the areas of Western and Non-
+Western Cultures. 
+ 
+4.3 Free Electives  
+These unrestricted electives give the student the opportunity to explore any intellectual area 
+of unique interest. This freedom plays a critical role in helping students to define research 
+specialties. Students are encouraged to take cross-discipline courses as free electives for 9
+（2021-2022）and 8 (2023-)  credits. 
+5. Chinese Language and Society  
+These courses are compulsory for all international students. They introduce Chinese modern 
+history, social development, government policies, etc., and help students improve their 
+Chinese and understanding about China.  
+ 
+International students need to complete courses in Chinese language study and Chinese 
+society to fulfill the graduate requirement. 
+ 
+ 
+2020-2022 
+2023- 
+Course Code 
+Course Name 
+Credit 
+Credit 
+CHIN 1001 
+Chinese Ⅰ 
+4 
+4 
+CHIN 1002 
+Chinese Ⅱ 
+5 
+4 
+CHIN 1003 
+Chinese Ⅲ 
+4 
+4 
+CHIN 1004 
+Chinese Ⅳ 
+4 
+4 
+CHIN1005 
+International Chinese Language 
+Proficiency and Testing 
+ 
+2 
+CULT 2001 
+China Survey 
+3 
+3 
+ 
+Total required 
+20 
+21 
+ 

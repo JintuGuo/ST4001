@@ -1,0 +1,526 @@
+Zhejiang University-University of Illinois Urbana-Champaign Institute 
+(ZJU-UIUC INSTITUTE) 
+Electrical Engineering and Automation 
+Curriculum 
+(Updated in August 2025) 
+1. Program Educational Objectives 
+Electrical engineering and Automation is a multifaceted discipline that over the last century 
+has produced an astounding progression of technological innovations that have shaped 
+virtually every aspect of modern life. Electrical engineers need a broad and solid foundation in 
+mathematics and physics to support their education in the engineering principles of analysis, 
+synthesis, design, implementation, and testing of the devices and systems that provide the 
+bedrock of modern energy, communication, sensing, computing, medical, security, and 
+defense infrastructures. Within each sub-discipline one can find application domains that 
+strongly rely on hands-on experimental work or that are based on theoretical, mathematical, 
+and computational approaches. The multidisciplinary nature of electrical engineering 
+education addresses the growing demand for the innovation and design of sensing, 
+communication, computing, and decision-making systems of increasing complexity in 
+consumer, defense, and medical applications. 
+2. Graduation Requirement 
+The curriculum leading to the degree of Bachelor of Engineering from ZJUI requires 137 credits 
+and is organized into required courses; technical electives; liberal education; and other 
+electives.  
+ 
+ 
+
+Electrical Engineering and Automation Curriculum, ZJU-UIUC Institute 
+~ 1 ~ 
+3. Required Courses 
+3.1 Orientation and Professional Development  
+These courses introduce the opportunities and resources our institute and curriculum can offer 
+you as you work to achieve your career goals. They also provide the skills to work effectively 
+and successfully in the engineering profession. 
+Course Code 
+Course Name 
+Credit 
+ENG 100 
+Engineering Orientation 
+1 
+ 
+3.2 Foundational Mathematics and Science 
+These courses stress the basic mathematical and scientific principles upon which the 
+engineering discipline is based. 
+ 
+Course Code 
+Course Name 
+2020 
+2021- 
+MATH 221 
+Calculus Ⅰ 
+4 
+4 
+MATH 231 
+Calculus Ⅱ 
+3 
+3 
+MATH 241 
+Calculus Ⅲ 
+4 
+4 
+MATH 257 
+Linear Algebra with Computational Application 
+ 
+3 
+MATH 285 
+Introduction to Differential Equation 
+ 
+3 
+MATH 286 
+Intro to Differential Equations Plus  
+4 
+ 
+CHEM 102 
+General ChemistryⅠ 
+3 
+3 
+CHEM 103 
+General Chemistry LabⅠ 
+1 
+1 
+PHYS 211 
+University Physics: Mechanics 
+4 
+4 
+PHYS 212 
+University Physics: Elec & Mag 
+4 
+4 
+PHYS 213 
+University Physics: Thermal Physics 
+2 
+2 
+PHYS 214 
+University Physics: Quantum Physics 
+2 
+2 
+ 
+Total required 
+31 
+33 
+ 
+ 
+ 
+
+Electrical Engineering and Automation Curriculum, ZJU-UIUC Institute 
+~ 2 ~ 
+3.3 
+Technical Core 
+These courses stress fundamental concepts and basic laboratory techniques that comprise 
+the common intellectual understanding of electrical engineering. 
+ 
+Course Code 
+Course Name 
+2020- 
+ECE 110 
+Intro to Electronics 
+3 
+ECE 120 
+Intro to Computing 
+4 
+ECE 220 
+Computer Systems & Programming 
+4 
+ECE 210 
+Analog Signal Processing 
+4 
+ECE 329 
+Fields and WavesⅠ 
+3 
+ECE 313 
+Probability with Engineering Application 
+3 
+ECE 385 
+Digital Systems Laboratory 
+3 
+ECE 340 
+Semiconductor Electronics 
+3 
+ECE 445 
+Senior Design Project Lab 
+4 
+ 
+Total required 
+31 
+4 Elective Courses 
+4.1 Technical Electives 
+This elective requirement gives each student the freedom to develop a technical course of 
+study in electrical engineering of considerable breadth and focus. The Advanced Core ECE 
+Electives are introductory to major sub-disciplines of electrical engineering, such as electrical 
+and computer engineering: bioengineering, acoustics, and magnetic resonance engineering; 
+circuits and signal processing; communication and control; computer engineering; 
+electromagnetics, optics, and remote sensing; microelectronics and quantum electronics; 
+power and energy systems. 
+ 
+Students must complete a minimum of total required hours on technical electives, which 
+include at least: 
+ 
+ 
+ 
+ 
+1) 
+2 courses 
+Non-ECE courses, see below section 4.1.1 for 
+detail. 
+ 
+ 
+
+Electrical Engineering and Automation Curriculum, ZJU-UIUC Institute 
+~ 3 ~ 
+2) 
+3 courses 
+Selected from the following list of Advanced Core 
+ECE electives, see below section 4.1.2 for detail. 
+ 
+ 
+3) 
+3 courses 
+ECE Labs, see below section 4.1.3 for detail.  
+ 
+ 
+4) 
+ 
+ECE courses, see below section 4.1.4 for detail. 
+ 
+ 
+ 
+Total required 
+ 
+30 
+4.1.1 Non-ECE Courses 
+Students are encouraged to build up their cross-discipline study by taking non-ECE technical 
+courses from Civil Engineering, Mechanical Engineering, Computer Science, and others at 
+ZJUI. Two courses are needed. 
+Course Code 
+Course Name 
+Credits 
+CEE 310 
+Transportation Engineering 
+3 
+ME 200 
+Thermodynamics 
+3 
+ME 320 
+Heat Transfer 
+4 
+ME 371 
+Mechanical Design II 
+3 
+ME 400 
+Energy Conversion Systems 
+3 or 4 
+ME 472 
+Introduction to Tribology 
+3 
+ME 412 
+Numerical Thermo-Fluid Mechs 
+2 to 4 
+ME 485 
+MEMS Devices & Systems 
+3 
+ME 498VS 
+Vacuum Engineering in Semiconductor Industry 
+3 
+TAM 211 
+Statics 
+3 
+TAM 212 
+Introductory Dynamics 
+3 
+TAM 251 
+Introductory Solid Mechanics 
+3 
+TAM 335 
+Introductory Fluid Mechanics 
+4 
+CS 101 
+Introduction to Computing: Engineering & Science 
+3 
+CS 225 
+Data Structures 
+4 
+CS 357 
+Numerical Methods I 
+3 
+CS 412 
+Introduction to Data Mining 
+3 or 4 
+CS 442 
+Trustworthy machine learning 
+3 
+
+Electrical Engineering and Automation Curriculum, ZJU-UIUC Institute 
+~ 4 ~ 
+CS 450 
+Numerical Analysis 
+3 or 4 
+ABE 436 
+Renewable Energy Systems 
+3 
+CHEM 104 
+General Chemistry II 
+3 
+CHEM 105 
+General Chemistry Lab II 
+1 
+MATH 213 
+Introduction to Discrete Mathematics 
+3 
+STAT 432 
+Basics of Statistical Learning 
+3 
+ 
+4.1.2 Advanced Core ECE 
+Select three courses from the list below: 
+ 
+Course Code 
+Course Name 
+Credits 
+ECE 391 
+Computer Systems Engineering or CS 225 - Data Structure 
+4 
+ECE 310 
+Digital Signal Processing 
+3 
+ECE 330 
+Power Circuits & Electromechanics 
+3 
+ECE 342 
+Electronic Circuits 
+3 
+ECE 350 
+Fields and Waves II 
+3 
+4.1.3 ECE Labs  
+Students must take 3 labs, at least one of which must be a hardware lab. 
+ 
+1) Hardware Labs 
+ 
+Course Code Course Name 
+Credits 
+ECE 343 
+Electronic Circuits Laboratory 
+1 
+ECE 438 
+Communication Networks 
+3 or 4 
+ECE 469 
+Power Electronics Laboratory 
+2 
+ECE 470 
+Introduction to Robotics 
+4 
+ECE 486 
+Control Systems 
+4 
+ 
+2) Software Labs 
+ 
+Course Code 
+Course Name 
+Credits 
+ECE 311 
+Digital Signal Processing Lab 
+1 
+ECE 314 
+Probability in Engineering Lab 
+1 
+ECE 365 
+Data Science and Engineering 
+3 
+
+Electrical Engineering and Automation Curriculum, ZJU-UIUC Institute 
+~ 5 ~ 
+ECE 391 
+Computer Systems Engineering 
+4 
+ECE 364 
+Programing Methods for Machine Learning 
+3 
+ 
+4.1.4 ECE courses 
+Course Code 
+Course Name 
+Credits 
+ECE 310 
+Digital Signal Processing 
+3 
+ECE 311 
+Digital Signal Processing Lab 
+1 
+ECE 314 
+Probability in Engineering Lab 
+1 
+ECE 342 
+Electronic Circuits 
+3 
+ECE 343 
+Electronic Circuits Laboratory 
+1 
+ECE 350 
+Fields and Waves II 
+3 
+ECE 365 
+Data Science and Engineering 
+3 
+ECE 374 
+Introduction to Algorithms & Models of Computation 
+4 
+ECE 391 
+Computer Systems Engineering 
+4 
+ECE 416 
+Biosensors 
+3 
+ECE 441 
+Physics & Modeling Semiconductor Device 
+3 
+ECE 448 
+Artificial Intelligence 
+3 or 4 
+ECE 449 
+Machine Learning 
+3 
+ECE 453 
+Wireless Communication Systems 
+4 
+ECE 457 
+Microwave Devices & Circuits 
+3 
+ECE 459 
+Communications Systems 
+3 
+ECE 464 
+Power Electronics 
+3 
+ECE 469 
+Power Electronics Laboratory 
+2 
+ECE 470 
+Introduction to Robotics 
+4 
+ECE 471 
+Data Science Analytics using Probabilistic Graph Models 
+3 
+ECE 476 
+Power System Analysis 
+3 
+ECE 485 
+MEMS Devices & Systems 
+3 
+ECE 486 
+Control Systems 
+4 
+ECE 491 
+Numerical Analysis 
+3  
+ECE 498MF 
+Mathematical Foundations for Machine Learning 
+3 
+ECE 498EAI 
+Embodied Artificial Intelligence 
+3 
+ 
+
+Electrical Engineering and Automation Curriculum, ZJU-UIUC Institute 
+~ 6 ~ 
+4.2 
+Liberal Education 
+The liberal education courses develop students’ understanding of human culture and society, 
+build skills of inquiry and critical thinking, and lay a foundation for civic engagement and lifelong 
+learning. To satisfy the General Education requirements, students must take all courses for 
+grade and complete courses based on the table below: 
+ 
+Category 
+Credit 
+1) Humanities & Arts (2 courses) 
+6 
+2) Social & Behavioral Sciences (2 courses) 
+6 
+3) Culture Studies  
+6 
+Western/Comparative Culture(s) (1 course) or 
+Non-Western Culture(s) (1 course) 
+Total required 
+18 
+ 
+To meet the General Education requirements, students need to select courses that fulfill 
+these four subcategories and accumulate a total of 18 credits. Properly chosen courses in 
+the Social and Behavioral Sciences and Humanities & Arts categories can also satisfy the 
+Western and non-Western culture requirements, ensuring that students receive a 
+comprehensive education. 
+ 
+4.3 
+Free Electives 
+These unrestricted electives give the student the opportunity to explore any intellectual area 
+of unique interest. This freedom plays a critical role in helping students to define research 
+specialties. Students are encouraged to take cross-discipline courses as free electives. 
+ 
+Free electives 
+2020 
+2021-2022 
+2023- 
+Total 
+4 
+2 
+1 
+ 
+
+Electrical Engineering and Automation Curriculum, ZJU-UIUC Institute 
+~ 7 ~ 
+5 ZJU Required Liberal Education 
+These courses introduce Chinese modern history, social development, government policies, 
+etc., help students to improve their English and maintain a healthy lifestyle.  
+International students need to complete Chinese language study and Chinese society to fulfill 
+the graduate requirement.  
+ 
+ 
+2020 
+2021-2022 
+2023- 
+Course 
+Code 
+Course Name 
+Credits 
+Credits Credits 
+CHIN 1001 
+Chinese I 
+4 
+4 
+4 
+CHIN 1002 
+Chinese II 
+5 
+5 
+4 
+CHIN 1003 
+Chinese III  
+4 
+4 
+4 
+CHIN 1004 
+Chinese IV 
+4 
+4 
+4 
+CHIN1005 
+International Chinese Language 
+Proficiency and Testing 
+ 
+ 
+2 
+CULT 2001 
+China Survey 
+3 
+3 
+3 
+ST 4001 
+Senior Thesis 
+ 
+2 
+2 
+ 
+Total 
+20 
+22 
+23 
+ 

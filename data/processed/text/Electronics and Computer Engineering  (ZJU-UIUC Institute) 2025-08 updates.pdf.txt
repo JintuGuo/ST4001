@@ -1,0 +1,623 @@
+Zhejiang University-University of Illinois Urbana-Champaign Institute 
+(ZJU-UIUC INSTITUTE) 
+Electronics and Computer Engineering 
+Curriculum 
+(Updated in August 2025) 
+1. Program Educational Objectives 
+Electronics and Computer engineering focuses on the development of vital computing 
+technologies, ranging from chips to computers to networks to programming tools to key 
+algorithms for building exciting applications. Fundamentally, computer engineering addresses 
+the problem of building scalable, trustworthy computing systems, and the faculty's interests 
+span a broad spectrum of issues pertinent to this theme. Computer engineering has taken the 
+lead in revolutionizing many science and engineering disciplines with parallel computing, from 
+chips to clouds to planet-scale critical infrastructures, and has defined new standards of 
+security, privacy, and dependability for systems ranging from small circuits to the electric 
+power grids of many nations. Students need a broad and sound set of mathematical and 
+computing skills and are well-served by a flexible curriculum that enables them to pursue topics 
+of interest among the many sub-disciplines in computing. 
+2. Graduation Requirement 
+The curriculum leading to the Bachelor of Engineering from ZJUI requires 137 hours and is 
+organized into required courses and elective courses. 
+
+Electronics and Computer Engineering Curriculum, ZJU-UIUC Institute 
+ 
+~ 1 ~ 
+3. Required Courses 
+3.1 
+Orientation and Professional Development 
+These courses introduce the opportunities and resources our institute and curriculum can offer 
+you as you work to achieve your career goals. They also provide the skills to work effectively 
+and successfully in the engineering profession. 
+ 
+Course Code 
+Course Name 
+Credit 
+ENG 100 
+Engineering Orientation 
+1 
+ 
+3.2 
+Foundational Mathematics and Science 
+These courses stress the basic mathematical and scientific principles upon which the 
+engineering discipline is based. 
+ 
+Course Code 
+Course Name 
+2020 
+2021- 
+MATH 221 
+Calculus I 
+4 
+4 
+MATH 231 
+Calculus II 
+3 
+3 
+MATH 241 
+Calculus III 
+4 
+4 
+MATH 257 
+Linear Algebra with Computational Application 
+ 
+3 
+MATH 285 
+Introduction to Differential Equation 
+ 
+3 
+MATH 286 
+Introduction to Differential Equation Plus 
+4 
+ 
+PHYS 211 
+University Physics: Mechanics 
+4 
+4 
+PHYS 212 
+University Physics: Elec & Mag 
+4 
+4 
+PHYS 213 
+Univ Physics: Thermal Physics 
+2 
+2 
+PHYS 214 
+Univ Physics: Quantum Physics 
+2 
+2 
+CHEM 102* 
+General Chemistry I 
+3 
+ 
+CHEM 103* 
+General Chemistry Lab I 
+1 
+ 
+ 
+Total 
+31 
+29 
+*Elective for CompEs on the Fall 2021 or later catalog year. 
+
+Electronics and Computer Engineering Curriculum, ZJU-UIUC Institute 
+ 
+~ 2 ~ 
+3.3 
+Technical Core 
+These courses stress fundamental concepts and basic laboratory techniques that comprise 
+the common intellectual understanding of computer engineering. 
+ 
+Course Code 
+Course Name 
+2020- 
+ECE 110 
+Introduction to Electronics 
+3 
+ECE 120 
+Introduction to Computing 
+4 
+ECE 210 
+Analog Signal Processing 
+4 
+ECE 220 
+Computer Systems & Programming 
+4 
+MATH 213 
+Basic Discrete Mathematics 
+3 
+CS 225 
+Data Structures 
+4 
+ECE 313 
+Probability with Engineering Application 
+3 
+ECE 374 
+Introduction to Algorithms & Models of Computation 
+4 
+ECE 385 
+Digital Systems Laboratory 
+3 
+ECE 445 
+Senior Design Project Lab  
+4 
+ 
+Total 
+36 
+4. Elective Courses 
+4.1 
+Technical Electives 
+These courses stress cross-disciplinary study, the rigorous analysis and design principles 
+practiced in the major sub-disciplines of computer engineering, for example cyber physical 
+systems; foundations and theory; software and languages; algorithms and mathematical tools; 
+trust, reliability, security; networking, mobile and distributed computing; big data analytics and 
+systems; artificial intelligence, robotics, cybernetics, etc. 
+ 
+Students must complete a minimum of total required hours on technical electives, which 
+include at least: 
+ 
+ 
+ 
+ 
+1) 
+2 courses 
+EE Foundations Courses, see section 4.1.1 for 
+detail. 
+ 
+ 
+
+Electronics and Computer Engineering Curriculum, ZJU-UIUC Institute 
+ 
+~ 3 ~ 
+2) 
+2 courses 
+Advanced Computing Electives, see section 
+4.1.2 for detail. 
+ 
+ 
+3) 
+Others 
+See section 4.1.3 for detail 
+ 
+ 
+ 
+Total required 
+ 
+29 
+ 
+4.1.1 EE Foundation Courses 
+Select 2 of 6 EE Foundation Courses:  
+ 
+Course Code 
+Course Name 
+Credits 
+ECE 310 
+Digital Signal Processing 
+3 
+ECE 330 
+Power Circuits & Electromechanics 
+3 
+ECE 329 
+Fields and Waves I 
+3 
+ECE 340 
+Semiconductor Electronics 
+3 
+ECE 461 
+Digital Communications 
+3 
+ECE 486 
+Control Systems 
+4 
+ 
+4.1.2 Advanced Computing Electives 
+Following CS and ECE courses are listed as advanced computing electives. Some ECE ones 
+are cross listed with CS. Select two of them. 
+ 
+Course Code 
+Course Name 
+Credits 
+CS 357 
+Numerical Methods I 
+3 
+CS 411 
+Database Systems 
+3 
+CS 412 
+Introduction to Data Mining 
+3 
+CS 414 
+Multimedia Systems 
+3 
+CS 418 
+Interactive Computer Graphics 
+3 
+CS 419 
+Production Computer Graphics 
+3 
+CS 420 
+Parallel Programming: Scientists and Engineers 
+3 
+CS 421 
+Programming Languages & Compilers 
+3 
+CS 423 
+Operating Systems Design 
+3 
+CS 424 
+Real-Time Systems 
+3 
+
+Electronics and Computer Engineering Curriculum, ZJU-UIUC Institute 
+ 
+~ 4 ~ 
+CS 425 
+Distributed Systems 
+3 
+CS 426 
+Compiler Construction 
+3 
+CS 431 
+Embedded Systems 
+3 
+CS 436 
+Computer Networking Laboratory 
+3 
+CS 437 
+Topics in Internet of Things 
+3 
+CS 438 
+Communication Networks 
+3 
+CS 440 
+Artificial Intelligence 
+3 
+CS 441 
+Applied Machine Learning 
+3 
+CS 444 
+Deep Learning for Computer Vision 
+3 
+CS 446 
+Machine Learning 
+3 
+CS 450 
+Numerical Analysis 
+3 
+CS 461 
+Computer Security I 
+3 
+CS 473 
+Algorithms 
+4 
+CS 475 
+Formal Models of Computation 
+3 
+CS 476 
+Program Verification 
+3 
+CS 477 
+Formal Software Development Methods 
+3 
+CS 483 
+Applied Parallel Programming 
+3 
+ECE 407/CS 407 
+Cryptography 
+3 
+ECE 408/CS 483 
+Applied Parallel Programming 
+4 
+ECE 411 
+Computer Organization & Design 
+4 
+ECE 412 
+Microcomputer Laboratory 
+3 
+ECE 419/CS 460 
+Computer Security Laboratory 
+3 
+ECE 422/CS 461 
+Computer Security I 
+4 
+ECE 424/CS 463 
+Computer Security II 
+3 
+ECE 425 
+Intro to VLSI System Design 
+3 
+ECE 428/CS 425 
+Distributed Systems 
+3 
+ECE 434 
+Mobil Computing and Application 
+3 
+ECE 435/CS 436 
+Computer Networking Laboratory 
+3 
+ECE 438/CS 438 
+Communication Networks 
+3 
+ECE 439/CS 439 
+Wireless Networks 
+3 
+ECE 448/CS 440 
+Artificial Intelligence 
+3 
+ECE 449/CS 446 
+Machine Learning 
+3 
+ECE 462 
+Logic Synthesis 
+3 
+ECE 470 
+Introduction to Robotics 
+4 
+ECE 478/CS 477 
+Formal Software Development Methods 
+3 
+
+Electronics and Computer Engineering Curriculum, ZJU-UIUC Institute 
+ 
+~ 5 ~ 
+ECE 484 
+Principles of Safe Autonomy 
+4 
+ECE 491/CS 450 
+Numerical Analysis 
+3 
+ECE 492/CS 420 
+Parallel Programming: Scientists and Engineers 
+3 
+4.1.3 Other Electives 
+Course Code 
+Course Name 
+Credits 
+CEE 310 
+Transportation Engineering 
+3 
+ME 200 
+Thermodynamics 
+3 
+ME 320 
+Heat Transfer 
+4 
+ME 371 
+Mechanical Design II 
+3 
+ME 400 
+Energy Conversion Systems 
+3 or 4 
+ME 412 
+Numerical Thermo-Fluid Mechs 
+2 to 4 
+ME 472 
+Introduction to Tribology 
+3 
+ME 485 
+MEMS Devices & Systems 
+3 
+ME 498VS 
+Vacuum Engineering in Semiconductor Industry 
+3 
+TAM 211 
+Statics 
+3 
+TAM 212 
+Introductory Dynamics 
+3 
+TAM 251 
+Introductory Solid Mechanics 
+3 
+TAM 335 
+Introductory Fluid Mechanics 
+4 
+CS 101 
+Introduction to Computing: Engineering & Science 
+3 
+CS 225 
+Data Structures 
+4 
+CS 357 
+Numerical Methods I 
+3 
+CS 412 
+Introduction to Data Mining 
+3 or 4 
+CS 442 
+Trustworthy machine learning 
+3 
+ECE 310 
+Digital Signal Processing 
+3 
+ECE 311 
+Digital Signal Processing Lab 
+1 
+ECE 314 
+Probability in Engineering Lab 
+1 
+ECE 329 
+Fields and Waves I 
+3 
+
+Electronics and Computer Engineering Curriculum, ZJU-UIUC Institute 
+ 
+~ 6 ~ 
+ECE 340 
+Semiconductor Electronics 
+3 
+ECE 342 
+Electronic Circuits 
+3 
+ECE 343 
+Electronic Circuits Laboratory 
+1 
+ECE 350 
+Fields and Waves II 
+3 
+ECE 364 
+Programing Methods for Machine Learning 
+3 
+ECE 365 
+Data Science and Engineering 
+3 
+ECE 438 
+Communication Networks 
+3 or 4 
+ECE 441 
+Physics & Modeling Semiconductor Devices 
+3 
+ECE 448 
+Artificial Intelligence 
+3 or 4 
+ECE 453 
+Wireless Communication Systems 
+4 
+ECE 457 
+Microwave Devices & Circuits 
+3 
+ECE 459 
+Communications Systems 
+3 
+ECE 464 
+Power Electronics 
+3 
+ECE 469 
+Power Electronics Laboratory 
+2 
+ECE 470 
+Introduction to Robotics 
+4 
+ECE 471 
+Data Science Analytics using Probabilistic Graph 
+Models 
+3 
+ECE 476 
+Power System Analysis 
+3 
+ECE 485 
+MEMS Devices & Systems 
+3 
+ECE 486 
+Control Systems 
+4 
+ECE 491 
+Numerical Analysis 
+3 or 4 
+ECE 498MF 
+Mathematical Foundations for Machine Learning 
+3 
+ECE 498EAI 
+Embodied Artificial Intelligence 
+3 
+ABE 436 
+Renewable Energy Systems 
+3 
+CHEM 104 
+General Chemistry II 
+3 
+CHEM 105 
+General Chemistry Lab II 
+1 
+ 
+
+Electronics and Computer Engineering Curriculum, ZJU-UIUC Institute 
+ 
+~ 7 ~ 
+4.2 
+Liberal Education 
+The liberal education courses develop students’ understanding of human culture and society, 
+build skills of inquiry and critical thinking, and lay a foundation for civic engagement and lifelong 
+learning. To satisfy the General Education requirements, students must take all courses for 
+grade and complete courses based on the table below: 
+ 
+Category 
+Credit 
+1) Humanities & Arts (2 courses) 
+6 
+2) Social & Behavioral Sciences (2 courses) 
+6 
+3) Culture Studies  
+6 
+Western/Comparative Culture(s) (1 course) or 
+Non-Western Culture(s) (1 course) 
+Total required 
+18 
+ 
+To meet the General Education requirements, students need to select courses that fulfill these 
+four subcategories and accumulate a total of 18 credits. Properly chosen courses in the Social 
+and Behavioral Sciences and Humanities & Arts categories can also satisfy the Western and 
+non-Western culture requirements, ensuring that students receive a comprehensive education.  
+4.3 Free Electives 
+These unrestricted electives give the student the opportunity to explore any intellectual area 
+of unique interest. This freedom plays a critical role in helping students to define research 
+specialties. Students are encouraged to take cross-discipline courses as free electives. 
+ 
+Free electives 
+2020 
+2021-2022 
+2023 
+Total 
+0 
+2 
+1 
+ 
+5. ZJU Required Liberal Education 
+These courses introduce Chinese modern history, social development, government policies, 
+etc., help students to improve their English and maintain a healthy lifestyle.  
+
+Electronics and Computer Engineering Curriculum, ZJU-UIUC Institute 
+ 
+~ 8 ~ 
+International students need to complete Chinese language study and Chinese society to fulfill 
+the graduate requirement.  
+ 
+ 
+2020 2021-2022 
+2023- 
+Course Code 
+Course Name 
+Credits 
+Credits 
+Credits 
+CHIN 1001 
+Chinese I 
+4 
+4 
+4 
+CHIN 1002 
+Chinese II 
+5 
+5 
+4 
+CHIN 1003 
+Chinese III 
+4 
+4 
+4 
+CHIN 1004 
+Chinese IV 
+4 
+4 
+4 
+CHIN1005 
+International Chinese Language 
+Proficiency and Testing 
+ 
+ 
+2 
+CULT 2001 
+China Survey 
+3 
+3 
+3 
+ST 4001 
+Senior Thesis 
+ 
+2 
+2 
+ 
+Total 
+20 
+22 
+23 
+ 

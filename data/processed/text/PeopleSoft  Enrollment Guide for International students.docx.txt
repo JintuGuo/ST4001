@@ -1,0 +1,51 @@
+PeopleSoft User Guide
+Course selection
+Log in to PeopleSoft, enter the student center, and click enrollment
+Click enrollment dates, under term information, select the semester to be selected, and click continue
+Confirm the course selection start time and end time, and then click Add to enter the course selection interface
+Of course, you can also choose one course separately, depending on your personal habit of choosing courses
+Select the semester and click continue
+Enter the select classes to add interface, click search to enter the search by my requirements page to view the courses offered this semester
+You can also select Show requirement details to view the academic requirements of each category
+Take the course of ECE 385 as an example, click the link of ECE 385 to enter the course details page to view the basic information of the course and which classes are offered.It can be seen that this course needs to select two teaching classes, one laboratory and one lecture.
+In order to simplify the information in the course selection interface, only the opening information of the first week is displayed for each teaching class. See the prompt (show first week class only). After the course is selected, you can view the complete opening week information in your personal schedule.
+Teaching class status description: if the status of the teaching class is open, it means that the teaching class can be selected;If the status flag of the teaching class will be closed, it means that the teaching class has been fully selected and can no longer be selected.
+Note: click return to search by my requirements to return to the search by my requirements page
+Here, select structure first and click Select on the right of le1-lec
+On the select classes to add – related class sections page, you can see that there are three laboratory classes available. Select the laboratory you want and click next
+Confirm the class information and click next
+The system prompts that ECE 385 has been added to the shopping cart. You can view the teaching classes added to the shopping cart in the shopping cart column
+You can click search to see that the status of ECE 385 has changed to planned
+Attention: the above operations can be carried out before the formal start of course selection. You can add the courses to be selected to the shopping cart in advance. The next course selection confirmation operation can be carried out only after the course selection time is officially open.Otherwise, if you click the button process to step 2 of 3, the system will prompt that the course selection time has not arrived, as shown in the figure below.
+When the course selection time is up, refresh the page and confirm that the process to step 2 of 3 button can be clicked, and then enter the confirm classes page to confirm the course
+Click Finish enrolling, and the system will prompt that this course has been selected
+If this course is not selected, the status will be crossed, and the system will tell the reason for not being selected. There are two main situations:
+Ø  Time conflict: the course time conflicts with the teaching class of a course you have selected
+Ø  The teaching class is full. It is likely that you have capacity when you add the class to the shopping cart, but when you confirm, the class will be full
+After the class is selected, you can see that the status of ECE 385 has been marked as in progress in the select classes to add interface
+View personal schedule
+Under my class schedule, you can view your personal schedule
+Click weekly calendar view to view the graphical timetable
+Drop out
+Under drop, select the course and semester, and click continue
+Select the class to quit and click drop selected classes
+Click Finish dropping to confirm withdrawal
+Successful withdrawal
+Change classes
+Under swap, select the course to be replaced, such as ECE 385, and click search to view the course information of this semester
+Select the course you want to replace with, such as ECE 391
+View the details of ECE 391 (similar to the course selection process)
+Select discussion
+Reselect lecture
+ECE 391 confirmation of selected teaching class information
+Confirm the course change information, click finish switching to confirm to replace ECE 385 with ECE 391
+Course change successful
+Modify selected courses
+Note: after the course is selected, you may want to change a teaching class of the course.At this time, you don't need to quit the class and choose again, but you can modify the teaching class directly.
+Under edit, select the course and semester, and click continue
+Select the course to be modified, such as ECE 385, and click processed to step 2 of 3
+You can see that the laboratory you previously selected is La2. You can modify it to La1 or La3
+Change it to La1 and click next
+Confirmation of selected class information
+Confirm the modification of teaching class information and click finish editing
+Course information modified successfully

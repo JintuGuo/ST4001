@@ -1,0 +1,511 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI教务助手</title>
+  <style>
+    :root {
+      --brand: #0f4c81;
+      --brand-dark: #0b3b64;
+      --bg: #f5f7fb;
+      --card: #ffffff;
+      --border: #d9e2ec;
+      --text: #122230;
+      --muted: #5f7388;
+      --soft: #f8fafc;
+      --warn-bg: #fff7ed;
+      --warn-border: #fed7aa;
+    }
+
+    * { box-sizing: border-box; }
+    html, body {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      font-family: "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+      color: var(--text);
+      background: transparent;
+    }
+
+    .demo-page {
+      min-height: 100vh;
+      background: linear-gradient(135deg, #eef4fb, #ffffff 45%, #edf2f7);
+      position: relative;
+    }
+
+    /* 浮窗按钮 */
+    .assistant-fab {
+      position: fixed;
+      right: 24px;
+      bottom: 24px;
+      z-index: 9999;
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      height: 56px;
+      padding: 0 18px;
+      border: none;
+      border-radius: 999px;
+      background: var(--brand);
+      color: #fff;
+      box-shadow: 0 10px 24px rgba(15, 76, 129, 0.28);
+      cursor: pointer;
+      font-size: 15px;
+      font-weight: 700;
+      transition: 0.2s ease;
+    }
+
+    .assistant-fab:hover {
+      background: var(--brand-dark);
+      transform: translateY(-1px);
+    }
+
+    /* 聊天浮窗 */
+    .assistant-panel {
+      position: fixed;
+      right: 24px;
+      bottom: 92px;
+      width: 390px;
+      max-width: calc(100vw - 24px);
+      height: 640px;
+      max-height: calc(100vh - 120px);
+      border: 1px solid var(--border);
+      border-radius: 24px;
+      background: var(--card);
+      box-shadow: 0 18px 42px rgba(15, 76, 129, 0.18);
+      overflow: hidden;
+      z-index: 9998;
+      display: none;
+      flex-direction: column;
+    }
+
+    .assistant-panel.open {
+      display: flex;
+    }
+
+    .panel-header {
+      padding: 16px 18px;
+      background: linear-gradient(90deg, var(--brand), #1c6fb5);
+      color: #fff;
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 12px;
+    }
+
+    .panel-title {
+      font-size: 19px;
+      font-weight: 800;
+      line-height: 1.2;
+    }
+
+    .panel-subtitle {
+      margin-top: 5px;
+      font-size: 12px;
+      color: rgba(255,255,255,0.9);
+    }
+
+    .header-actions {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+    }
+
+    .header-btn {
+      border: none;
+      background: rgba(255,255,255,0.14);
+      color: #fff;
+      width: 34px;
+      height: 34px;
+      border-radius: 12px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+
+    .header-btn:hover {
+      background: rgba(255,255,255,0.22);
+    }
+
+    .notice {
+      padding: 12px 16px;
+      background: #fff;
+      border-bottom: 1px solid var(--border);
+      font-size: 12px;
+      color: var(--muted);
+      line-height: 1.7;
+    }
+
+    .quick-box {
+      padding: 12px 16px 6px;
+      background: #fff;
+    }
+
+    .quick-title {
+      font-size: 12px;
+      color: var(--muted);
+      font-weight: 700;
+      margin-bottom: 8px;
+    }
+
+    .quick-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .quick-btn {
+      border: 1px solid var(--border);
+      background: #fff;
+      color: #30485f;
+      border-radius: 999px;
+      padding: 7px 12px;
+      font-size: 12px;
+      cursor: pointer;
+      transition: 0.2s;
+    }
+
+    .quick-btn:hover {
+      border-color: #7baad3;
+      color: var(--brand);
+    }
+
+    .messages {
+      flex: 1;
+      overflow-y: auto;
+      background: var(--bg);
+      padding: 14px 16px;
+    }
+
+    .msg-row {
+      display: flex;
+      margin-bottom: 14px;
+    }
+
+    .msg-row.user { justify-content: flex-end; }
+    .msg-row.assistant { justify-content: flex-start; }
+
+    .bubble {
+      max-width: 85%;
+      padding: 13px 15px;
+      border-radius: 20px;
+      white-space: pre-wrap;
+      line-height: 1.72;
+      font-size: 14px;
+      box-shadow: 0 2px 8px rgba(15, 76, 129, 0.05);
+    }
+
+    .bubble.user {
+      background: var(--brand);
+      color: #fff;
+    }
+
+    .bubble.assistant {
+      background: #fff;
+      border: 1px solid var(--border);
+      color: var(--text);
+    }
+
+    .bubble.fallback {
+      background: var(--warn-bg);
+      border: 1px solid var(--warn-border);
+    }
+
+    .sources {
+      margin-top: 10px;
+      padding: 10px;
+      background: var(--soft);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+    }
+
+    .sources-title {
+      font-size: 12px;
+      font-weight: 700;
+      margin-bottom: 7px;
+      color: #334e68;
+    }
+
+    .source-item {
+      display: flex;
+      justify-content: space-between;
+      gap: 8px;
+      font-size: 12px;
+      margin-bottom: 6px;
+      padding: 6px 8px;
+      border-radius: 10px;
+      background: #fff;
+    }
+
+    .score {
+      color: var(--brand);
+      font-weight: 700;
+      white-space: nowrap;
+    }
+
+    .meta {
+      margin-top: 8px;
+      font-size: 11px;
+      color: #738496;
+    }
+
+    .typing {
+      display: none;
+      margin-bottom: 14px;
+    }
+
+    .typing.show { display: flex; }
+
+    .typing-bubble {
+      background: #fff;
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      padding: 12px 14px;
+      font-size: 13px;
+      color: var(--muted);
+      box-shadow: 0 2px 8px rgba(15, 76, 129, 0.05);
+    }
+
+    .input-area {
+      border-top: 1px solid var(--border);
+      background: #fff;
+      padding: 14px 16px 12px;
+    }
+
+    .input-row {
+      display: flex;
+      gap: 10px;
+    }
+
+    .chat-input {
+      flex: 1;
+      height: 44px;
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 0 14px;
+      font-size: 14px;
+      outline: none;
+    }
+
+    .chat-input:focus {
+      border-color: #7baad3;
+      box-shadow: 0 0 0 3px rgba(15, 76, 129, 0.08);
+    }
+
+    .send-btn {
+      height: 44px;
+      border: none;
+      background: var(--brand);
+      color: #fff;
+      border-radius: 14px;
+      padding: 0 16px;
+      font-weight: 700;
+      cursor: pointer;
+    }
+
+    .send-btn:hover { background: var(--brand-dark); }
+    .send-btn:disabled { opacity: 0.6; cursor: not-allowed; }
+
+    .footnote {
+      margin-top: 8px;
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      font-size: 11px;
+      color: var(--muted);
+    }
+
+    .status { color: var(--brand); font-weight: 700; }
+
+    @media (max-width: 520px) {
+      .assistant-panel {
+        right: 12px;
+        bottom: 82px;
+        width: calc(100vw - 24px);
+        height: calc(100vh - 110px);
+      }
+
+      .assistant-fab {
+        right: 12px;
+        bottom: 14px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="demo-page"></div>
+
+  <button id="assistantFab" class="assistant-fab" type="button">
+    <span>💬</span>
+    <span>AI教务</span>
+  </button>
+
+  <div id="assistantPanel" class="assistant-panel">
+    <div class="panel-header">
+      <div>
+        <div class="panel-title">AI教务</div>
+        <div class="panel-subtitle">ZJUI Academic Affairs Assistant</div>
+      </div>
+      <div class="header-actions">
+        <button id="minBtn" class="header-btn" title="收起">—</button>
+      </div>
+    </div>
+
+    <div class="notice">
+      回答严格基于教务资料生成；如果资料未覆盖，会提示联系老师或办公室。
+    </div>
+
+    <div class="quick-box">
+      <div class="quick-title">常见问题</div>
+      <div class="quick-list">
+        <button class="quick-btn" data-q="顺利毕业需要多少学分？">毕业学分</button>
+        <button class="quick-btn" data-q="选课和退课截止时间怎么查？">选退课时间</button>
+        <button class="quick-btn" data-q="转专业一般需要满足什么条件？">转专业条件</button>
+        <button class="quick-btn" data-q="如果资料未覆盖，我应该联系谁？">联系谁</button>
+      </div>
+    </div>
+
+    <div id="messages" class="messages"></div>
+
+    <div id="typing" class="typing">
+      <div class="typing-bubble">正在检索资料并生成回答...</div>
+    </div>
+
+    <div class="input-area">
+      <div class="input-row">
+        <input id="questionInput" class="chat-input" placeholder="请输入教务相关问题..." />
+        <button id="sendBtn" class="send-btn" type="button">提问</button>
+      </div>
+      <div class="footnote">
+        <span>测试版</span>
+        <span id="apiStatus" class="status">API：未检测</span>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const API_URL = "http://127.0.0.1:8000/ask";
+    const ROOT_URL = "http://127.0.0.1:8000/";
+    const messagesEl = document.getElementById("messages");
+    const inputEl = document.getElementById("questionInput");
+    const sendBtn = document.getElementById("sendBtn");
+    const apiStatusEl = document.getElementById("apiStatus");
+    const assistantFab = document.getElementById("assistantFab");
+    const assistantPanel = document.getElementById("assistantPanel");
+    const minBtn = document.getElementById("minBtn");
+    const typingEl = document.getElementById("typing");
+
+    function timeNow() {
+      return new Date().toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" });
+    }
+
+    function escapeHtml(str) {
+      return str
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;");
+    }
+
+    function renderSources(sources) {
+      if (!sources || !sources.length) return "";
+      const html = sources.map(s => {
+        const score = typeof s.score === "number" ? `<span class="score">${s.score.toFixed(2)}</span>` : "";
+        return `<div class="source-item"><span>${escapeHtml(s.source || "unknown")}</span>${score}</div>`;
+      }).join("");
+      return `<div class="sources"><div class="sources-title">参考资料</div>${html}</div>`;
+    }
+
+    function addMessage(role, content, options = {}) {
+      const row = document.createElement("div");
+      row.className = `msg-row ${role}`;
+
+      const bubble = document.createElement("div");
+      bubble.className = `bubble ${role} ${options.fallback ? "fallback" : ""}`;
+      bubble.innerHTML = `${escapeHtml(content).replace(/\n/g, "<br>")}${role === "assistant" ? renderSources(options.sources) : ""}<div class="meta">${timeNow()}</div>`;
+      row.appendChild(bubble);
+
+      messagesEl.appendChild(row);
+      messagesEl.scrollTop = messagesEl.scrollHeight;
+    }
+
+    function setLoading(loading) {
+      sendBtn.disabled = loading;
+      sendBtn.textContent = loading ? "处理中..." : "提问";
+      typingEl.classList.toggle("show", loading);
+      if (loading) messagesEl.scrollTop = messagesEl.scrollHeight;
+    }
+
+    async function pingApi() {
+      try {
+        const res = await fetch(ROOT_URL);
+        if (res.ok) {
+          apiStatusEl.textContent = "API：已连接";
+          return true;
+        }
+      } catch (e) {}
+      apiStatusEl.textContent = "API：未连接";
+      return false;
+    }
+
+    async function askQuestion(question) {
+      const q = (question || inputEl.value).trim();
+      if (!q) return;
+      addMessage("user", q);
+      inputEl.value = "";
+      setLoading(true);
+
+      try {
+        const res = await fetch(API_URL, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ question: q })
+        });
+
+        if (!res.ok) throw new Error("API request failed");
+        const data = await res.json();
+        addMessage("assistant", data.answer || "没有返回答案。", {
+          sources: data.sources || [],
+          fallback: !!data.fallback,
+        });
+        apiStatusEl.textContent = "API：已连接";
+      } catch (err) {
+        addMessage("assistant", "当前未连接到本地后端。请先启动 server.py 对应的 FastAPI 服务。", {
+          fallback: true,
+          sources: []
+        });
+        apiStatusEl.textContent = "API：未连接";
+      } finally {
+        setLoading(false);
+      }
+    }
+
+    assistantFab.addEventListener("click", () => {
+      assistantPanel.classList.add("open");
+      assistantFab.style.display = "none";
+      inputEl.focus();
+    });
+
+    minBtn.addEventListener("click", () => {
+      assistantPanel.classList.remove("open");
+      assistantFab.style.display = "inline-flex";
+    });
+
+    sendBtn.addEventListener("click", () => askQuestion());
+
+    inputEl.addEventListener("keydown", (e) => {
+      if (e.key === "Enter") askQuestion();
+    });
+
+    document.querySelectorAll(".quick-btn").forEach(btn => {
+      btn.addEventListener("click", () => askQuestion(btn.dataset.q));
+    });
+
+    addMessage(
+      "assistant",
+      "你好，我是 ZJUI 的 AI 教务助手。你可以问我选课、学分、毕业要求、学籍、转专业等问题。"
+    );
+
+    pingApi();
+  </script>
+</body>
+</html>

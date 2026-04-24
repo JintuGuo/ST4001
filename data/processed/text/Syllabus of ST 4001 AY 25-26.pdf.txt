@@ -1,0 +1,1665 @@
+ 
+ 
+ 
+ST 4001  
+Senior Thesis  
+at  
+ZJU-UIUC Institute  
+AY 2025~2026 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1 
+ 
+Content 
+1 General Information ................................................................................................ 3 
+1.1 General Aims ..................................................................................................................................... 3 
+1.2 General Requirements.................................................................................................................... 3 
+1.3 Timetable ........................................................................................................................................... 3 
+2 Supervisor Qualification ......................................................................................... 4 
+3 Project Assignment ................................................................................................ 4 
+3.1 Proposing Thesis Projects .............................................................................................................. 4 
+3.2 Project Assignment ......................................................................................................................... 5 
+4 Thesis proposal ...................................................................................................... 6 
+4.1 Task plan of thesis project ............................................................................................................. 6 
+4.2 Requirements of thesis proposal ................................................................................................. 6 
+4.3 Submission of the proposal document ...................................................................................... 6 
+5 Mid-term check-up .................................................................................................. 7 
+6 Senior Theses and Oral Defense ............................................................................. 7 
+6.1 Senior thesis ...................................................................................................................................... 7 
+6.2 Oral defense ..................................................................................................................................... 8 
+6.3 Assessment of Senior Thesis ........................................................................................................ 9 
+6.4 Plagiarism checks of senior thesis............................................................................................. 11 
+7 Requirements on the students in senior thesis ...................................................... 11 
+7.1 Kick-off the thesis project ............................................................................................................ 11 
+7.2 During the process of the thesis project .................................................................................. 12 
+7.3 Requirements for senior theses and oral defense ................................................................. 12 
+8 Requirements For the Supervisors ........................................................................ 13 
+8.1 Propose thesis projects ................................................................................................................ 13 
+8.2 Project proposal ............................................................................................................................. 13 
+8.3 During the progress of thesis projects ..................................................................................... 14 
+8.4 Requirements for midterm evaluation .................................................................................... 14 
+8.5 Requirements for theses and oral defense ............................................................................. 14 
+9 Archive and confidential control of senior thesis ................................................... 14 
+9.1 Thesis Archive................................................................................................................................. 14 
+9.2 Confidential control ...................................................................................................................... 15 
+
+2 
+ 
+10 Funding management ......................................................................................... 15 
+ 
+ 
+ 
+ 
+Appendix list  
+ 
+Appendix I - The timetable of senior thesis (ST 4001) in AY 2025 ~ 2026 
+Appendix II - Nomination Form for Senior Thesis Projects 
+Appendix III - Task plan of Thesis Project 
+Appendix IV - Template of Thesis Proposal 
+Appendix V - Midterm Self-check Form for Senior Thesis 
+Appendix VI - Template of Senior Thesis 
+Appendix VII - Academic Integrity Commitment of Senior Thesis 
+Appendix VIII - On-site minutes of oral defense for senior thesis 
+Appendix IX - Assessment Form of Senior Thesis 
+Appendix X - ZJUI Compact on Confidential Control of Senior Thesis 
+ 
+ 
+Note: Please refer to the file in the attachment to find appendix. 
+
+3 
+ 
+1 General Information  
+1.1 General Aims 
+Senior Theses (as theses) is an important component of talent development in ZJU-
+UIUC institute (as ZJUI) and Zhejiang university. It serves as a crucial practical 
+teaching segment in undergraduate education and reflects the quality of college 
+education at Zhejiang University. Its aim is to cultivate students' ability to 
+comprehensively apply the foundational theories, professional knowledge, and basic 
+skills learned during their undergraduate studies to analyze and solve real 
+engineering problems. This has a profound impact on the growth of undergraduate 
+students and their adaptability to societal needs. To effectively serve, support and 
+ensure this aim, to further strengthen the standards and quality management of 
+these, and to continuously improve their quality, ZJUI publishes this document 
+according to the "Implementation on Undergraduate Thesis (Design Projects) at 
+Zhejiang University" (ZJU Policy [2018] No. 3) and other regulations of Zhejiang 
+University regarding theses and in consideration of the practical circumstances at 
+ZJUI. 
+1.2 General Requirements  
+Senior theses require ZJUI undergraduate students to independently complete a 
+designated senior thesis project under the guidance of a supervisor and write a thesis 
+that meets a series of specified requirements.  
+In terms of knowledge requirements, students should integrate knowledge and skills 
+from multiple disciplines to analyze and solve engineering problems, deepening 
+theoretical understanding, expanding knowledge areas, and extending professional 
+skills. 
+Regarding capability development, students should learn to research, collect, and 
+analyze and organization of scientific literature, correctly cite publications and use 
+reference books, and master fundamental methods for scientific research, and 
+improve the skills of technical writing. They should also master basic experimental 
+methods to enhance their capability to analyze and solve engineering problems in the 
+real world. 
+In terms of comprehensive quality development, students should cultivate a serious 
+scientific attitude and establish correct engineering, economic, and holistic 
+perspectives. 
+Senior thesis is handled as an undergraduate course, course code ST 4001, at ZJUI. 
+Students will acquire 2 ZJU academic credits upon satisfying all the requirements of 
+senior theses and passing the course.  
+1.3 Timetable 
+Senior theses as a UG course, ST 4001, starts in October and completes in mid-June 
+of each academic year. The detail segments and key milestone due dates of 
+
+4 
+ 
+continuous assessments and thesis submission are listed in Appendix I. 
+ 
+2 Supervisor Qualification  
+Supervisors should hold high professional and ethnic standards and focus on the 
+development of students' independent research abilities, problem-solving skills, and 
+innovative capabilities in engineering design and basic scientific research. 
+Supervisors should emphasize inspiring students’ creativity, encouraging their 
+initiative, and enthusiasm in research and design projects. The supervisors should 
+match one of the following criteria:  
+1) A supervisor should possess a high level of professional competence and hold 
+a faculty position with at least an intermediate title or equivalent academic 
+rank (including lecturer) at ZJUI. 
+2) Co-supervisors should possess a high level of professional competence, and 
+hold an academic or research position with at least an intermediate title or 
+equivalent academic rank at Zhejiang University, other prestigious academic 
+institutes, research organization, or industrial corporates that are endorsed by 
+Zhejiang University.  
+3) The supervisor qualification of undergraduate theses, including ZJUI faculties 
+and those outside ZJUI, will be reviewed and approved by Undergraduate 
+Education Committee (refer as UEC) at ZJUI, and archived by UA office. 
+Supervisors from industrial partners should be reviewed and renewed every 
+three years.  
+ 
+3 Project Assignment 
+Projects for senior theses should closely align with industrial needs in real world, be 
+oriented towards emerging frontiers of engineering and society, focus on addressing 
+urgent problems faced by industrials and/or enterprises, and emphasize on 
+enhancing students' comprehensive abilities to analyze and solve problems. 
+Interdisciplinary and innovative topics are highly recommended. 
+3.1 Proposing Thesis Projects  
+There are several types of senior thesis projects: 
+1) Research or design projects proposed by supervisors that are within or inter-
+disciplined of the supervisors’ research fields.  
+Projects should not have more than 1/3 overlap with those of the preceding year 
+from the same supervisor. Faculty should also avoid the topics that are obsolete 
+and/or of little interests or applications in the current industrial fields.  
+2) Research or design projects proposed by students that are based upon the 
+
+5 
+ 
+proceeding undergraduate research projects of the students.  
+If the student has completed a SRTP project of national, province or university 
+level or equivalent undergraduate research projects, the student is highly 
+recommended to base senior thesis upon these UG research projects and select 
+the instructor of UG research projects as thesis supervisor. If the supervisor is not 
+a ZJUI faculty, but a ZJU faculty, the project must have a ZJUI faculty as a leading 
+supervisor and ZJU faculty can take the role as co-supervisor. 
+3) Industrial projects that are appointed by industrial partners of Zhejiang University. 
+The project must have a ZJUI faculty as institute supervisor and main supervisor. 
+3.2 Project Assignment 
+3.2.1  Mutual Selection 
+In general, it is a mutual selection process for both students and supervisors to finalize 
+the topic and proposal of the project for senior thesis. In principle, only one student 
+will be assigned to each project. If the project will be taken by a team, each student 
+in the team should have clear workload, different topic focus and outcome in the 
+project. A detailed description of the work scope and workload should be submitted 
+in advance. 
+The mutual selection process of project assignment is as follows: 
+1) Supervisors will submit thesis projects with a title and a brief description to 
+PeopleSoft system before Oct 17th 2025. 
+2) All the projects will be reviewed and approved by UEC at ZJUI. UA office will 
+post the projects to the course of “ST 4001” in PeopleSoft system. 
+3) Student shall log into PS system and select the three projects with priority 
+rank for ST 4001. 
+4) Supervisor will assign the project to the students s/he selects.  
+5) If a student failed to allocate to a thesis project, UA office will inform the 
+student to join the second round of project selection.  
+6) To ensure the quality of senior theses, each supervisor can instruct no more 
+than six (6) thesis projects in one academic year. 
+7) Once all the students are allocated with thesis projects, both the student and 
+supervisor will be notified of the project assignment by UA office as a kick-off 
+for senior thesis by Oct 24th 2025. 
+3.2.2  Pre-Assignment of thesis projects 
+Alternatively, a thesis project can be assigned to a student via a pre-assign channel. 
+The pre-assign process of a thesis project is as follows: 
+1) After discussion between a student and a supervisor, a pre-assign project 
+should be submitted to the institute by the supervisor. The supervisor shall fill 
+up a document (Appendix II: Nomination Form for Senior Thesis Project) with 
+
+6 
+ 
+a title, an abstract (no more than 100 words) of the project and student’s 
+information. 
+2) The pre-assign projects will be reviewed and approved by UEC at ZJUI.  
+3) UA office will assign the project to the student in PeopleSoft system.  
+4) Once all the students are allocated with thesis projects, both the student and 
+supervisor will be notified of the project assignment by UA office as a kick-off 
+for senior thesis. 
+5) If a student wants to take on a thesis project with supervisors outside ZJUI 
+institute, the project shall be submitted via pre-assign channel. The student 
+shall find a ZJUI faculty as main supervisor and the supervisors outside ZJUI 
+institute shall be a co-supervisor. The project shall be submitted by ZJUI 
+supervisor. 
+6) Pre-assign project with co-supervisor outside ZJUI Institute may not be 
+counted into the six (6) thesis projects of the ZJUI supervisor. 
+ 
+4 Thesis proposal 
+4.1 Task plan of thesis project 
+A student should meet her/his supervisor within one (1) week after the project is 
+assigned and establish the details of the project according to Appendix III: Task plan 
+of thesis project (refer as “task”).  
+4.2 Requirements of thesis proposal  
+A student should work on a thesis proposal under the instruction of his/her supervisor 
+and write a thesis proposal according to the requirements and the template 
+(Appendix IV) of ZJUI institute. The thesis proposal should include the following parts: 
+1) A thorough literature review and/or survey of industrial/markets to introduce 
+the current frontier situation and obstacles in the field and to indicate the 
+novelty and significance of the projects. 
+2) The aims of the project and a detailed elaboration on the approaches/design 
+to achieve the aims with sufficient justifications and validations. 
+3) The time plan and the expected outcome of the project if it is successfully 
+carried out. 
+4) Preliminary results and/or current progress of the projects. 
+5) At least 10 references with no more than 3 citations of websites and no more than 
+3 citations in Chinese. 
+4.3 Submission of the proposal document 
+Students should write a proposal of the thesis project under the guidance of her/his 
+supervisor. After the proposal has been approved by the supervisor, the student 
+should obtain supervisor’s signature and submit the thesis proposal as one pdf file to 
+
+7 
+ 
+course blackboard website before Jan 23rd, 2026. Thesis proposal submitted on time 
+will receive 10 points. 
+ 
+5 Mid-term check-up 
+Students will fill up Appendix V: Midterm Self-check Form for Senior Thesis, under 
+the guidance of the supervisor(s) and submit the document to course blackboard 
+website before March 27th, 2026. Students will receive 5 points if a mid-term self 
+check form with supervisor signature is submitted to institute on time. ZJUI will 
+organize mid-term check-up on all the thesis projects in the 7th week of Spring 
+semester in the academic year. 
+According to the self-check form, supervisors should check if the progress of the 
+project is satisfactory, including but not limits to the following aspects, the selection 
+of project, and the management and project progress according to the schedule in 
+“task” document. 
+UA office will conduct random check on the “midterm self-check form for senior 
+thesis” and inform the student and supervisor if a necessary amendment is required. 
+Supervisors should also provide the guidance and comments on project amendments 
+if problems are discovered during mid-term check-up. 
+ 
+6 Senior Theses and Oral Defense 
+6.1 Senior thesis 
+6.1.1  Every student should write a senior thesis under the guidance of her/his 
+supervisor(s). The main content of senior thesis, excluding references, should be at 
+least twenty (20) pages by following the institute template (Appendix VI: Template 
+of ZJUI Senior Thesis). A senior thesis should include the following parts, but not 
+limited to: 
+- A title, and an abstract of the project followed by an outline of the written 
+thesis. 
+- A chapter of literature review and project introduction. 
+- Chapters of research work, such as experiments, programming, design figures, 
+tests, theoretical reasoning and/or deduction, etc. 
+- chapters of detail analysis of the research outcome, such as experimental 
+results, software and the testing outcome, design products and testing 
+outcome, etc. 
+- at least 10 references. Chinese literature should be no more than 3. Website 
+citations should be no more than 3. 
+- specifications for different types of projects: 
+a) For research projects, the thesis should include 1) a thorough literature review, 
+2) substantial research experiments, 2) detail data analysis, 3) sufficient references 
+
+8 
+ 
+and 5) project conclusion. 
+b) For engineering design projects, the thesis should include thorough 1) 
+literature review, 2) detail design figures, 3) photo and video of the demonstrations 
+on the design products, 4) test methods, results report and analysis of the product, 
+and 5) project conclusion. 
+c) For software developing projects, the thesis should include thorough 1) 
+literature review, 2) software vendor list, 3) description and manual book of the 
+software, 4) the analytic report of software testing and 5) project conclusion. 
+6.1.2  Submission of Senior Thesis 
+a) A student should sign the document of “Academic Integrity Commitment of 
+Senior Thesis “(refer as commitment, Appendix VII) and strictly hold academic 
+integrity, match professional standards, respect and protect the legal rights of 
+intellectual properties. Any misconducts and/or violations to academic integrity in 
+senior thesis will be reported to ZJUI UA office and be handled by following the 
+management policy of student misconducts at ZJU-UIUC institute. 
+b) An electronic copy of thesis draft should be submitted to course blackboard 
+website as one pdf file before May 22nd, 2026. Appendix IX: Assessment Form of 
+Senior Thesis (refer as “assess form”) with supervisor’s comments and signature 
+should be attached to the draft. Committee will review the thesis draft and decide if 
+the student can enter oral defense.  
+c) After necessary revision according to Committee comments from oral 
+defense, the final version of senior thesis should be printed double faces in A4 
+pages and be bundled with other documents according to the checklist in thesis 
+template (Appendix VI). The printed bundle of senior thesis and relevant 
+documents should be submitted to UA office before June 12th 2026.  
+d) An electronic copy of the final version of senior thesis should be submitted to 
+course blackboard website as one pdf file before June 12th 2026. The electronic 
+copy of senior thesis should be consistent with the printed copy. 
+6.2 Oral defense 
+6.2.1  Oral defense will be organized by UA office at ZJUI on June 4th, 2026. 
+6.2.2  Students and supervisors should attend oral defense in person at the time and 
+location designated by UA office.  
+ 6.2.3  Students should prepare PowerPoint slides for oral presentation of thesis 
+project to elaborate the project background, aims, experimental/design approaches, 
+analysis of results/outcome/products and conclusion. 
+6.2.4  Oral defense of each student will take roughly 20 minutes, including 10 
+minutes of oral presentation, 5~10 minutes of Q&A. 
+6.2.5 The secretary of oral defense should record the minutes of oral presentation and 
+Q&A sections in the document of Appendix VIII: On-site minutes of oral defense. 
+
+9 
+ 
+6.2.6  Oral defense will be assessed by thesis committee according to the following 
+criteria in section 6.3. The comments and scores should be recorded in Appendix IX: 
+Assess Form.  
+6.3 Assessment of Senior Thesis 
+6.3.1 
+ The thesis draft should be reviewed and approved by project supervisor. 
+Thesis supervisor(s) should make a consensus decision if the thesis draft is ready for 
+submission and fill up the comments to Appendix IX: Assess Form.  
+6.3.2  Institute will organize thesis committees according to the research fields and 
+disciplines of the thesis projects. Each committee is formed by 3~5 faculties with one 
+chairman. Each committee will review and evaluate around 15 senior theses. In 
+principle, the supervisor of the thesis should be assigned to the thesis committee that 
+will evaluate the thesis. 
+6.3.3  The committee will assess the thesis draft and decide if the student can enter 
+the oral defense. A thesis draft will be cross reviewed by at least two committee 
+members according to the marking rubrics. A consensus grade will be filled up in the 
+assessment form of Appendix IX: Assessment Form of Senior Thesis.  
+Note:  
+- 
+If Committee decides that the student cannot enter oral defense, committee 
+chair should submit Appendix IX: Assess form to UA office before June 3rd 2026.  
+6.3.4  The components are considered when committee assesses a thesis project: 
+-  
+The overall quality of written thesis, including but not limited to the project 
+selection, workload, completeness, plagiarism level, advance composition, 
+novelty and so on. 
+-  
+the quality of the PowerPoint slides of oral defense.  
+-  
+performance in oral defense including demonstration of project and Q&A. 
+-       working performance during the entire project. 
+-       academic discipline and attendance. 
+6.3.5  Marking rubrics and grades of senior thesis  
+ 
+Grade 
+Marking rubrics 
+excellent 
+90~100 
+marks 
+Students should have completed the project on time and have 
+shown unique opinions and/or novelty on one or several 
+results and/or outcome of the projects. The written thesis has 
+significant aims, completed contents, reliable results and 
+analysis, and a valid conclusion. The thesis is written in high 
+quality and satisfies all the requirements in section 5.1.1., with 
+a good logical flow, a concise and precise writing style, and a 
+correct format following institute template (Appendix VI). 
+Students have demonstrated strong independent working 
+
+10 
+ 
+capability. And during oral defense, the student can clearly 
+elaborate the scientific and engineering concepts and 
+outcome of the project, and can answer all the questions 
+correctly and concisely 
+good 
+80~89 
+marks 
+Students should have completed the project on time. The 
+written thesis has complete contents, has no mistakes in 
+results and analysis, and has a valid conclusion. The thesis is 
+written in relatively high quality and satisfies all the 
+requirements in section 5.1.1., with a good logical flow, a 
+concise writing style, and a correct format following institute 
+template (Appendix VI). Students have demonstrated good 
+independent working capability. And during oral defense, the 
+student can demonstrate the scientific and engineering 
+concepts and outcome of the thesis project and can nearly 
+answer all the questions correctly and concisely. 
+fair 
+70~79 
+marks 
+Students should have completed the project on time. The 
+written thesis has almost complete contents, has no major 
+mistakes in results and analysis, and most of the conclusions 
+is valid. The thesis is written in good quality and satisfies all 
+the requirements in section 5.1.1., with all necessary parts, 
+and a correct format following institute template (Appendix 
+VI). Students have demonstrated reasonable working 
+capability. And during oral defense, the student can roughly 
+explain the project and can answer most of the questions. 
+qualified 
+60~69 
+marks 
+Students should have completed the project on time. The 
+written thesis has reached an acceptable level with only a few 
+minor mistakes according to the requirements in section 
+5.1.1. And during oral defense, the student can only explain 
+the outline of the projects and answer some questions 
+incorrectly. 
+fail 
+59 
+marks 
+or 
+below 
+Students have not completed the project and showed 
+unsatisfied working attitude. The written thesis showed low 
+quality and had a few major mistakes. During oral defense, 
+the student cannot explain the project and answer the 
+questions correctly. 
+ 
+6.3.6  ZJUI encourages students to apply for patents and publications based upon 
+the outcome of thesis projects. If patents and/or publications are accepted by 
+scientific journals or prevailing conference, “outcome scores” will be awarded 
+
+11 
+ 
+accordingly.  
+NOTE: the scores can ONLY be awarded when a thesis project yields qualified 
+outcome. 
+6.3.7  After oral defense, the chairman of thesis committee will collect the 
+comments and scores from all the committee members and draft a consensus 
+comment. The chairman will fill up the comments and grades in assess form 
+(Appendix IX) and sign the document. The assess form should be submitted to UA 
+office with 3 days after oral defense. 
+6.3.8  If a student receives a “fail” grade in senior thesis, the student will get a “F” in 
+ST 4001 and should not proceed to graduation. The student should retake ST 4001 in 
+the next academic year.  
+ 
+6.4 Plagiarism checks of senior thesis 
+ZJUI will be responsible for organizing and implementing the plagiarism check of 
+Senior theses according to the requirements, generating a plagiarism check report to 
+assist in academic integrity management. The plagiarism check uses technical means 
+to conduct an initial screening of the thesis quality. The plagiarism check report and 
+the plagiarism rate are the main basis to determine whether the thesis meets the 
+standards for submission. The content to be checked includes abstracts, main 
+content, and references. Senior thesis will be processed according to plagiarism 
+report and rate as follows: 
+1. 
+Plagiarism rate below 10% is considered passed, with appropriate modifications 
+based on the check report; 
+2. Plagiarism rate between 10%-20% is considered passed after modification and 
+the student can proceed to oral defense upon further review by thesis committee; 
+3. 
+Plagiarism rate above 20% is considered not passed, requiring major 
+modifications and a second plagiarism check; 
+4. If the plagiarism rate does not meet the requirements, student can file an appeal 
+with a written explanation approved by supervisor. Committee will review the 
+appeal document and decide if the thesis can proceed to the thesis review. 
+5. 
+Theses that do not pass the second plagiarism check cannot proceed to the 
+following steps of thesis review and oral defense. 
+ 
+7 Requirements on the students in senior thesis 
+7.1 Kick-off the thesis project 
+7.1.1  A student is encouraged to meet potential supervisors and discuss the project 
+before applying for the project, especially in the case that the student would like to 
+propose a project by himself/herself. 
+
+12 
+ 
+7.1.2  A student should log into PeopleSoft system to select and rank three projects 
+before October 24th, 2025. 
+7.1.3  A student should meet all the supervisors of his/her project within one (1) 
+week after the project is assigned by UA office. 
+7.1.4  Student will fill up “task” document with his/her supervisor during the kick-off 
+meeting. Students should work according to the plan and time schedule listed in the 
+document. At the end of the project, students should bundle the document to the 
+thesis and submit the document to institute along with other thesis documents. 
+7.1.5 
+Student should write a project proposal according to the requirements in 
+section 4 and submit the proposal to course blackboard website by Jan 23rd, 2026. 
+7.2 During the process of the thesis project 
+7.2.1 Student should meet the supervisor and co-supervisor if applicable, on regular 
+basis and at least 0.5 hour per week to report and discuss the project progress.  
+7.2.2 
+Student should record daily work activities and outcome of the experiments, 
+programming, tests, analysis of the results, etc. on lab notebook.  
+7.2.3 
+A student should follow the instruction and guidance of the supervisor and 
+complete the research work and documents of thesis project on due course.   
+7.2.4 
+A student should attend all the thesis activities. If a student would be absent 
+to thesis activities, the student needs to seek leave approval from both supervisor and 
+institute via online application. If a student is absence without leave approval more 
+than 1/3 of the project’s duration, the student is not allowed to enter thesis defense 
+and course grade will be recorded as “0” mark. 
+7.2.5 
+A student should complete all the oral and written reports of senior thesis 
+under the instruction of project supervisor(s). 
+7.2.6 
+A student should participate in the mid-term check-up of thesis projects. A 
+student should discuss the project progress and fill up the “midterm self-check form 
+for senior thesis” (Appendix V) together with her/his supervisor(s) and submit the 
+form to UA office for random check by March 27th, 2026. 
+7.3 Requirements for senior theses and oral defense  
+7.3.1  Students should write a thesis under the guidance of her/his supervisor(s). The 
+thesis should be written by following the instructions in section 6.1 and institute 
+template (Appendix VI).  
+7.3.2 
+Students should submit an electronic copy of thesis draft according to section 
+6 before May 22nd 2026. 
+7.3.3 
+Upon approval by the thesis committee, students should attend the oral 
+defense of senior thesis and satisfied with the requirements of oral defense listed in 
+
+13 
+ 
+section 6.2. 
+7.3.4 
+After oral defense, students should prepare the thesis bundle book containing 
+all the documents related to thesis and an electronic copy of thesis book by following 
+the instruction in section 9. The printed book should be submitted to the thesis book 
+to the institute office and the electronic copy should be uploaded to course 
+blackboard website before June 12th, 2026. 
+ 
+8 Requirements For the Supervisors 
+8.1 Propose thesis projects 
+8.1.1 
+Supervisors should propose projects closely aligning with industrial needs in 
+the real world, be oriented towards emerging frontiers of engineering and society, 
+focus on addressing urgent problems faced by enterprises, and emphasize on 
+enhancing students' comprehensive abilities to analyze and solve problems. 
+Interdisciplinary and innovative topics are highly recommended.  
+8.1.2 Supervisors should not reuse more than 1/3 of the projects she/he supervised 
+in the preceding years.  
+8.1.3 
+Supervisors should avoid the projects that are obsoleted and/or of little 
+interests or applications in the current industrial fields.   
+8.1.4 Supervisors cannot take on more than six (6) projects in one academic year. 
+8.2 Project proposal 
+8.2.1 Supervisors should meet the students within one (1) week the project 
+assignment is announced by UA office. 
+8.2.2 During the meeting, supervisor should fill up “task” document with the 
+student that includes the details of the requirements for the project and the time 
+table of the project.  
+8.2.3 If the project has a co-supervisor outside ZJUI, the ZJUI supervisor should 
+liaise all the co-supervisors to fill up the “task” document with the student and 
+arrange the student to meet all the co-supervisors within one (1) week after the 
+project assignment is announced by UA office.  
+8.2.4 Supervisors should instruct and guide the student to conduct a thorough 
+literature review on the research field of the project and to write a project proposal. 
+8.2.5 Supervisors will be assigned to one or a few theses committees according to 
+the major and research fields of the projects.  
+ 
+
+14 
+ 
+8.3 During the progress of thesis projects 
+8.3.1 
+Supervisor should meet the student at least once a week for at least half an 
+hour to check the lab notebook and discuss the progress of theses project. 
+8.3.2 Supervisor should provide sufficient instruction and guidance to lead the 
+student to complete the theses project on time. 
+8.3.3 
+Supervisor should ensure the students submit all the written reports and 
+attend oral assessments on time. 
+8.4 Requirements for midterm evaluation 
+8.4.1 Supervisor should review the project progress with students and provide the 
+instructions on the amendments of the project if any problem is discovered.  
+8.4.2 Supervisor should instruct the student to fill up the document of “midterm 
+self-check form” (Appendix V) and urge the student to submit the form to course 
+blackboard website on time. 
+8.5 Requirements for theses and oral defense 
+8.5.1 
+Supervisors should instruct the student to write a senior thesis according to 
+the institute requirements listed in section 6.1. Supervisor should review the senior 
+thesis of his/her mentee and provide sufficient comments and suggestions for 
+revisions. 
+8.5.2 Supervisor should assess her/his mentee’s thesis by following the marking 
+rubrics in section 6.3.4 that requires a thorough review on the quality of the thesis, 
+including the completion level, outcome quality, the work capability, and attitudes of 
+the students, etc. Supervisor should provide comments and sign Assess Form 
+(Appendix IX). The student will submit the form along with thesis draft for committee 
+to review and to decide if the student can proceed to oral defense.  
+8.5.3 
+Supervisors as a committee member or chairman should attend the oral 
+defense of the students assigned by institute and evaluate the students’ oral defenses 
+according to the marking rubrics in section 6.3. If a supervisor serves as a committee 
+chairman, she/he should consolidate the grades and comments on both the theses 
+and oral defense of the student from all the committee members to provide a 
+consensus grade and a written comment in Assess Form (Appendix IX).  
+9 Archive and confidential control of senior thesis 
+9.1 Thesis Archive 
+Students should submit all the documents, products and materials that are related to 
+senior thesis to ZJUI institute for archives. The duration of archives is no shorter than 
+five (5) years. Students should submit the following two copies of senior thesis before 
+June 12th 2026. 
+
+15 
+ 
+9.1.1 
+A printed copy  
+Students should prepare a printed bundle of senior thesis (refer as thesis book). All 
+the thesis documents should be bundled by following the order in the thesis template 
+(Appendix VI):  
+cover page  → checklist → “commitment”→ acknowledgement → abstract → 
+content table (including page numbers) → written thesis (page number starting from 
+1) → references → appendix (acceptance letter of publication, cover page if 
+applicable, publication full text, patent letter, etc.) → author CV → “task”→ “assess 
+form of senior thesis”  → “defense minutes” document.  
+Printing format: Content table, written thesis, references and appendix should be 
+double faces. The rest part of bundle should be single face.  
+9.1.2 An electronic copy  
+After oral defense, student should upload an electronic copy of thesis book to course 
+blackboard website as a single pdf file. Documents for progress records, such as 
+checklist, commitment, task, assess forms of thesis, defense minutes, are not 
+required for the electronic copy. 
+9.2 Confidential control 
+9.2.1 For thesis project are under confidential control, all involved personnel 
+including student, supervisor(s), reviewers, and thesis committee, should sign a 
+document: Appendix X – ZJUI Compact on Confidential Control of Senior Thesis. 
+Compact will be kept by UA office within the confidential duration. 
+9.2.2 Thesis book should be stamped with “confidential” at the right up corner on 
+the front page. 
+9.2.3 Thesis book should indicate the duration of confidential control on the front 
+page. Once confidential control expires, the senior thesis will be handled as a regular 
+thesis. 
+ 
+10  Funding management 
+10.1. ZJUI institute provides 500 RMB to each thesis project.  
+10.2. The funding of each thesis project will be assigned to ZJUI supervisor of the 
+project and is the supervisor’s responsibility for proper management.  
+10.3. The funding can be used for printing thesis book and other related documents, 
+purchasing experimental consumables, paying for testing charges, etc., upon 
+supervisor’s approval.  
+ 
+
+ 
+
+ST4001 AY 2025 
+Student Name 
+Student ID 
+Appendix II 
+Nomination Form for Senior Thesis Project 
+Project Title (< 20 words): 
+ 
+ 
+Brief description of the project (including aims and contents, no more than 100 
+words): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Student's Name & Signature 
+(optional if the project is proposed by 
+supervisors):  
+ 
+   
+Student ID: 
+Supervisor’s Name & Signature: 
+ 
+ 
+ 
+Date:   
+Co-Supervisor’s Name & Signature: 
+ 
+ 
+Date:   
+ 
+
+ST 4001 AY 2025 
+Student Name 
+Student ID 
+Appendix III 
+Task Plan of Thesis Project 
+Project
+Title: 
+ 
+ 
+Progress Timeline: 
+(From Oct 18th 2025 to May 22nd 2026) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Task details of thesis project: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Supervisor 
+Name & 
+Signature: 
+ 
+ 
+Date: 
+ 
+ 
+
+Appendix IV 
+ 
+ 
+ 
+Literature Review  
+& 
+Project Proposal 
+for 
+ST 4001 
+Senior Thesis 
+ 
+ 
+Thesis Title 
+ 
+Student Name  
+ 
+Student ZJU ID 
+ 
+Major 
+ 
+Supervisor name & Signature* 
+ 
+ 
+* Supervisor shall sign the proposal if s/he approves the student to submit the proposal to 
+institute.  
+
+ST 4001 AY 2025 
+Your Name 
+Your ZJU ID 
+2 
+ 
+Table of Contents 
+ 
+Literature Review 
+1 Introduction ................................................................................................................. 3 
+1.1 xxx ................................................................................................................................... 3 
+1.1.1 xxx ............................................................................................................................ 3 
+2 Current Research Fields .............................................................................................. 3 
+2.1 Research direction and current progress in the field ....................................................... 3 
+2.2 Existing Problems and/or Obstacles ................................................................................ 3 
+3 Prospectives in the research field ................................................................................ 3 
+Project Proposal 
+1. 
+Research Background (Chapter Title - Bolded, Times New Roman, size 18) ....... 4 
+1.1 
+Introduction to the research fields (Section Title - Bolded, Times New Roman, size 
+14) 
+4 
+1.2 
+Aim and Significance of the proposal ........................................................................ 4 
+2. 
+Proposed Research Approaches ............................................................................. 4 
+2.1 Major research approaches .............................................................................................. 4 
+2.2 Techniques and Methodology ......................................................................................... 4 
+2.3 Feasibility analysis .......................................................................................................... 4 
+3. 
+Project schedule and Expected Outcome ............................................................... 4 
+3.1 Research schedule ........................................................................................................... 4 
+3.2 Expected outcome ........................................................................................................... 4 
+4. 
+Research Progress ................................................................................................... 5 
+Preliminary results ................................................................................................................. 5 
+References 
+ 
+ 
+ 
+ 
+
+ST 4001 AY 2025 
+Your Name 
+Your ZJU ID 
+3 
+ 
+Literature Review 
+1 Introduction  
+(Chapter Title - Bolded, Times New Roman, size 18) 
+Main content : xxx(Times New Roman, size 12, double linespace) 
+1.1 Xxx (Section Title - Bolded, Times New Roman, size 14) 
+Main content : xxx xxxxxxxxxxxxxxxxxxxxxxxxxxxxx.[1] (Times New Roman, size 12, 
+double linespace. Reference is cited by number in square brackets. Paragraph alignment: 
+fully justified.) 
+1.1.1 (Times New Roman, size 12, double linespace) 
+ 
+2 Current Research Fields  
+2.1 Research direction and current progress in the field  
+2.2 Existing Problems and/or Obstacles  
+2.2.1 xxxxxxxxxxxxxxxx (Times New Roman, size 12, double linespace) 
+3 Prospectives in the research field  
+ 
+ 
+
+ST 4001 AY 2025 
+Your Name 
+Your ZJU ID 
+4 
+ 
+Project Proposal 
+1. Research Background  
+(Chapter Title - Bolded, Times New Roman, size 16) 
+Main content : xxx(Times New Roman, size 12, double linespace) 
+1.1 Introduction to the research fields (Section Title - Bolded, Times 
+New Roman, size 14) 
+Main content: xxxxxxxxxxxxxxxxxxxxxxxxx.[1] (Times New Roman, size 12, double 
+linespace. Reference is cited by number in square brackets. Paragraph alignment: 
+fully justified.) 
+1.1.1 xxxxxxxxxxxxxxxxxxxxxxxxxx (Times New Roman, size 12, double linespace) 
+ 
+1.2 Aim and Significance of the proposal  
+ 
+2. Proposed Research Approaches 
+2.1 Major research approaches  
+2.2 Techniques and Methodology 
+2.3 Feasibility analysis  
+2.3.1 xxxxxxxxxxxxxxxxx (Times New Roman, size 12, double linespace) 
+3. Project schedule and Expected Outcome  
+3.1 Research schedule  
+3.2 Expected outcome  
+ 
+
+ST 4001 AY 2025 
+Your Name 
+Your ZJU ID 
+5 
+ 
+4. Research Progress 
+4.1 Preliminary results 
+Main content: xxxxxxxxxxxxxxxxxxxxxxxxx.[1] (Times New Roman, size 12, double 
+linespace. Reference is cited by number in square brackets. Paragraph alignment: 
+fully justified.) 
+ 
+ 
+
+ST 4001 AY 2025 
+Your Name 
+Your ZJU ID 
+6 
+ 
+References 
+(The reference list should be placed after the main text, in Times New Roman, size 12, 
+with single line spacing, and start on a new page. Paragraph alignment: fully justified.) 
+ 
+[1] ENGEL P A.  Impact Wear of Materials[M]. 2nd ed. New York: Elsevier, 1986. 
+(Published books: should give authors, title of the book, edition, publisher, publish 
+year and the page cited if applicable.) 
+[2] Hao, Z., AghaKouchak, A., Nakhjiri, N. & Farahmand, A. Global Integrated 
+Drought Monitoring and Prediction System (GIDMaPS) data sets. figshare 
+http://dx.doi.org/10.6084/m9.figshare.853801 (2014). (research datasets: Research 
+datasets may be cited in the reference list if they have been assigned digital object 
+identifiers (DOIs) and include authors, title, publisher (repository name), identifier 
+(DOI expressed as a URL). ) 
+[3] Babichev, S. A., Ries, J. & Lvovsky, A. I. Quantum scissors: teleportation of 
+single-mode optical states by means of a nonlocal single photon. Preprint at 
+http://arXiv.org/quant-ph/0208066 (2002). (Recognized preprints may be cited in 
+the reference list.) 
+[4] Yu, X., Li, C., Wang, Z., Xu, Y., Shao, S., Shao, F., Wang, H., & Liu, 
+J. Neutrophils 
+in 
+cancer: 
+dual 
+roles 
+through 
+intercellular 
+interactions. Oncogene, 2024, 43(11), 1-15 (published journal papers or 
+conference abstracts: should give authors, article title and journal name as above, 
+followed by URL in full - or DOI if known - and the year of publication in 
+parentheses.) 
+[5] Lu, Q. et. al. www.bing.com (Websites: should give authors if known, title of cited 
+page, URL in full, and year of posting in parentheses.) 
+[6] Hilderbran, S., Weissleder, R., and Shao, F., Monofunctional carbocyanine dyes 
+for in vivo and in vitro imaging, US Patent No. WO 2010054330, May, 2010 
+(numbered patents: should give authors, patent title and patent number and country) 
+[7]  Wang Y., Zhang Q., Qin M., et.al Knowledge-aware Reinforced Language Models 
+for Protein Directed Evolution Proceedings of the 41st International Conference 
+on Machine Learning, PMLR 235:52260-52273, 2024. (conference paper: should 
+give authors, Title of contribution [Paper presentation]. conference Name, 
+Location, Year, Date. DOI or URL) 
+ 
+ 
+
+ST 4001 AY 2025 
+Your Name 
+Your ZJU ID 
+Appendix V 
+Midterm Self-check Form  
+Student 
+Name: 
+ 
+ZJU ID  
+Major 
+ 
+Supervisor 
+ 
+Academic Title 
+ 
+Project Title 
+ 
+Tasks Completed  
+Description（Statement of thesis progress, No more/less than 500 word） 
+ 
+Compliance with Task Schedule as per Project Plan (To 
+be filled by the Supervisor (Y/N)) 
+ 
+ 
+Task(s) to be completed 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ST 4001 AY 2025 
+Your Name 
+Your ZJU ID 
+Problems and Solutions 
+ 
+Supervisor 
+signature 
+ 
+Date 
+ 
+ 
+
+ 
+Confidential thesis □ 
+Zhejiang University-University of Illinois Urbana-Champaign Institute 
+ 
+Undergraduate Thesis 
+(Design) 
+ 
+ 
+ 
+Thesis Title 
+ 
+Student Name 
+ 
+Student ID 
+ 
+Supervisor 
+ 
+Class of year 
+ 
+Major 
+ 
+Submission date  
+ 
+
+Class of 2026 
+Your Name 
+Your student ID 
+2 
+ 
+Content Checklist 
+(Student should bind this form on the first page of the thesis after the cover page. The 
+form should be filled out by the supervisor after the oral defense.) 
+ 
+ 
+Student Name 
+ 
+ZJU ID 
+ 
+Major   
+Supervisor  
+ 
+Academic 
+Title 
+ 
+Thesis title 
+ 
+Content Checklist 
+Evaluation 
+Section（√） 
+Senior Thesis  
+1．Cover (Use the unified cover, blue recommended) 
+Good 
+Fair 
+2．Academic integrity Commitment of Senior Thesis 
+ 
+ 
+3.  Acknowledgements 
+ 
+ 
+4．Abstract 
+ 
+ 
+5．Table of Contents  
+ 
+ 
+6．Main Content (Page numbers start from the main text) 
+ 
+ 
+7．Reference 
+ 
+ 
+8．Appendix（if need） 
+ 
+ 
+9. Author's Biography 
+ 
+ 
+10. Task plan of senior thesis 
+ 
+ 
+11. Assessment Form of senior thesis 
+ 
+ 
+12. On-site Minutes Form of Oral Defense 
+ 
+ 
+Signature of Supervisor: 
+ 
+Date: 
+
+Class of 2026 
+Your Name 
+Your student ID 
+3 
+ 
+ 
+ 
+Academic integrity Commitment of Senior Thesis  
+ 
+1. I solemnly promise that the submitted thesis has been completed under the guidance 
+of my supervisor in strict accordance with the relevant regulations of the university and 
+the college. 
+2. In my thesis, except for the parts specifically marked and acknowledged, it does not 
+contain research results that have been published or written by others, nor does it 
+contain materials used to obtain degrees or certificates from Zhejiang University or 
+other educational institutions. 
+3. Any contributions made by my colleagues to this research have been clearly stated 
+and acknowledged in the thesis. 
+4. I promise that there has been no fabrication of data in the process of completing the 
+thesis. 
+5. If there is any infringement of intellectual property rights in this thesis, I shall bear 
+the corresponding legal responsibilities. 
+6. I fully understand that Zhejiang University has the right to retain and submit copies 
+and disks of this thesis (design) to relevant departments or agencies, and to allow the 
+thesis (design) to be consulted and borrowed. I authorize Zhejiang University to include 
+all or part of this thesis (design) in relevant databases for retrieval and dissemination, 
+and to save and compile this thesis (design) by means of photocopying, reduction, or 
+scanning. 
+ 
+ 
+ 
+Author's Signature:                      Supervisor's Signature: 
+ 
+Date:                                 Date:     
+ 
+ 
+ 
+
+Class of 2026 
+Your Name 
+Your student ID 
+4 
+ 
+Acknowledgements 
+(Times New Roman, size 24, start in a new page) 
+ 
+(main text: Times New Roman, size 12, double linespace. Reference is cited by number 
+in square brackets. Paragraph alignment: fully justified.) 
+×××××××××××××××××××××××××××××××××××××××××××××××××××××××××
+×××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××
+×××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××
+×××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××
+×××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××
+×××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××
+×××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××
+××××××××××××××××  
+ 
+ 
+ 
+
+Class of 2026 
+Your Name 
+Your student ID 
+5 
+ 
+Abstract 
+(Times New Roman, size 24, start in a new page, no more than 300 words) 
+ 
+(main text: Times New Roman, size 12, double linespace. Reference is cited by number 
+in square brackets. Paragraph alignment: fully justified.) 
+×××××××××××××××××××××××××××××××××××××××××××××××××××××××××
+×××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××
+×××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××
+×××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××
+×××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××
+×××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××
+×××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××
+××××××××××××××××  
+ 
+ 
+ 
+ 
+
+Class of 2026 
+Your Name 
+Your student ID 
+6 
+ 
+Content  
+Chapter 1. Introduction .................................................................................................. 7 
+1.1 Section Title .................................................................................................................... 7 
+Chapter 2. Title of Chapter 2 ......................................................................................... 8 
+2.1 Section Title .................................................................................................................... 8 
+Chapter 5. Conclusion .................................................................................................. 11 
+References ...................................................................................... 错误!未定义书签。 
+Appendix ...................................................................................................................... 13 
+Author's Biography ...................................................................................................... 14 
+ 
+ 
+ 
+ 
+
+Class of 2026 
+Your Name 
+Your student ID 
+7 
+ 
+Chapter 1. Introduction  
+(Chapter Title - Bolded, Times New Roman, size 18) 
+1.1 Section Title 
+(Section Title - Bolded, Times New Roman, size 14) 
+(main text: Times New Roman, size 12, double linespace. Reference is cited by number 
+in square brackets. Paragraph alignment: fully justified.) 
+×××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××
+×××××××××××××××××××××××××× 
+ 
+1.1.1 (sub-Section Title - Bolded, Times New Roman, size 12) 
+(main text: Times New Roman, size 12, double linespace. Reference is cited by number 
+in square brackets. Paragraph alignment: fully justified.) 
+×××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××
+×××××××××××××××××××××××××× 
+ 
+1.1.2 (sub-Section Title - Bolded, Times New Roman, size 12) 
+(main text: Times New Roman, size 12, double linespace. Reference is cited by number 
+in square brackets. Paragraph alignment: fully justified.) 
+×××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××
+×××××××××××××××××××××××××× 
+
+Class of 2026 
+Your Name 
+Your student ID 
+8 
+ 
+Chapter 2. Title of Chapter 2  
+2.1 Section Title 
+(Section Title - Bolded, Times New Roman, size 14) 
+(main text: Times New Roman, size 12, double linespace. Reference is cited by number 
+in square brackets. Paragraph alignment: fully justified.) 
+×××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××
+×××××××××××××××××××××××××× 
+ 
+2.1.1 (sub-Section Title - Bolded, Times New Roman, size 12) 
+(main text: Times New Roman, size 12, double linespace. Reference is cited by number 
+in square brackets. Paragraph alignment: fully justified.) 
+×××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××
+×××××××××××××××××××××××××× 
+ 
+2.1.2 (sub-Section Title - Bolded, Times New Roman, size 12) 
+(main text: Times New Roman, size 12, double linespace. Reference is cited by number 
+in square brackets. Paragraph alignment: fully justified.) 
+×××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××
+×××××××××××××××××××××××××× 
+ 
+ 
+ 
+
+Class of 2026 
+Your Name 
+Your student ID 
+9 
+ 
+Y=f(x)
+y
+(x,Y)
+T1
+x
+(x,y)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2.1 ××××××××××(Figure XX (bold) figure captions:Times New 
+Roman, size 12, single linespace) 
+ 
+EQI =∑
+𝑊𝑊𝑗𝑗∗𝑟𝑟𝑟𝑟𝑟𝑟
+𝑛𝑛
+𝑖𝑖=1
+                           （2-1） 
+EHI = L1 × ESI + L2× EQI                     （2-2） 
+EE/EHI = β0 + β1PCG + β2RGP+…+βiXi+ 
+…+β9ICWUR+β10 ECPG+β11WCPG+εi          （2-3） 
+Table 2.1 ×××××××××××××××× (bold, Times New Roman, size 12, single 
+linespace. Paragraph alignment: centered) 
+××× 
+××× 
+××× 
+×××××××××××××××××××××××××××××××××××××
+××××××××××××××××× 
+××× 
+××××××××××××××××××××××××××××××××××××××××
+×××××××××××××× 
+××× 
+××××××××××××××××××××××××××××××××××××××××
+×××××××××××××× 
+××× 
+××××××××××××××××××××××××××××××××××××××××
+×××××××××××××× 
+××× 
+××××××××××××××××××××××××××××××××××××××××
+×××××××××××××× 
+××× 
+××××××××××××××××××××××××××××××××××××××××
+×××××××××××××× 
+××× 
+××××××××××××××××××××××××××××××××××××××××
+×××××××××××××× 
+
+Class of 2026 
+Your Name 
+Your student ID 
+10 
+ 
+ Table 2.1（continue） ×××××××××××××××× (bold, Times New Roman, size 
+12, single linespace. Paragraph alignment: centered) 
+××× 
+××× 
+××× 
+×××××××××××××××××××××××××××××××××××××
+××××××××××××××××× 
+××× 
+×××××××××××××××××××××××××××××××××××××
+××××××××××××××××× 
+××× 
+×××××××××××××××××××××××××××××××××××××
+××××××××××××××××× 
+××× 
+××××××××××××××××××××××××××××××××××××××××
+×××××××××××××× 
+ 
+
+Class of 2026 
+Your Name 
+Your student ID 
+11 
+ 
+Chapter 3. Conclusion  
+(Chapter Title - Bolded, Times New Roman, size 18) 
+(main text: Times New Roman, size 12, double linespace. Reference is cited by number 
+in square brackets. Paragraph alignment: fully justified.) 
+×××××××××××××××××××××××××××××××××××××××××××××××××××××××××××××
+×××××××××××××××××××××××××× 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Class of 2026 
+Your Name 
+Your student ID 
+12 
+ 
+References 
+(The reference list should be placed after the main text, in Times New Roman, size 12, 
+with single line spacing, and start on a new page. Paragraph alignment: fully justified.) 
+[1] ENGEL P A.  Impact Wear of Materials[M]. 2nd ed. New York: Elsevier, 1986. 
+(Published books: should give authors, title of the book, edition, publisher, publish 
+year and the page cited if applicable.) 
+[2] Hao, Z., AghaKouchak, A., Nakhjiri, N. & Farahmand, A. Global Integrated 
+Drought Monitoring and Prediction System (GIDMaPS) data sets. figshare 
+http://dx.doi.org/10.6084/m9.figshare.853801 (2014). (research datasets: Research 
+datasets may be cited in the reference list if they have been assigned digital object 
+identifiers (DOIs) and include authors, title, publisher (repository name), identifier 
+(DOI expressed as a URL). ) 
+[3] Babichev, S. A., Ries, J. & Lvovsky, A. I. Quantum scissors: teleportation of 
+single-mode optical states by means of a nonlocal single photon. Preprint at 
+http://arXiv.org/quant-ph/0208066 (2002). (Recognized preprints may be cited in 
+the reference list.) 
+[4] Yu, X., Li, C., Wang, Z., Xu, Y., Shao, S., Shao, F., Wang, H., & Liu, 
+J. Neutrophils 
+in 
+cancer: 
+dual 
+roles 
+through 
+intercellular 
+interactions. Oncogene, 2024, 43(11), 1-15 (published journal papers or 
+conference abstracts: should give authors, article title and journal name as above, 
+followed by URL in full - or DOI if known - and the year of publication in 
+parentheses.) 
+[5] Lu, Q. et. al. www.bing.com (Websites: should give authors if known, title of cited 
+page, URL in full, and year of posting in parentheses.) 
+[6] Hilderbran, S., Weissleder, R., and Shao, F., Monofunctional carbocyanine dyes 
+for in vivo and in vitro imaging, US Patent No. WO 2010054330, May, 2010 
+(numbered patents: should give authors, patent title and patent number and country) 
+[7]  Wang Y., Zhang Q., Qin M., et.al Knowledge-aware Reinforced Language Models 
+for Protein Directed Evolution Proceedings of the 41st International Conference 
+on Machine Learning, PMLR 235:52260-52273, 2024. (conference paper: should 
+give authors, Title of contribution [Paper presentation]. conference Name, 
+Location, Year, Date. DOI or URL) 
+ 
+ 
+ 
+
+Class of 2026 
+Your Name 
+Your student ID 
+13 
+ 
+Appendix 
+(if applicable) 
+You can attach your publication, patent document, etc here. 
+ 
+ 
+
+Class of 2026 
+Your Name 
+Your student ID 
+14 
+ 
+Author's Biography 
+(Chapter Title - Bolded, Times New Roman, size 24) 
+(Main text: Times New Roman, size 12, 1.5 linespace) 
+1. Personal Information 
+Name: Cheng Xiaodan    
+Gender: Female    
+Date of Birth: 1976-07-23    
+2.  Education  
+1992.09-1995.07   Hangzhou Xuejun High School 
+1995.09-1999.07   Zhejiang University, Bachelor's Degree 
+3. Awards 
+4. Research Experience 
+5. Publications and Patents 
+ 
+
+ST 4001 AY 2025 
+Your Name 
+Your ZJU ID 
+Appendix VII 
+ 
+ 
+ 
+Academic Integrity Commitment of Senior Thesis  
+ 
+1. I solemnly promise that the submitted thesis has been completed under the guidance 
+of my supervisor in strict accordance with the relevant regulations of the university and 
+the college. 
+2. In my thesis, except for the parts specifically marked and acknowledged, it does not 
+contain research results that have been published or written by others, nor does it 
+contain materials used to obtain degrees or certificates from Zhejiang University or 
+other educational institutions. 
+3. Any contributions made by my colleagues to this research have been clearly stated 
+and acknowledged in the thesis. 
+4. I promise that there has been no fabrication of data in the process of completing the 
+thesis. 
+5. If there is any infringement of intellectual property rights in this thesis, I shall bear 
+the corresponding legal responsibilities. 
+6. I fully understand that Zhejiang University has the right to retain and submit copies 
+and disks of this thesis to relevant departments or agencies, and to allow the thesis to 
+be consulted and borrowed. I authorize Zhejiang University to include all or part of this 
+thesis in relevant databases for retrieval and dissemination, and to save and compile 
+this thesis by means of photocopying, scanning or abridging. 
+ 
+ 
+ 
+Author's Signature:                      
+ 
+ Supervisor's Signature: 
+ 
+Date:                                 
+ 
+ 
+ Date:     
+ 
+ 
+
+ST 4001 AY 2025 
+Student Name 
+Student ID 
+Appendix VIII 
+On-site Minutes of Oral Defense  
+Project Title 
+ 
+Student 
+Name: 
+ 
+ZJU ID  
+Major 
+ 
+Supervisor 
+ 
+Academic Title 
+ 
+Co-supervisor 
+ 
+Academic Title 
+ 
+Defense 
+Time 
+ 
+Defense 
+Location 
+ 
+Thesis 
+Committee 
+Members  
+ 
+Minutes of Oral Defense: (Specific records and evaluations are required for the 
+presentation and answering of questions during the defense) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Name 
+and 
+Signature 
+of 
+minute 
+recorder: 
+ 
+Date: 
+Chairman of thesis committee & 
+Signature: 
+ 
+Date: 
+
+ST 4001 AY 2025 
+Student Name 
+Student ID 
+Appendix IX 
+Assessment Form of Senior Thesis  
+Supervisor’s comments (more than 50 EN words): 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Supervisor’s Signature:              Date: 
+ 
+Thesis Committee check the following box: 
+□ Agree to oral defense.             □ Agree to oral defense after revisions. 
+□ Does not meet the requirements for oral defense. 
+Name & Signature of committee chair: 
+ 
+Date: 
+Comments from Thesis Committee: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ST 4001 AY 2025 
+Student Name 
+Student ID 
+Marking 
+rubrics 
+Project 
+Proposal 
+(10%) 
+Mid-term 
+Check 
+(5%) 
+Senior 
+thesis 
+(50%) 
+Oral 
+defense 
+(30 %) 
+Outcome
+* (5%) 
+Total 
+(max. 100 
+marks) 
+Grades 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Committee Chair’s Signature:             Date: 
+ 
+*Outcome: The detail will be announced later. 
+ 
+
+ST 4001 AY 2025 
+Student Name 
+Student ID 
+Appendix X  
+ 
+ZJUI Compact on Confidential 
+Control of Senior Thesis 
+ 
+Student's Department (Faculty) 
+，Name 
+， 
+ID 
+，Thesis Title 
+ 
+，Reason for 
+Confidentiality Application： 
+ 
+ 
+ 
+ 
+ 
+， Applying for the thesis (design) to be classified as confidential, with a 
+retention period of 2 years，From 
+（thesis submission date）To 
+. 
+To maintain the confidentiality of the sensitive content, Party A (Supervisor) and Party 
+B (persons involved with the confidential thesis (design), including the student, 
+reviewers, defense committee members, etc.) agree to the following terms: 
+(I) During the confidentiality period, the thesis author must comply with the following 
+provisions: 
+1. Do not take confidential project documents and materials (including paper and 
+electromagnetic media) out of the laboratory privately, do not copy, excerpt, save, 
+or destroy them privately, and do not discuss the confidential content of the project 
+with unrelated personnel. 
+2. Do not conduct confidential research projects or write confidential theses on 
+networked computers, and all drafts must not be discarded casually; they must be 
+destroyed using a paper shredder. 
+3. Do not use software other than the university's unified detection platform to test 
+the thesis. 
+4. If a thesis needs to be published during the confidentiality period of the 
+graduation thesis (design), it must undergo declassification processing. 
+5. Upon graduation, all confidential materials and items must be handed over to the 
+management department of the student's department (faculty). 
+6. After graduation, the confidential content must still be kept confidential and must 
+not be disclosed in any form (direct, indirect, oral, or written). 
+(II) During the confidentiality period, reviewers, defense committee members, and 
+other relevant personnel must comply with the following provisions: 
+1. After reviewing, return the thesis to Party A. 
+2. Before the internal secrets they are aware of are declassified, do not disclose the 
+secrets they have access to any unit or individual outside the scope of knowledge 
+in any form (direct, indirect, oral, or written). 
+If the above commitments are violated and confidential content is leaked, Party B 
+
+ST 4001 AY 2025 
+Student Name 
+Student ID 
+will bear the corresponding legal responsibility for the leak. For serious cases, legal 
+action will be taken. 
+This agreement takes effect from the date of signature by both parties and 
+automatically expires upon the declassification of this thesis. 
+ 
+Party A (Supervisor) Signature: 
+ 
+ 
+ 
+ 
+Department (Faculty) Head Signature: 
+ 
+ 
+Date: 
+(Seal) 
+ 
+ 
+ 
+ 
+Party B (Signature): 
+Date: 
+ 
+ 
+ 
+ 
+Notes: 
+1. Students, thesis reviewers, defense committee members, and other relevant 
+personnel involved with the confidential thesis (design) can sign the same 
+agreement form. 
+2. This form is in duplicate, with one copy for the supervisor and one copy for the 
+undergraduate student. 
+3. This form must not be filled out, printed, emailed, or transmitted on networked 
+computers. 
+ 

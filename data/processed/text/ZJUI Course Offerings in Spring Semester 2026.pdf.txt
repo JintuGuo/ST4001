@@ -1,0 +1,995 @@
+ZJUI_UndergradEd
+7 分钟读完
+ZJUI Course Offerings in Spring Semester 2026
+All the courses offered in Spring Semester 2026 are categorized into the following
+three types: 
+ 
+Courses are also categorized as mandatory (section 3 in your curriculum) and
+elective ones (section 4 in your curriculum). 
+ 
+Please read all the following notes before dive into the course table.
+1. UIUC courses are those taught by UIUC faculties or co-taught by ZJUI and
+UIUC faculties. The academic credits (AU) earned from UIUC courses  are
+therefore counted as UIUC credits. Final grades will be recorded in both ZJUI
+and UIUC systems.
+All UIUC courses are highlighted in blue in the course tables.
+2. ZJUI courses  are those taught by ZJUI faculties normally without the
+involvement of UIUC faculties. AUs earned from ZJUI courses are therefore
+counted as ZJUI credits.   Grades of these courses will be recorded in
+INTL PeopleSoft system and will be transferred to UIUC after students have
+been  successfully admitted by UIUC through international transfer during
+their junior year.
+3. ZJU courses  are those taught by  ZJU faculties that are used to fulfil the
+graduation requirement for the ZJU degree.
+1. Mandatory courses include fundamental mathematics and science, technical
+cores, and composition. Everyone must complete all mandatory courses.
+2. Elective courses  include technical courses, general education (liberal
+education) and free electives. Elective courses are optional. Students must
+take sufficient AUs from elective courses to fulfil the total credit requirement
+of both ZJU and UIUC degrees. Free electives can be almost any course under
+the categories of ZJUI and UIUC courses.
+2026/2/22 11:23
+ZJUI Course Offerings in Spring Semester 2026
+https://zjuintl.sharepoint.com/sites/ZJUIUG/SitePages/ZJUI Course-Offerings-in-Spring-Semester-2026.aspx
+1/13
+
+ 
+1.ZJUI and UIUC courses
+ 
+A. Freshmen courses
+ 
+COURSE
+CODE
+COURSE NAME
+AU
+INSTRUCTORS
+COURSE
+TYPE
+Pre-
+requisite
+MATH
+231
+Calculus II
+3
+Cui Zhou
+ZJUI
+Math 221
+MATH
+241
+Calculus III
+4
+Cui Zhou
+ZJUI
+Math 231
+PHYS
+211
+University
+Physics:
+Mechanics 
+4
+Kemal
+Celebi/Huanxin
+Xia
+ZJUI
+ 
+CHEM
+102
+General
+Chemistry I
+3
+Ye Shi
+ZJUI
+ 
+CHEM
+103
+General
+Chemistry Lab
+I
+1
+Mian Pan/Miao
+Huang
+ZJUI
+Chem 102
+or
+concurrent
+CS 101
+Introduction to
+Computing
+3
+Yushi Cheng/
+Gaoang Wang
+ZJUI
+ 
+Math
+257
+Linear Algebra
+with
+Computational
+Applications
+3
+Xiangming Meng
+ZJUI
+Math 221
+ECE 110
+Introduction to
+Electronics
+3
+Yu Lin /Umberto
+Ravaioli(UIUC)
+UIUC
+ 
+1. All the available courses in SP 2026 are listed below according to the main
+cohort of attendance.
+2. Students are NOT allowed to register more than 18 AUs of the sum of ZJUI
+and UIUC courses.
+3. Students must satisfy the pre-requisites for course registration. The pre-
+requisites of each course are listed along with course in the following table.
+ 
+2026/2/22 11:23
+ZJUI Course Offerings in Spring Semester 2026
+https://zjuintl.sharepoint.com/sites/ZJUIUG/SitePages/ZJUI Course-Offerings-in-Spring-Semester-2026.aspx
+2/13
+
+COURSE
+CODE
+COURSE NAME
+AU
+INSTRUCTORS
+COURSE
+TYPE
+Pre-
+requisite
+ECE
+120
+Intro to
+Computing
+4
+Lin Qiu /Ujjal
+Bhowmik(UIUC)
+UIUC
+ 
+ECE
+220
+Computer
+Systems &
+Programming
+4
+Bruce Yu
+/Steven Lumetta
+(UIUC)
+UIUC
+ ECE 120
+ME 170
+Computer-
+Aided Design
+3
+Xinlei Wang
+(UIUC in-
+person)
+UIUC
+ 
+SE 101
+Engineering
+Graphics &
+Design
+3
+Xinlei Wang
+(UIUC in-
+person)
+UIUC
+ 
+RHET
+102
+Principles of
+Research
+4
+Madeline
+ Furlong /Min
+Yang/Ryan
+Flanagan/Ashely
+Barr
+UIUC
+Rhet 101
+B. Sophomore Courses
+1. AU Cap: Semester AU cap in Spring 2026 is set at 19 AU for all the freshmen. 
+2. CivE Required: Chem 102/103, Math 231/Math 241, SE 101, RHET 102.
+Student can register ECE 110 or ECE 120 or GenEd (Friday), if s/he has not
+reached AU cap.
+3. CompE required: Math 231/Math 241, ECE 220, PHYS 211, RHET 102. Student
+can register MATH 257 or CS 101 or GenEd (Friday), if s/he has not reached
+AU cap.
+4. EE required: Math 231/Math 241, ECE 120, PHYS 211, RHET 102. Student can
+register MATH 257, CS 101 or GenEd, if s/he has not reached AU cap.
+5. ME required: Chem 102/103, Math 231/Math 241, ME 170, ECE 110, RHET
+102. 
+6. All required courses are pre-registered. Student cannot drop these courses
+unless approved by institute.
+ 
+2026/2/22 11:23
+ZJUI Course Offerings in Spring Semester 2026
+https://zjuintl.sharepoint.com/sites/ZJUIUG/SitePages/ZJUI Course-Offerings-in-Spring-Semester-2026.aspx
+3/13
+
+COURSE
+CODE
+COURSE NAME
+AU
+INSTRUCTORS
+COURSE
+TYPE
+Pre-
+requisi
+ECE 210
+Analog Signal
+Processing
+4
+Aili
+Wang+Hanzhi
+Ma/Erhan Kudeki
+(UIUC)
+UIUC
+ECE 110
+ECE 211
+Analog Circuits &
+Systems
+2
+Aili
+Wang+Hanzhi
+Ma/Erhan Kudeki
+(UIUC)
+UIUC
+ECE 110
+MATH
+285
+Intro to
+Differential Eq
+3
+Shurun Tan/Bo
+Zhao
+ZJUI
+Math 24
+PHYS
+213
+Univ Physics:
+Thermal Physics
+2
+Alex
+Penkov/Huanxin
+Xia
+ZJUI
+Phys 211
+PHYS
+214
+Univ Physics:
+Quantum Physics
+2
+Shurun Tan/ Said
+Mikki /Huanxin
+Xia
+ZJUI
+Phys 212
+CS 225
+Data Structures
+4
+Yushi
+Cheng/Gaoang
+Wang/Volodymyr
+Kindratenko
+(UIUC)
+UIUC
+ECE 220 
+Math 21
+CEE 202
+Engineering Risk
+& Uncertainty 
+3
+Binbin Li
+ZJUI
+CS 101 &
+Math 24
+or
+concurre
+ME 200
+Thermodynamics 
+3
+Jiahuan Cui
+ZJUI
+Math 24
+TAM
+212
+Introductory
+Dynamics 
+3
+Hua Chen/Tom
+Golecki(UIUC)
+UIUC
+Math 24
+TAM
+251
+Introductory
+Solid Mechanics 
+3
+Ye Shi
+ZJUI
+TAM 211
+2026/2/22 11:23
+ZJUI Course Offerings in Spring Semester 2026
+https://zjuintl.sharepoint.com/sites/ZJUIUG/SitePages/ZJUI Course-Offerings-in-Spring-Semester-2026.aspx
+4/13
+
+COURSE
+CODE
+COURSE NAME
+AU
+INSTRUCTORS
+COURSE
+TYPE
+Pre-
+requisi
+ECE 313
+Probability with
+Engineering
+Application
+3
+Piao Chen/Ravi
+Iyer (UIUC)
+UIUC
+Math 25
+or
+Concurre
+ECE 314
+Probability in
+Engineering Lab
+1
+Piao Chen/Ravi
+Iyer (UIUC)
+UIUC
+ECE 313 
+Concurre
+ 
+C. Junior Courses
+COURSE
+CODE
+COURSE NAME
+AU
+INSTRUCTORS
+COURSE
+TYPE
+Pre-r
+ECE 206
+Electrical and
+Electronic Circuits
+Lab
+1
+Si Li/ Zhejun
+Tang
+ZJUI
+ECE 211
+1. AU cap: Semester AU cap in Spring 2026 is set at 18 AU for all the
+sophomore.
+2. CivE required: CEE 202, TAM 212, TAM 251, PHYS 213, MATH 285. Student
+can register GenEd or other electives but ECE 313, if s/he has not reached AU
+cap.
+3. CompE required: ECE 210, CS 225, PHYS 213, PHYS 214, MATH 285, ECE 313
+if not yet. Student can register GenEd, if s/he has not reached AU cap.
+4. EE required: ECE 210, PHYS 213, PHYS 214, MATH 285, ECE 313 if not yet.
+Student can register CS225, or GenEd, if s/he has not reached AU cap.
+5. ME required: ECE 211, ME 200, TAM 212, TAM 251, MATH 285, PHYS 213/214
+if s/he has not completed science electives yet. Student can register ECE 313
+or GenEd, if s/he has not reached AU cap.
+6. All required courses are pre-registered. Student cannot drop these courses
+unless approved by institute. 
+7. EE students should register ECE 210, PHYS 213 and PHYS 214 by themselves.
+ME students who have not completed science electives will pre-registered
+to PHYS 213/214 by UA office.
+8. Sophomore students who have not passed MATH 257, must take MATH 257
+in SP 2026.
+2026/2/22 11:23
+ZJUI Course Offerings in Spring Semester 2026
+https://zjuintl.sharepoint.com/sites/ZJUIUG/SitePages/ZJUI Course-Offerings-in-Spring-Semester-2026.aspx
+5/13
+
+COURSE
+CODE
+COURSE NAME
+AU
+INSTRUCTORS
+COURSE
+TYPE
+Pre-r
+ECE 310
+Digital Signal
+Processing
+3
+Bo Zhao/Zhi-
+Pei Liang (UIUC)
+UIUC
+ECE 210
+ECE 311
+Digital Signal
+Processing Lab
+1
+Bo Zhao/Zhi-
+Pei Liang (UIUC)
+UIUC
+ECE 310 o
+ECE 330
+Power Circuits &
+Electromechanics 
+3
+Fanfan Lin/Olga
+Mironenko
+(UIUC)
+UIUC
+ECE 210
+ECE 340
+Semiconductor
+Electronics
+3
+Said Mikki
+/Jean-Pierre
+Leburton
+(UIUC)
+UIUC
+ECE 210 &
+ECE 342
+Electronic Circuits
+3
+Aili Wang
+ZJUI
+ECE 210
+ECE 343
+Electronic Circuits
+Laboratory
+1
+Aili Wang
+ZJUI
+ECE 342 o
+concurren
+ECE 364
+Programing
+methods for
+machine learning
+3
+Qiang
+Zhang/Nickvash
+Kani (UIUC)
+UIUC
+Math 257
+ECE 374
+Introduction to
+Algorithms &
+Models of
+Computation
+4
+Pavel Loskot 
+ZJUI 
+(CS 173 or
+213)& CS 
+ECE 385
+Digital Systems
+Laboratory 
+3
+Chushan
+Li/Zuofu Cheng
+(UIUC) 
+UIUC
+ECE 110 &
+CEE
+300*
+Behavior of
+Materials 
+4
+Yasutaka
+Narazaki
+ZJUI
+ CHEM 10
+CEE 310
+Transportation
+Engineering
+3
+Simon
+Hu/Ramez Hajj
+(UIUC)
+UIUC
+CEE 202
+CEE 350
+Water Resources
+Engineering
+3
+Tingju Zhu/Ana
+Barros (UIUC)
+UIUC
+CEE 202 &
+concurren
+2026/2/22 11:23
+ZJUI Course Offerings in Spring Semester 2026
+https://zjuintl.sharepoint.com/sites/ZJUIUG/SitePages/ZJUI Course-Offerings-in-Spring-Semester-2026.aspx
+6/13
+
+COURSE
+CODE
+COURSE NAME
+AU
+INSTRUCTORS
+COURSE
+TYPE
+Pre-r
+CEE 360
+Structural
+Engineering
+3
+Yasutaka
+Narazaki/Jinhui
+Yan(UIUC)
+UIUC
+TAM 251
+TAM335
+Introductory
+Fluid Mechanics
+4
+Jiahuan Cui/Jie
+Feng (UIUC)
+UIUC
+TAM 212
+ME 310#
+Fundamentals of
+Fluid Dynamics 
+4
+Jiahuan Cui/Jie
+Feng (UIUC)
+UIUC
+Math285 
+or concur
+ME 320
+Heat Transfer
+4
+Weeliat Ong/Ke
+Tang (UIUC)
+UIUC
+ME200 & 
+TAM335) 
+ME 330
+Engineering
+Materials
+4
+Kemal
+Celebi/Lili Cai
+(UIUC) 
+UIUC
+ CHEM 10
+ME 340
+Dynamics of
+Mechanical
+Systems
+3.5
+Liangjing Yang
+ZJUI
+MATH 257;
+TAM 212; E
+concurrent
+ME 360
+Signal Processing
+3.5
+Meng Zhang
+/Srinivasa
+Salapaka (UIUC)
+UIUC
+ME 340
+ME 370
+Mechanical
+Design I
+3
+Timothy Lee
+ZJUI
+ME 270 &
+TAM 251
+1. AU cap: Semester AU cap in SP 2026 is set at 18 AU for all the juniors.
+2. ME students must take ECE 206, ME 310, ME 320, ME 330, ME 360 and ME
+370, if s/he has not taken these courses yet.
+3. EE students must take ECE 340, and/or ECE 385, if s/he has not taken ECE 340
+or ECE 385 yet.
+4. CEE students must take CEE 300, TAM 335 and CEE 360 if not yet, and one of
+CEE 310 and CEE 350 according to the selection of secondary area.
+5. #ME students should enroll TAM 335 during the registration period.
+Afterward, the UA office will assess the need for ME 310 and then move the
+corresponding students into that course.
+2026/2/22 11:23
+ZJUI Course Offerings in Spring Semester 2026
+https://zjuintl.sharepoint.com/sites/ZJUIUG/SitePages/ZJUI Course-Offerings-in-Spring-Semester-2026.aspx
+7/13
+
+ 
+D. Senior Courses
+COURSE CODE
+COURSE NAME
+AU
+INSTRUCTORS
+COU
+TYP
+ECE 445
+Senior Design Lab
+4
+Huan Hu/Timothy
+Lee/ Arne
+Fliflet/Craig
+Shultz/Blake
+Johnson(UIUC)  
+UIU
+ME 470
+Senior Design Project
+3
+UIU
+ME 498
+Senior Design
+Supplement
+1
+UIU
+CS 412
+Introduction to data
+mining
+3
+Qingchun Hou
+ZJU
+ECE 428
+Distributed Systems
+  3
+Pavel Loskot
+ZJU
+ECE 448
+Artificial Intelligence
+3
+Hongwei
+Wang/Bruce
+Yu/Mark
+Hasegawa-
+Johnson (UIUC) 
+UIU
+ECE 476
+Power System Analysis
+3
+Ruisheng
+Diao/Subhonmesh
+Bose (UIUC) 
+UIU
+ECE 485/ME
+485*
+Introduction to
+Microelectromechanical
+Devices and Systems 
+3
+Huan Hu 
+ZJU
+ECE 486
+Control Systems
+4
+Liangjing
+Yang/Farzad
+Kamalabadi
+(UIUC)
+UIU
+ECE489/ME446*
+Robot dynamics and
+control
+4
+Hua Chen
+ZJU
+6. *CEE 300 will have lectures with the class of ME 330 till the last couple weeks
+of semester. 
+7. All ME junior and seniors shall take ME 300 series courses.
+2026/2/22 11:23
+ZJUI Course Offerings in Spring Semester 2026
+https://zjuintl.sharepoint.com/sites/ZJUIUG/SitePages/ZJUI Course-Offerings-in-Spring-Semester-2026.aspx
+8/13
+
+COURSE CODE
+COURSE NAME
+AU
+INSTRUCTORS
+COU
+TYP
+ME 471
+Finite Element Analysis
+3
+Yasutaka Narazaki
+ZJU
+ME 472
+Introduction to
+tribology
+3
+Alex Penkov
+ZJU
+CEE 461
+Reinforced Concrete I
+3
+Yan Xiao/David
+Lange (UIUC) 
+UIU
+CEE 465
+Design of Structural
+Systems
+3
+Yan Xiao/ Binbin
+Li
+ZJU
+CEE 450
+Surface Hydrology
+3
+Tingju
+Zhu/Murugesu
+Sivapalan (UIUC)
+UIU
+CEE 498TIS
+Transportation
+Infrastructure and
+Smart Mobility
+3
+Simon Hu/Erol
+Tutumluer(UIUC) 
+UIU
+ABE 436
+Renewable Energy
+Systems
+3
+Xinlei Wang (UIUC
+in person)
+UIU
+ 
+E. Liberal Education courses (GenEd)
+1. CompE, EE and ME students will be pre-enrolled to senior design courses,ECE
+445/ME 470/ME 498, according to curriculum requirements.
+2. All the students in class of 2026 will be pre-enrolled to ST 4001.
+3. All senior students have to make sure that you register sufficient AUs and
+satisfy the curriculum requirements for ZJU degrees, and UIUC degree if
+applicable. 
+4. * Students should enroll ECE 485/ECE 489 during the registration period.
+Afterward, the UA office will assess the need for ME 485/ ME 446 and then
+move the corresponding students into the corresponding ME course.
+1. Liberal Education courses fall into various categories.
+HUM - Humanities and the Arts
+2026/2/22 11:23
+ZJUI Course Offerings in Spring Semester 2026
+https://zjuintl.sharepoint.com/sites/ZJUIUG/SitePages/ZJUI Course-Offerings-in-Spring-Semester-2026.aspx
+9/13
+
+COURSE
+CODE
+COURSE NAME
+AU
+INSTRUCTORS
+CATEGORY
+Weekday
+EALC
+220
+Traditional
+China
+3
+Lu Minzhen
+陆敏珍
+NW/HP
+Tuesday
+ENGL
+116*
+Introduction to
+American
+Literature
+3
+Fang Fan 方凡
+WCC/LA
+Tuesday
+ECON
+102
+Microeconomics
+Principes
+3
+Zhou Mohan
+周默涵
+SS
+Tuesday
+UNWL
+316*
+Modern Chinese
+Literature
+3
+Zhang
+Guanghai 张
+广海
+NW/LA
+Thursday
+PHIL
+206
+Early Modern
+Philosophy
+3
+Tseng Shao
+Kai 曾劭恺
+HP
+Thursday
+SBS - Social and Behavioral Sciences
+CS - Cultural Studies
+a. HP - Historical and Philosophical Perspectives
+b. LA - Literature and the Arts
+a. BSC - Behavioral Sciences
+b. SS - Social Sciences
+a. NW - Non-Western Culture(s)
+b. US - US Minority Cultures
+c. WCC - Western/Comparative Culture(s)
+2. You need to enroll the GenEd courses that satisfy both total AU number and
+AUs in each category and subcategory. For the GenEd you are required to
+satisfy, please check “Liberal Education” in section 4 of your curriculum.
+3. You can take GenEd courses in any semester at either ZJUI or UIUC, as long
+as the semester AU cap permits.
+4. All the GenEd course offered on Haining campus are ZJUI courses and AU is
+counted into total AU number for semester cap.
+5. One (1) Aesthetic Education (AE) courses are required by ZJU degree.
+6. The GenEd courses offered in SP 2026 is shown as following: 
+2026/2/22 11:23
+ZJUI Course Offerings in Spring Semester 2026
+https://zjuintl.sharepoint.com/sites/ZJUIUG/SitePages/ZJUI Course-Offerings-in-Spring-Semester-2026.aspx
+10/13
+
+
+
+COURSE
+CODE
+COURSE NAME
+AU
+INSTRUCTORS
+CATEGORY
+Weekday
+LING
+250
+American
+Voices:
+Linguistic
+Diversity in the
+US
+3
+Li Xuping 李
+旭平 
+US/SS
+Thursday
+ECON
+103
+Macroeconomic
+Principles
+3
+Ye Bing 叶兵
+SS
+Thursday
+GCL 200
+Frameworks for
+Inequality
+3
+Liu Zhen 刘珍
+SS
+Thursday
+HIST
+256
+Britain and the
+World Since
+1688
+3
+Zhang
+Zhengping 张
+正萍 
+WCC/HP
+Friday
+SOC 100
+Introduction to
+Sociology
+3
+Li Haoyue 李
+皓玥 
+SS
+Friday
+*Count as ZJU Aesthetic Education course.
+ 
+ 
+2. ZJU courses
+ 
+Class of
+Year
+Chinese/
+International
+students
+Course
+Code
+Course Title
+Freshmen
+Chinese students
+LAW1002
+思想道德与法治/
+Ideology, Morality and
+Rule of Law
+Freshmen
+Chinese students
+PE1002
+体育Ⅱ/ Physical
+Education Ⅱ
+Freshmen
+Chinese students
+PS1001B
+形势与政策Ⅰ/ Situation
+and Policy Ⅰ
+Freshmen
+Chinese students
+ENGL1002
+综合英语Ⅱ/ Integrated
+English Ⅱ
+2026/2/22 11:23
+ZJUI Course Offerings in Spring Semester 2026
+https://zjuintl.sharepoint.com/sites/ZJUIUG/SitePages/ZJUI Course-Offerings-in-Spring-Semester-2026.aspx
+11/13
+
+Class of
+Year
+Chinese/
+International
+students
+Course
+Code
+Course Title
+Freshmen
+International
+students
+CHIN1002
+基础汉语Ⅱ/Chinese Ⅱ
+sophomore
+Chinese students
+HIST2001
+中国近现代史纲要/
+Modern Chinese History
+sophomore
+Chinese students
+PS3011
+习近平新时代中国特色社
+会主义思想概论/General
+Introduction to Xi
+Jinping Thought on
+Socialism with Chinese
+Characteristics for a New
+Era
+sophomore
+Chinese students
+PE2002
+体育Ⅳ/Physical
+Education Ⅳ
+sophomore
+Chinese students
+PS2001B
+形势与政策Ⅱ/ Situation
+and Policy Ⅱ
+sophomore
+International
+students
+CHIN1004
+基础汉语Ⅳ/Chinese Ⅳ
+sophomore
+International
+students
+HSK4
+国际中文水平与测试
+senior
+Chinese students
+PS2001E
+形势与政策Ⅱ/Situation
+and Policy Ⅱ
+senior
+All ZJUI students
+ST 4001
+Senior Thesis
+ 
+ 
+ 
+Office of Undergraduate Academic Affairs at ZJU-UIUC Institute
+Nov 3rd 2025
+2026/2/22 11:23
+ZJUI Course Offerings in Spring Semester 2026
+https://zjuintl.sharepoint.com/sites/ZJUIUG/SitePages/ZJUI Course-Offerings-in-Spring-Semester-2026.aspx
+12/13
+
+2026/2/22 11:23
+ZJUI Course Offerings in Spring Semester 2026
+https://zjuintl.sharepoint.com/sites/ZJUIUG/SitePages/ZJUI Course-Offerings-in-Spring-Semester-2026.aspx
+13/13

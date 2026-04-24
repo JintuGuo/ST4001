@@ -1,0 +1,312 @@
+Zhejiang University 
+Automation Curriculum 
+(Updated in April 2023) 
+ 
+1. Program Educational Objective 
+This program is an ideal choice for those who wish to pursue studies in Industrial Automation, 
+System Control, and Robotics. It addresses latest technologies and their applications in control 
+science and engineering, enabling students to explore new technology innovations to serve 
+social demands.  
+ 
+2. Graduation Requirement 
+1) 
+Curriculum Requirement 
+The curriculum leading to the degree of Bachelor of Science in Automation from ZJU requires 
+135 hours and is organized into required courses, technical electives, liberal education, 
+Chinese language and society study and other electives.  
+ 
+3. Required Courses 
+3.1 
+Orientation and Professional Development 
+These courses introduce the opportunities and resources our institute and curriculum can offer 
+you as you work to achieve your career goals. They also provide the skills to work effectively 
+and successfully in the engineering profession. 
+ 
+Course Code 
+Course Name 
+Credit 
+ENG 100 
+Engineering Orientation 
+1 
+ 
+
+College of Control Science and Technology, Zhejiang University 
+~ 1 ~ 
+3.2 
+Foundational Mathematics and Science 
+These courses stress the basic mathematical and scientific principles upon which the 
+engineering discipline is based. 
+ 
+Course Code 
+Course Name 
+2020 
+2021- 
+MATH 221 
+Calculus Ⅰ 
+4 
+4 
+MATH 231 
+Calculus Ⅱ 
+3 
+3 
+MATH 241 
+Calculus Ⅲ 
+4 
+4 
+MATH 257 
+Linear Algebra with Computational Application 
+ 
+3 
+MATH 285 
+Introduction to Differential Equation 
+ 
+3 
+MATH 286 
+Intro to Differential Equations Plus  
+4 
+ 
+CHEM 102 
+General ChemistryⅠ 
+3 
+3 
+CHEM 103 
+General Chemistry LabⅠ 
+1 
+1 
+PHYS 211 
+University Physics: Mechanics 
+4 
+4 
+PHYS 212 
+University Physics: Elec & Mag 
+4 
+4 
+PHYS 213 
+University Physics: Thermal Physics 
+2 
+2 
+PHYS 214 
+University Physics: Quantum Physics 
+2 
+2 
+ 
+Total required 
+31 
+33 
+3.3 
+Technical Core 
+These courses stress fundamental concepts and basic laboratory techniques that comprise 
+the common intellectual understanding of automation. 
+ 
+Course Code 
+Course Name 
+2020- 
+ECE 110 
+Intro to Electronics 
+3 
+ECE 120 
+Intro to Computing 
+4 
+ECE 220 
+Computer Systems & Programming 
+4 
+ECE 210 
+Analog Signal Processing 
+4 
+ECE 329 
+Fields and WavesⅠ 
+3 
+ECE 313 
+Probability with Engineering Application 
+3 
+ECE 340 
+Semiconductor Electronics 
+3 
+ECE 486 
+Control Systems 
+4 
+
+College of Control Science and Technology, Zhejiang University 
+~ 2 ~ 
+ECE 498LFA* 
+Lectures on Frontier Automation 
+1 
+ECE 498GRP* 
+Graduation Research Project 
+8 
+ 
+Total required 
+37 
+*Instructed at Yuquan campus 
+ 
+4. Elective Courses 
+4.1 
+Technical Electives 
+This elective requirement gives each student the freedom to develop a technical course of 
+study in control science and technology of considerable breadth and focus. Students must 
+complete a minimum of 22 credits on technical electives. 
+ 
+Course Code 
+Course Name 
+Credits 
+CS 101 
+Introduction to Computing 
+3 
+CS 225 
+Data Structures 
+4 
+MATH213            Introduction to Discrete Mathematics      
+3 
+ECE 310 
+Digital Signal Processing 
+3 
+ECE 311 
+Digital Signal Processing Lab 
+1 
+ECE 314 
+Probability in Engineering Lab 
+             1 
+ECE 342 
+Electronic Circuits 
+ 3 
+ECE 343 
+Electronic Circuits Laboratory 
+1 
+ECE 448 
+Artificial Intelligence 
+  3 
+ECE 449 
+Machine Learning 
+3 
+ECE 470 
+Introduction to Robotics 
+4 
+ECE 498RMC* 
+Robot Modeling and Control 
+2.5 
+ECE 498 AR* 
+Air-robots 
+2 
+ECE498 BDS*   Big Data Security and Privacy Protection                                  
+1.5     
+ECE 498IBA*  
+Introduction to Big data analytics and application 
+2 
+ 
+ 
+ 
+*Instructed at Yuquan campus 
+ 
+
+College of Control Science and Technology, Zhejiang University 
+~ 3 ~ 
+4.2 
+Liberal Education 
+The liberal education courses develop students’ understanding of human culture and society, 
+build skills of inquiry and critical thinking, and lay a foundation for civic engagement and lifelong 
+learning. To satisfy the General Education requirements, students must take all courses for 
+grade and complete courses based on the table below: 
+ 
+ 
+ 
+ 2020-2021 
+ 
+1) Humanities & Arts 
+Two courses 
+ 
+ 
+6 
+ 
+2) Social & Behavioral Sciences  
+Two courses 
+ 
+ 
+6 
+ 
+3) Culture Studies  
+ 
+ 
+6  
+Western/Comparative 
+Culture(s) 
+One course 
+ 
+ 
+ 
+ 
+Non-Western Culture(s) 
+One course 
+ 
+ 
+ 
+ 
+Total required 
+ 
+ 
+18 
+ 
+ 
+4.3 
+Free Electives 
+These unrestricted electives give the student the opportunity to explore any intellectual area 
+of unique interest. This freedom plays a critical role in helping students to define research 
+specialties. Students are encouraged to take cross-discipline courses as free electives. 
+ 
+Free electives 
+ 
+2020 
+2021-2022 2023- 
+Total 
+ 
+5 
+4 
+3 
+ 
+5. ZJU Required Liberal Education 
+These courses introduce Chinese modern history, social development, government policies, 
+etc., help students to improve their English and maintain a healthy lifestyle.  
+
+College of Control Science and Technology, Zhejiang University 
+~ 4 ~ 
+ 
+International students need to complete Chinese language study and Chinese society to fulfill 
+the graduate requirement.  
+ 
+ 
+2020-2022 
+2023- 
+Course Code 
+Course Name 
+Credits 
+Credits 
+CHIN 1001 
+Chinese Ⅰ 
+4 
+4 
+CHIN 1002 
+Chinese Ⅱ 
+5 
+4 
+CHIN 1003 
+Chinese Ⅲ 
+4 
+4 
+CHIN 1004 
+Chinese Ⅳ 
+4 
+4 
+CHIN1005 
+International Chinese 
+Language Proficiency and 
+Testing 
+ 
+2 
+CULT 2001 
+China Survey 
+3 
+3 
+ 
+Total 
+20 
+21 
+ 

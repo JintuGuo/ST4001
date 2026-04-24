@@ -1,0 +1,1938 @@
+ 
+ 
+ 
+ 
+ 
+Curriculum 
+of 
+Civil Engineering  
+for 
+Class of 2027 
+ 
+ 
+ 
+ 
+ 
+ 
+Zhejiang University/University of Illinois Urbana-Champaign Institute 
+(ZJU-UIUC INSTITUTE) 
+ 
+
+Civil Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 1 ~ 
+ 
+ 
+Table of Contents 
+ 
+ 
+1. 
+Overview ........................................................................................................................ 2 
+2. 
+Graduation Requirement ............................................................................................. 3 
+3. 
+Required Courses ......................................................................................................... 4 
+4. 
+Elective Courses ........................................................................................................... 6 
+5. 
+ZJU Required Liberal Education .............................................................................. 17 
+6. 
+Course Schedule Sample by Semester .................................................................. 18 
+6.1 
+First Year-First (Fall) Semester .................................................................... 18 
+6.2 
+First Year-Second (Spring) Semester ......................................................... 19 
+6.3 
+Second Year-First (Fall) Semester ............................................................... 20 
+6.4 
+Second Year-Second (Spring) Semester .................................................... 20 
+6.5 
+Third Year-First (Fall) Semester ................................................................... 21 
+6.6 
+Third Year- Second (Spring) Semester ....................................................... 21 
+6.7 
+Fourth Year-First (Fall) Semester................................................................. 22 
+6.8 
+Fourth Year- Second (Spring) Semester ..................................................... 22 
+7. 
+Curriculum Flow Map ................................................................................................. 23 
+8. 
+Appendix B. Design Content of CEE Courses ....................................................... 26 
+ 
+ 
+ 
+
+Civil Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 2 ~ 
+1. Overview 
+The Zhejiang University/University of Illinois Urbana-Champaign Institute (ZJU-UIUC Institute) 
+offers a joint dual-degree engineering program. Upon successful completion of the program, 
+and after meeting the graduation requirements of both universities, students will obtain 
+bachelor’s degrees separately from Zhejiang University (ZJU) and the University of Illinois 
+Urbana-Champaign (UIUC). 
+Civil engineering is a profession that applies the basic principles of science in conjunction with 
+mathematical and computational tools to solve problems associated with developing and 
+sustaining civilized life on our planet. Civil engineering works are generally one-of-a-kind 
+projects; they are often grand in scale; and they usually require cooperation among 
+professionals of many different disciplines. The completion of a civil engineering project 
+involves the solution of technical problems in which uncertainty of information and myriad non-
+technical factors often play a significant role. Some of the most common examples of civil 
+engineering works include bridges, buildings, dams, airports, highways, tunnels, and water 
+distribution systems. Civil engineers are concerned with flood control, landslides, air and water 
+pollution, and the design of facilities to withstand earthquakes and other natural hazards, in 
+addition to protecting our environment for a sustainable future. 
+The Civil Engineering program comprises seven main areas (construction engineering and 
+management, construction materials engineering, environmental engineering, geotechnical 
+engineering, environmental hydrology and hydraulics, structural engineering, and 
+transportation engineering) and three cross-cutting programs (sustainable and resilient 
+infrastructure systems; energy, water, and environmental sustainability; and societal risk 
+management). Although each area has its own special body of knowledge and engineering 
+tools, they all rely on the same fundamental core principles. Civil engineering projects often 
+draw on expertise from many of these areas and programs. 
+Our Education Objectives are to educate Civil Engineering students to: 
+1) 
+Keep exploring new techniques and new knowledge for the sustainable development 
+of human society.  
+2) 
+Successfully enter the civil and environmental engineering profession as practicing 
+engineers and consultants with prominent companies and organizations in diverse areas that 
+include structural, transportation, geotechnical, materials, environmental, and hydrologic 
+engineering; construction management; or other related or emerging fields. 
+3) 
+Pursue graduate education and research at major research universities in civil and 
+environmental engineering, and related fields. 
+4) 
+Pursue professional licensure and advance to leadership positions in the profession. 
+5) 
+Engage in continued learning through professional development. 
+6) 
+Participate in and contribute to professional societies and community services. 
+During their junior and senior years, students are encouraged to take courses and involve 
+themselves in research projects in cross-disciplinary areas with Electrical Engineering, 
+Mechanical Engineering, Computer Engineering, and others. 
+
+Civil Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 3 ~ 
+2. Graduation Requirement 
+2.1 Graduation Requirements for UIUC degree 
+2.1.1 
+Grade Point Average Requirement 
+A student must maintain a minimum GPA of 2.0 (A=4.0) to remain in good standing and 
+graduate. UIUC degree is subjected to the final review by UIUC.  
+2.1.2 
+Junior Eligibility Requirement 
+To be eligible to enroll in the CEE courses listed in the third year of the curriculum, a student 
+must have completed, with a combined 2.25 grade point average, the mathematics, physics, 
+computer science, and electrical and computer engineering courses listed in the first two years. 
+2.1.3 
+Curriculum Requirement 
+The curriculum leading to the degree of Bachelor of Science in Civil Engineering at UIUC 
+requires 128 academic credits (or academic units, AUs) and is organized into required courses, 
+technical electives, liberal education, and other electives.  
+i). Required courses, see section 3 for details. 
+Academic Credit 
+a) Orientation and Professional Development  
+5 
+b) Foundational Mathematics and Science 
+35 
+c) Technical Core  
+25 
+d) Composition 
+8 
+e) Advanced Composition* 
+4 
+Total Required AUs: 
+77 
+ 
+ 
+ii). Elective courses, see section 4 for details. 
+ 
+a) Science Electives 
+3 
+b) Technical Electives 
+34 
+c) Liberal education 
+12 
+d) Free Electives 
+6 
+Total Required AUs: 
+55 
+*Students take CEE 300 to satisfy advance composition and technical elective requirement, and 
+credits can be given for both. 
+ 
+2.1.4 
+Additional requirements  
+For UIUC degree, in addition to the specific course and grade point average requirements 
+listed above, each candidate for a bachelor’s degree from UIUC must meet the following 
+requirements: 
+
+Civil Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 4 ~ 
+i). Residency Requirement  
+Earn a minimum sixty (60) academic credits of UIUC credit, of which at least twenty-one (21) 
+AUs must be 300 or 400 level UIUC credit courses.  
+ii). Transfer Requirement  
+Students should have a satisfactory English Proficiency Test score on TOEFL, IELTS or other 
+exams approved by UIUC, and maintain a good standing on academic studies that all term 
+GPAs, overall GPA on UIUC courses are suggested to be above 2.5. In junior year, students 
+will apply for international transfer to be admitted to UIUC and change academic status from 
+non-degree student to degree student in Fall semester of senior year.  
+2.2 Graduation Requirements for ZJU degree 
+In addition to the 128-AU requirement listed above, the curriculum leading to the degree of 
+Bachelor of Engineering from ZJU requires students to complete additional 33.5 academic 
+credits of ZJU-required liberal education courses for domestic students and additional seven 
+courses (23 AUs) in Chinese language and society study for international students. Please 
+refer to section 5 for details. 
+ 
+3. Required Courses 
+3.1 Orientation and Professional Development 
+This course introduces students to the opportunities and resources our institute and curriculum 
+can offer you as you work to achieve your career goals. It also provides the skills to work 
+effectively and successfully in the engineering profession. 
+Course Code 
+Course Name 
+Academic Credits 
+ENG 100 
+Engineering Orientation 
+1 
+CEE 190 
+Project Based Introduction to Civil 
+Engineering 
+4 
+CEE 495 
+Professional Practice 
+0 
+ 
+Total Required AUs: 
+5 
+ 
+3.2 Foundational Mathematics and Science 
+These courses emphasize the fundamental mathematical and scientific principles upon which 
+the engineering discipline is based. 
+Course Code 
+Course Name 
+Academic Credits 
+MATH 221 
+Calculus I 
+4 
+MATH 231 
+Calculus II 
+3 
+
+Civil Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 5 ~ 
+MATH 241 
+Calculus III 
+4 
+MATH 257 
+Linear Algebra with Computational 
+Applications 
+3 
+MATH 285 
+Intro Differential Equations 
+3 
+CHEM 102 
+General Chemistry I 
+3 
+CHEM 103 
+General Chemistry Lab I 
+1 
+CHEM 104 
+General Chemistry II 
+3 
+CHEM 105 
+General Chemistry Lab II 
+1 
+PHYS 211 
+University Physics: Mechanics 
+4 
+PHYS 212  
+University Physics: Elec & Mag 
+4 
+PHYS 213 
+University Physics: Thermal Physics 
+2 
+ 
+Total Required AUs: 
+35 
+ 
+3.3 Technical Core 
+These courses stress fundamental concepts and basic laboratory techniques that comprise 
+the common intellectual understanding of mechanical engineering. 
+Course Code 
+Course Name 
+Academic Credits 
+CS 101 
+Intro Computing: Engineering & Science 
+3 
+SE 101 
+Engineering Graphics & Design 
+3 
+CEE 201 
+Systems Engineering & Economics 
+3 
+CEE 202 
+Engineering Risk & Uncertainty 
+3 
+TAM 211 
+Statics 
+3 
+TAM 212 
+Introductory Dynamics 
+3 
+TAM 251 
+Introductory Solid Mechanics 
+3 
+TAM 335 
+Introductory Fluid Mechanics 
+4 
+ 
+Total Required AUs: 
+25 
+ 
+3.4 Composition 
+i) These courses teach fundamentals of expository writing. 
+Course Code 
+Course Name 
+Academic Credits 
+
+Civil Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 6 ~ 
+RHET 101 
+Principles of Writing 
+4 
+RHET 102 
+Principles of Research 
+4 
+ 
+Total Required AUs: 
+8 
+ii) The Advanced Composition requirement is fulfilled by a writing-intensive course beyond 
+basic composition. It is normally taken in the junior or senior year. 
+Course Code 
+Course Name 
+Academic Credits 
+CEE 300* 
+Behaviors of Materials 
+4 
+ 
+Total Required AUs: 
+4 
+* Satisfies the Advanced Composition requirement. 
+ 
+4. Elective Courses 
+4.1 Science Electives 
+This elective allows the student to gain additional depth in science. The course should be 
+selected according to the requirements and recommendations for the selected primary area of 
+study in civil engineering, which is subject to approval by ZJUI and UIUC. 
+Select one (1) course, 3 AUs, from the following course list.  
+Course Code 
+Course Name 
+Academic Units 
+ATMS 120 
+Severe and Hazardous Weather 
+3 
+ATMS 303 
+Synoptic-Dynamic Wea Analysis 
+4 
+CHBE 321 
+Thermodynamics 
+4 
+CHEM 232 
+Elementary Organic Chemistry I 
+3 or 4 
+CS 357 
+Numerical Methods I 
+3 
+ECE 110 
+Introduction to Electronics 
+3 
+ECE 205 
+Electrical and Electronic Circuits 
+3 
+ENSU 300 
+Environmental Sustainability 
+3 
+ESE 140 
+Climate and Global Change 
+3 
+ESE 320 
+Water Planet, Water Crisis 
+3 
+ESE 482 
+Challenges of Sustainability 
+3 
+FIN 221 
+Corporate Finance 
+3 
+FIN 230 
+Introduction to Insurance 
+3 
+GEOL 107 
+Physical Geology 
+4 
+GEOL 118 
+Natural Disasters 
+3 
+
+Civil Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 7 ~ 
+GEOL 333 
+Earth Materials and the Env 
+4 
+GEOL 380 
+Environmental Geology 
+4 
+GGIS 103 
+Earth's Physical Systems 
+4 
+LAW 301 
+Introduction to Law 
+3 
+MCB 300 
+Microbiology 
+3 
+ME 200 
+Thermodynamics 
+3 
+ME 340 
+Dynamics of Mechanical Systems 
+3.5 
+MSE 201 
+Phases and Phase Relations 
+3 
+MSE 401 
+Thermodynamics of Materials 
+3 
+NPRE 201 
+Energy Systems 
+3 
+NRES 287 
+Environment and Society 
+3 
+NRES 439 
+Env and Sustainable Dev 
+3 
+SE 320 
+Control Systems 
+4 
+SE 400 
+Engineering Law 
+3 or 4 
+STAT 420 
+Methods of Applied Statistics 
+3 or 4 
+UP 205 
+Ecology & Environmental Sustainability 
+3 
+UP 406 
+Urban Ecology 
+4 
+ 
+Total Required AUs: 
+3 
+ 
+4.2 Technical Electives 
+This course work is designed to give each student a broad background in the areas of civil 
+engineering through the core courses and to allow each student to develop a focused program 
+through advanced technical electives in chosen primary and secondary fields. Briefly, there 
+are two types of civil engineering courses:  
+(1) core courses  
+(2) advanced technical courses. 
+The core courses are prerequisites for all advanced technical courses. The advanced technical 
+courses are subdivided into a primary area of emphasis and a secondary area of emphasis. 
+The core and secondary area courses assure adequate breadth in civil engineering subjects, 
+while the primary area courses allow the student to study a certain subject in greater depth.  
+Students cannot use an advanced technical course to meet both primary and secondary 
+requirements.  
+A student must have advanced technical electives as 12 AUs in the primary area and 6 AUs 
+in the secondary area.  
+
+Civil Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 8 ~ 
+The sum of academic credits of core courses and technical electives must be at least thirty-
+four (34). 
+4.2.1 Core Courses 
+Dual degree students must select at least five (5) courses from the following list. Students 
+pursuing only ZJU degree may choose four courses instead. 
+Course Code 
+Course Name 
+Academic units 
+CEE 300 
+Behavior of Materials 
+4 
+CEE 310 
+Transportation Engineering 
+3 
+CEE 320 
+Construction Engineering 
+3 
+CEE 330 
+Environmental Engineering 
+3 
+CEE 340 
+Energy and Global Environment 
+3 
+CEE 350 
+Water Resources Engineering 
+3 
+CEE 360 
+Structural Engineering 
+3 
+CEE 380 
+Geotechnical Engineering 
+3 
+ 
+Total Required AUs: 
+15 
+Core courses cannot be used as advanced technical courses. 
+ 
+4.2.2 Advanced Technical Electives  
+The advanced technical electives are selected to satisfy the requirements of a primary area of 
+emphasis (i.e., a major field within civil engineering) and a secondary area of emphasis (i.e., 
+a minor field within civil engineering). The program must have at least 12 AUs in the primary 
+area and 6 AUs in the secondary area.  
+ZJUI students are recommended to choose one as primary area from the following: 
+(1) 
+Structural Engineering (STRUCTURES),  
+(2) 
+Transportation Engineering (TRANSPORTATION), 
+(3) 
+Water Resources Engineering & Science (WRES). 
+The courses in the secondary area of emphasis are chosen to complement the primary area 
+and add breadth to the program of study. Courses that make up a secondary area can be 
+taken in one of the above three recommended areas of civil and environmental engineering, 
+but there are also some additional options-CEE Multidisciplinary that give flexibility to the 
+program.  
+A secondary program CANNOT be taken in the same area as the primary. The secondary 
+area requirement is meant to provide the student both with additional breadth and with an 
+additional area of special focus. 
+
+Civil Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 9 ~ 
+I. 
+Structural Engineering 
+Structural engineering involves the analysis, design, and construction of buildings, dams, 
+bridges, and other types of facilities. A structural engineer designs economical structures that 
+satisfy requirements of safety, utility, and durability; oversees the building of constructed 
+facilities; and investigates the performance of structures that fail to perform as expected. The 
+tools of the structural engineer include physical testing, mathematical modeling, and computer 
+simulation. The structural engineer uses these tools to make decisions that aid in the creation, 
+maintenance, or demolition of constructed facilities. The largest of structures, such as the 
+Golden Gate Bridge, Hoover Dam, and Eiffel Tower, stand as monuments to the engineering 
+achievements of humankind. The smallest of structures, such as thin films that contain 
+computer circuitry, make possible many devices in our technologically sophisticated society. 
+Primary in Structural Engineering 
+Science Elective 
+Required: 
+(Select one course from recommended list.) 
+Recommended:  
+CS 357, ECE 110, ECE 205, GEOL 107, GEOL 118, ME 200 
+ 
+Civil Engineering Core Courses 
+Required: 
+CEE 300, CEE 360, CEE 380 
+Recommended:  
+CEE 320 
+ 
+Advanced Technical Courses 
+Required: 
+CEE 460, CEE 461, CEE 465*, CEE 470 
+Recommended:  
+CEE472 
+*CEE 465-Design of Structural System is the required Integrated Design course 
+Secondary in Structural Engineering 
+Civil Engineering Core Courses 
+Required: 
+CEE 360 
+ 
+Advanced Technical Courses 
+Required: 
+CEE 460, CEE 461 
+Recommended:  
+None 
+Prerequisite structure for advanced courses in this field: 
+ 
+ 
+
+Civil Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 10 ~ 
+II. 
+Transportation Engineering 
+Transportation engineers design, build, operate and maintain all types of facilities for railroads, 
+automobiles, airplanes, and ships. They deal with the physical infrastructure of our 
+transportation system, highways, ports, airports, and other facilities. They are involved in 
+controlling traffic and in developing better transportation systems. Transportation engineers 
+must understand the many factors that affect the long-term performance of the infrastructure 
+from climatic factors imposed on it to the dynamics of the vehicles that use it. Transportation 
+engineers are concerned with the development and operation of our multi-modal transportation 
+system to meet the constantly changing social, economic, geographical, and political needs of 
+society. 
+Primary in Transportation Engineering 
+Science Elective 
+Required: 
+(Select one course from recommended list.) 
+Recommended:  
+ATMS 120, CS 357, ECE 110, ECE 205, GEOL 107, 
+GEOL 118, ME 200, ME 340, MSE 401, SE 320, STAT 
+420 
+Civil Engineering Core Courses 
+Required: 
+CEE 300, CEE 310 
+Recommended:  
+CEE 320, CEE 330, CEE 350, CEE 360, CEE 380 
+Advanced Technical Courses 
+Required: Students must select one course from the each of the three Areas and 
+one from the recommended list. 
+Area 1-Facilities: 
+CEE 405, CEE 406, CEE 498TIS 
+Area 2-Systems: 
+CEE 407, CEE 415*, CEE 416, CEE 418 
+Area 3-Railroad: 
+CEE 408, CEE 409, CEE 410, CEE 411 
+Recommended: 
+CEE 401, CEE 405, CEE 406, CEE 408, CEE 409, 
+CEE 410, CEE 411, CEE 412, CEE 415, CEE 416, 
+CEE 417, CEE 418 
+*CEE 415-Geometric Design of Roads is the required Integrated Design course 
+Secondary in Transportation Engineering 
+Civil Engineering Core Courses 
+Required: 
+CEE 310 
+Advanced Technical Courses 
+Required: Students must select two courses, each from a different Area. 
+Area 1-Facilities: 
+CEE 405, CEE 406, CEE 498TIS 
+Area 2-Systems: 
+CEE 407, CEE 415, CEE 416, CEE 418 
+Area 3-Railroad: 
+CEE 408, CEE 409, CEE 410, CEE 411, CEE 412 
+Recommended: 
+None 
+Prerequisite structure for advanced courses in this field: 
+
+Civil Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 11 ~ 
+ 
+ 
+III. 
+Water Resources Engineering & Science 
+Water Resources Engineering and Science deals with surface and ground water used for 
+human consumption, energy, food, transportation, and recreation, as well as mitigation of 
+floods and other water related hazards. This area comprises the fields of hydrology, hydraulics, 
+and water resources planning. Hydrology is the study of water in the natural environment. 
+Hydraulics studies how to design infrastructure to manage water flow and storage. Water 
+resources planning concerns how to manage water efficiently and economically under 
+hydrologic, hydraulic, economic, and societal constraints. Engineers in this discipline are 
+responsible for the planning, design, operation, and management of facilities for domestic, 
+municipal, industrial and agricultural water supply, drainage, control, and utilization. Such 
+facilities include river channel-dam-reservoir systems for flood control, hydropower, navigation, 
+water supply, and recreation; water distribution networks, sewer systems and culverts for 
+urban water supply and drainage; injection/extraction well systems for remediation of 
+contaminated ground water; and erosion and sediment control structures. Water Resources 
+Engineers are also involved in the planning, operation, and management of ground water, 
+watersheds, and wetlands, as well as the hydrologic environment's response to human 
+impacts and climatic changes. 
+Primary in Water Resources Engineering and Science 
+Science Elective 
+Required: 
+(Select one course from recommended list.) 
+Recommended:  
+ATMS 120, CS 357, GEOL 107, GEOL 118, ME 200 
+ Core Courses 
+Required: 
+CEE 300, CEE 350 
+Recommended:  
+CEE 310, CEE 320, CEE 330, CEE 340, CEE 360, 
+CEE 380 
+Advanced Technical Courses 
+Required: 
+CEE 452 or CEE 453* 
+Recommended:  
+CEE 432, CEE 433, CEE 434, CEE 437, CEE 450, 
+CEE 451, CEE 452, CEE 453, CEE 457, CEE 458, 
+CEE 459 
+*CEE 453-Urban Hydrology and Hydraulics is the required Integrated Design course 
+Secondary in Water Resources Engineering and Science 
+
+Civil Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 12 ~ 
+Civil Engineering Core Courses 
+Required: 
+CEE 350 
+Advanced Technical Courses 
+Required: 
+Two from the recommended list 
+Recommended: 
+CEE 432, CEE 433, CEE 434, CEE 450, CEE 451, 
+CEE 452, CEE 453, CEE 457, CEE 458, CEE 459 
+Prerequisite structure for advanced courses in this field: 
+ 
+ 
+IV. 
+The General Civil Engineering Option 
+The General Option was created to recognize that there are career opportunities in Civil and 
+Environmental Engineering for which great breadth of understanding of all aspects of Civil 
+Engineering has merit over specialization. Some civil and environmental engineers solve 
+problems, which require the interaction with other engineering and non-engineering disciplines. 
+These problems can, and often do, involve multiple teams with diverse expertise and 
+background. Students choosing the General Civil Engineering option are encouraged to 
+discuss with their faculty advisor and/or CEE advising staff. 
+Requirements of the General Option 
+Science Electives 
+Required: 
+One from recommended list  
+Recommended: 
+GEOL 107, CHEM 222, CHEM 232, ME 200, STAT 
+400 
+Civil Engineering Core Courses 
+Required: 
+CEE 300, CEE 310, CEE 320, CEE 330, CEE 340, CEE 
+350, CEE 360, CEE 380 (7 of these 8) 
+Advanced Technical Courses 
+Required: 
+Option I: Pick no more than one course from each area 
+to satisfy the requirement that the sum of the core and 
+advanced courses be at least 34 AUs. 
+
+Civil Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 13 ~ 
+Option II: Pick two courses from one area and no more 
+than one course from each of the remaining areas until 
+you reach 34 AUs 
+Acceptable advanced technical courses: 
+Construction 
+CEE 420, CEE 421, CEE 422 
+Environmental 
+CEE 437, CEE 440, CEE 446 
+Geotechnical 
+CEE 483, CEE 484 
+Materials 
+CEE 401 
+Structures 
+CEE 460, CEE 461 
+Transportation 
+CEE 405, CEE 406, CEE, 408, CEE 409, CEE 410, CEE 
+411, CEE 412, CEE 415, CEE 416, CEE 417, CEE 418 
+Water Resources 
+CEE 452, CEE 453 
+Notes: 
+(1) The General Option requires seven of the eight civil engineering core courses, as opposed 
+to just five in the ordinary program. Hence, nearly all of the basic civil engineering 
+disciplines are covered at the core level. 
+(2) All of the acceptable advanced technical courses are 3 AU courses, except for CEE 401, 
+CEE 415, CEE 453, and CEE 483, which are 4 AU courses. Hence, in most cases this 
+option requires 4 or 5 advanced technical courses. 
+(3) The acceptable advanced technical courses are listed in numerical order within each area. 
+There is no implication that the first course listed is more appropriate than the second, 
+third, etc. 
+ 
+V. 
+Additional Civil Engineering Secondaries 
+Secondary Areas in CEE Multidisciplinary 
+The frontiers of CEE are becoming increasingly multidisciplinary, spanning sub-fields of CEE 
+as well as other engineering and non-engineering fields. The purpose of this secondary is to 
+provide students with interests that do not align with an existing secondary option to develop 
+custom multidisciplinary programs in Mechanical Engineering, Electrical and Computer 
+Engineering. 
+1) CEE Multidisciplinary – ECE  
+Required Science Elective – ECE 110  
+Required Core Course – ECE 210  
+Recommended Advanced Technical Electives – Two of ECE 310/311, ECE 329, ECE 333, 
+ECE 437 & ECE 486  
+ 
+2) CEE Multidisciplinary – ME  
+
+Civil Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 14 ~ 
+ Required Science Elective – ME 200  
+ Required Core Course – ME 270  
+ Required Advanced Technical Electives – Two of ME 340, ME 370, ME 371 & ME 430 
+ 
+4.2.3 List of Some Key CEE Advanced Technical Electives 
+Course Code 
+Course Name 
+Academic Credits 
+ATMS 120 
+Severe and Hazardous Weather 
+3 
+CEE 401 
+Concrete Materials 
+4 
+CEE 405 
+Asphalt Materials I 
+3 or 4 
+CEE 406 
+Pavement Design I 
+3 or 4 
+CEE 407 
+Airport Design 
+3 or 4 
+CEE 408 
+Railroad Transportation Engineering 
+3 or 4 
+CEE 409 
+Railroad Track Engineering 
+3 or 4 
+CEE 410 
+Railway Signaling & Control 
+3 or 4 
+CEE 411 
+RR Project Design & Construction 
+3 or 4 
+CEE 412 
+High-Speed Rail Engineering 
+3 or 4 
+CEE 415 
+Geometric Design of Roads 
+4 
+CEE 416 
+Traffic Capacity Analysis 
+3 or 4 
+CEE 417 
+Urban Transportation Planning 
+4 
+CEE 418 
+Public Transportation Systems 
+3 or 4 
+CEE 420 
+Construction Productivity 
+3 or 4 
+CEE 421 
+Construction Planning 
+3 or 4 
+CEE 422 
+Construction Cost Analysis 
+3 or 4 
+CEE 424 
+Sustainable Const Methods 
+4 
+CEE 430 
+Ecological Quality Engineering 
+2 
+CEE 432 
+Stream Ecology 
+3 or 4 
+CEE 433 
+Water Technology and Policy 
+3 or 4 
+CEE 434 
+Environmental Systems I 
+3 
+CEE 437 
+Water Quality Engineering 
+3 
+CEE 438 
+Science & Environmental Policy 
+3 
+CEE 440 
+Fate Cleanup Environ Pollutant 
+4 
+CEE 442 
+Environmental Engineering Principles, Physical 
+4 
+
+Civil Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 15 ~ 
+CEE 443 
+Env Eng Principles, Chemical 
+4 
+CEE 444 
+Env Eng Principles, Biological 
+4 
+CEE 445 
+Air Quality Modeling 
+4 
+CEE 447 
+Atmospheric Chemistry 
+4 
+CEE 449 
+Environmental Engineering Lab 
+3 
+CEE 450 
+Surface Hydrology 
+3 
+CEE 451 
+Environmental Fluid Mechanics 
+3 
+CEE 452 
+Hydraulic Analysis and Design 
+3 
+CEE 453 
+Urban Hydrology and Hydraulics 
+4 
+CEE 457 
+Groundwater 
+3 
+CEE 458 
+Water Resources Field Methods 
+4 
+CEE 460 
+Steel Structures I 
+3 
+CEE 461 
+Reinforced Concrete I 
+3 
+CEE 465 
+Design of Structural Systems 
+3 
+CEE 470 
+Structural Analysis 
+4 
+CEE 472 
+Structural Dynamics I 
+3 or 4 
+CEE 480 
+Foundation Engineering 
+3 
+CEE 483 
+Soil Mechanics and Behavior 
+4 
+CEE 484 
+Applied Soil Mechanics 
+4 
+CEE 491 
+Decision and Risk Analysis  
+3 or 4 
+CEE 493 
+Sustainable Design Engineered Technologies 
+4 
+CEE 498TIS 
+Transportation Infrastructure and Smart Mobility 
+3 
+CHEM 222 
+Quantitative Analysis Lecture 
+2 
+CHEM 232 
+Elementary Organic Chemistry I 
+3 or 4 
+CS 357 
+Numerical Methods I 
+3 
+ECE 110 
+Introduction to Electronics 
+3 
+ECE 205 
+Electrical and Electronic Circuits 
+3 
+ECE 310 
+Digital Signal Processing 
+3 
+ECE 311 
+Digital Signal Processing Lab 
+1 
+ECE 329 
+Fields and Waves I 
+3 
+ECE 333 
+Green Electric Energy 
+3 
+ECE 437 
+Sensors and Instrumentation 
+3 
+
+Civil Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 16 ~ 
+ECE 486 
+Control Systems 
+4 
+GEOL 107 
+Physical Geology 
+4 
+GEOL 118 
+Natural Disasters 
+3 
+ME 200 
+Thermodynamics 
+3 
+ME 340 
+Dynamics of Mechanical Systems 
+3.5 
+ME 370 
+Mechanical Design I 
+3 
+ME 371 
+Mechanical Design II 
+3 
+ME 430 
+Failure of Engineering Materials 
+3 or 4 
+SE 320 
+Control Systems 
+4 
+STAT 420 
+Methods of Applied Statistics 
+3 or 4 
+ 
+4.3 General Education 
+The general education courses develop students’ understanding of human culture and society, 
+build skills of inquiry and critical thinking, and lay a foundation for civic engagement and lifelong 
+learning. To satisfy the General Education requirements, students must complete a minimum 
+of twelve (12) AUs in general education courses. Students must take all courses for grade 
+and complete sufficient courses in required categories based on the table below: 
+Required course category 
+Number of courses 
+Academic Credits 
+1) Humanities & Arts 
+Two (2) 
+6 
+2) Social & Behavioral Sciences1  
+Two (2) 
+6 
+Additional Requirements: 
+i) Culture Studies2  
+ 
+ 
+Western/Comparative Culture(s) 
+One (1) 
+3 
+Non-Western Culture(s) 
+One (1) 
+3 
+U.S. Minority Culture(s)3 
+One (1) 
+3 
+ii) Aesthetic Education4 
+One (1) 
+3 
+ 
+Total required AUs: 
+12 
+1 One of the Social and Behavioral Science courses must be an introductory economics course (ECON 
+102 or ECON 103). 
+2 Proper selections of Social and Behavioral Sciences and in Humanities and the Arts courses will assure that 
+these courses also fulfill Western, non-Western and US Minority Cultures requirements. 
+3 Not required if students pursue ZJU degree only. 
+4 Required only for ZJU degree. 
+ 
+
+Civil Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 17 ~ 
+For courses that fail in multiple categories of general education, the academic units of the 
+course will be counted to satisfy the AU requirements of each category but be counted only 
+once in satisfying the total minimum academic unit requirements (12 AUs) of general education. 
+ 
+4.4 Free Electives 
+These unrestricted electives give students the opportunity to explore any intellectual area of 
+unique interest. This freedom plays a critical role in helping students define their research 
+specialties. Students are encouraged to take cross-disciplinary courses as free electives. 
+Students must complete a minimum of six (6) AUs in free electives. 
+ 
+5. ZJU Required Liberal Education 
+These courses introduce modern Chinese history, social development, government policies, 
+etc., and help students improve their English and maintain a healthy lifestyle.  
+5.1 For domestic students 
+Domestic students must complete all the courses below to fulfill the graduation requirements 
+for the Bachelor of Engineering Degree at ZJU. These courses can be taught in Chinese. The 
+academic credits in this section are additional to 128 AUs of credits required for UIUC degree. 
+Course Code Course Name 
+Academic Credits 
+LAW 1002 
+Ideology, Morality and Rule of Law 
+3 
+HIST 2001 
+Modern Chinese History 
+3 
+PHIL 2002 
+Introduction to the Principle of Marxism 
+3 
+PS 2011 
+Intro.to Mao Thought & Theoretical System of China 
+Socialism 
+3 
+PS 3011 
+General Introduction to Xi Jinping Thought on 
+Socialism with Chinese Characteristics for a New Era 
+3 
+PS 1001 
+Situation and Policy I 
+1 
+PS 2001 
+Situation and Policy II 
+1 
+ENGL 1001 
+Integrated English I 
+1.5 
+ENGL 1002 
+Integrated English II 
+1.5 
+ENGL 2001 
+Advanced Spoken English I 
+1.5 
+ENGL 2002 
+Advanced Spoken English II 
+1.5 
+PE 1001 
+Physical Education I 
+1 
+PE 1002 
+Physical Education II 
+1 
+PE 2001 
+Physical Education III 
+1 
+
+Civil Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 18 ~ 
+Course Code Course Name 
+Academic Credits 
+PE 2002 
+Physical Education IV 
+1 
+PE 4021 
+Physical Education VII-Fitness test and exercise 
+0.5 
+MITR 1001 
+Military Training 
+2 
+MITR 2001 
+Military Theory 
+2 
+ST 4001 
+Senior Thesis 
+2 
+ 
+Total Required AUs: 
+33.5 
+5.2 For International students 
+International students are required to complete the following courses in Chinese language 
+study and Chinese society to fulfill the graduation requirements along with the above 128 
+academic credits of courses towards the Bachelor of Engineering Degree at ZJU.  
+Course Code 
+Course Name 
+Academic Credits 
+CHIN 1001 
+Chinese I 
+4 
+CHIN 1002 
+Chinese II 
+4 
+CHIN 1003 
+Chinese III 
+4 
+CHIN 1004 
+Chinese IV 
+4 
+CHIN 1005 
+International Chinese Language Proficiency 
+and Testing 
+2 
+CULT 2001 
+China Survey 
+3 
+ST 4001 
+Senior Thesis 
+2 
+ 
+Total Required AUs: 
+23 
+ 
+6. 
+Course Schedule Sample by Semester 
+6.1 
+ First Year-First (Fall) Semester 
+List of ZJUI/UIUC courses for both domestic and international students 
+No 
+Course Code 
+Course Name 
+Academic Credits 
+1 
+Rhet 101 
+Principles of Writing 
+4 
+2 
+Chem 102 
+General Chemistry I 
+3 
+3 
+Chem 103 
+General Chemistry Lab I 
+1 
+4 
+Math 221 
+Calculus I 
+4 
+5 
+CEE 190 
+Project-Based Introduction to CEE 
+4 
+
+Civil Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 19 ~ 
+6 
+CS 101 
+Introduction to Computing: Engineering & 
+Science 
+3 
+7 
+Eng 100  
+Engineering Orientation 
+1 
+  
+  
+Total: 
+20 
+ 
+List of ZJU courses for domestic students 
+No 
+Course Code 
+Course Name 
+Academic Credits 
+1 
+MITR 1001 
+Military Training  
+2 
+2 
+ENGL 1001 
+Integrated English I 
+1.5 
+3 
+PE 1001 
+Physical Education I 
+1 
+4 
+PS 1001 
+Situation and Policy I 
+ 
+ 
+List of ZJU courses for International students 
+No 
+Course Code 
+Course Name 
+Academic Credits 
+1 
+CHIN 1001 
+Chinese I 
+4 
+ 
+6.2 
+First Year-Second (Spring) Semester 
+List of ZJUI/UIUC courses for both domestic and international students 
+No Course Code 
+Course Name 
+Academic Credits 
+1 
+Rhet 102 
+Principles of Research 
+4 
+2 
+Math 231 
+Calculus II 
+3 
+3 
+Phys 211 
+University Physics: Mechanics  
+4 
+4 
+SE 101 
+Engineering Graphics & Design 
+3 
+5 
+Chem 104 
+General Chemistry II 
+3 
+6 
+Chem 105 
+General Chemistry II Lab 
+1 
+ 
+ 
+Total: 
+17 
+ 
+List of ZJU Courses for domestic students 
+No 
+Course Code 
+Course Name 
+Academic Credits 
+1 
+LAW 1002 
+Ideology, Morality and Rule of Law 
+3 
+2 
+ENGL1002 
+Integrated English II 
+1.5 
+3 
+PE 1002 
+Physical Education II 
+1 
+4 
+PS 1001B 
+Situation and Policies I 
+1 
+
+Civil Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 20 ~ 
+ 
+List of ZJU Courses for international students 
+No 
+Course Code 
+Course Name 
+Academic Credits 
+1 
+CHIN 1002 
+Chinese II 
+4 
+ 
+6.3 
+Second Year-First (Fall) Semester 
+List of ZJUI/UIUC courses for both domestic and international students 
+No 
+Course Code 
+Course Name 
+Academic Credits 
+1 
+Math 241  
+Calculus III 
+4 
+2 
+MATH 257 
+Linear Algebra with Computational Application 
+3 
+3 
+Phys 212   
+University Physics: Elec& Mag 
+4 
+4 
+TAM 211 
+Statics 
+3 
+5 
+CEE 201 
+System Engineering & Economics 
+3 
+  
+  
+Total: 
+17 
+List of ZJU Courses for domestic students 
+No 
+Course Code 
+Course Name 
+Academic Credits 
+1 
+PS 2011 
+Intro.to Mao Thought & Theoretical System of 
+China Socialism 
+3 
+2 
+ENGL 2001 
+Advanced Spoken English I 
+1.5 
+3 
+PE 2001 
+Physical Education III 
+1 
+4 
+MITR 2001 
+Military Theory 
+2 
+5 
+PS 2001 
+Situation and Policy II 
+ 
+ 
+List of ZJU Courses for international students 
+No 
+Course Code 
+Course Name 
+Academic Credits 
+6 
+CHIN 1003 
+Chinese III 
+4 
+7 
+CULT 2001 
+China Survey 
+3 
+ 
+ 
+6.4 
+Second Year-Second (Spring) Semester 
+List of ZJUI/UIUC courses for both domestic and international students 
+No 
+Course Code 
+Course Name 
+Academic Credits 
+
+Civil Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 21 ~ 
+1 
+Math 285 
+Intro to Differential Eq 
+3 
+2 
+TAM 212 
+Introductory Dynamics 
+3 
+3 
+TAM 251 
+Introductory Solid Mechanics 
+3 
+4 
+CEE 202 
+Engineering Risk & Uncertainty 
+3 
+5 
+Phys 213 
+University Physics-Thermal Physics 
+2 
+6 
+GenEd 
+Liberal Education Elective 
+3 
+  
+  
+Total: 
+17 
+List of ZJU Courses for domestic students 
+No 
+Course Code Course Name 
+Academic Credits 
+1 
+HIST 2001 
+Modern Chinese History 
+3 
+2 
+PHIL 2002 
+Introduction to the Principle of Marxism 
+3 
+3 
+ENGL 2002 
+Advanced Spoken English II 
+1.5 
+4 
+PS 2001 
+Situation and Policy II 
+ 
+5 
+PE 2002 
+Physical Education IV 
+1 
+ 
+List of ZJU Courses for domestic students 
+No 
+Course Code 
+Course Name 
+Academic Credits 
+1 
+CHIN 1004 
+Chinese IV 
+4 
+2 
+CHIN 1005 
+International Chinese Language Proficiency 
+and Testing 
+2 
+ 
+6.5 
+Third Year-First (Fall) Semester 
+No 
+Course Code 
+Course Name 
+Academic Credits 
+1 
+TAM 335 
+Introductory Fluid Mechanics 
+4 
+2 
+CEE 300 
+Behavior of Materials 
+4 
+3 
+Core2 
+Civil Engineering Core Course 2 
+3 
+4 
+SciElec 
+Science Elective 
+3 
+5 
+GenEd 
+General Education Elective 
+3 
+  
+  
+Total: 
+17 
+6.6 
+Third Year- Second (Spring) Semester 
+No 
+Course Code 
+Course Name 
+Academic Credits 
+1 
+Core3 
+Civil Engineering Core Course 3 
+3 
+2 
+Core4 
+Civil Engineering Core Course 3 
+3 
+3 
+Core5 
+Civil Engineering Core Course 3 
+3 
+
+Civil Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 22 ~ 
+4 
+Free Elec 
+Free Elective 
+3 
+5 
+GenEd 
+Liberal Education Elective 
+3 
+  
+  
+Total: 
+15 
+6.7 
+Fourth Year-First (Fall) Semester 
+List of ZJUI/UIUC courses for both domestic and international students 
+No 
+Course Code 
+Course Name 
+Academic Credits 
+1 
+CEE 495 
+Professional Practice 
+0 
+2 
+ATE1 
+Advanced Technical Elective 1 (Primary) 
+3 
+3 
+ATE2 
+Advanced Technical Elective 2 (Primary) 
+3 
+4 
+ATE3 
+Advanced Technical Elective 3 (Secondary) 
+3 
+5 
+Free Elec 
+Free Elective 
+3 
+6 
+GenEd 
+Liberal Education Elective 
+3 
+  
+  
+Total: 
+15 
+ 
+List of ZJU Courses for domestic students 
+No 
+Course Code 
+Course Name 
+Academic Credits 
+1 
+PS 3011 
+General Introduction to Xi Jinping Thought 
+on Socialism with Chinese Characteristics 
+for a New Era 
+3 
+2 
+PS 2001 
+Situation and Policy II 
+ 
+6.8 
+Fourth Year- Second (Spring) Semester 
+List of ZJUI/UIUC courses for both domestic and international students 
+No 
+Course Code 
+Course Name 
+Academic Credits 
+1 
+ATE4 
+Advanced Technical Elective 4 (Primary) 
+3 
+2 
+ATE5 
+Advanced Technical Elective 5 (Primary) 
+3 
+3 
+ATE6 
+Advanced Technical Elective 6 (Secondary) 
+3 
+4 
+Free Elec 
+Free Elective 
+3 
+5 
+GenEd 
+Liberal Education Elective 
+3 
+  
+  
+Total: 
+15 
+List of ZJU Courses for domestic students 
+No 
+Course Code 
+Course Name 
+Academic Credits 
+1 
+PE 4021 
+Physical Education VII-Fitness test and 
+exercise 
+0.5 
+2 
+PS 2001F 
+Situation and Policy Ⅱ 
+1 
+3 
+ST 4001 
+Senior Thesis 
+2 
+ 
+
+Civil Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 23 ~ 
+List of ZJU Courses for international students 
+No 
+Course Code 
+Course Name 
+Academic Credits 
+1 
+ST 4001 
+Senior Thesis 
+2 
+7. 
+Curriculum Flow Map 
+The following flow map provides a quick summary of the main features of the civil Engineering 
+curriculum. 
+ZJU Required Liberal Education Course 
+
+Civil Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 24 ~ 
+ 
+
+Civil Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 25 ~ 
+ Appendix A. Integrated Design Courses 
+An integrated design course is a course that has a design project as part of the course 
+requirements. The following courses meet the conditions of an integrated design course.  
+Course Code 
+Course Name 
+CEE 401 
+Concrete Materials 
+CEE 415  
+Geometric Design of Roads  
+CEE 421  
+Construction Planning  
+CEE 449  
+Environmental Engineering Lab  
+CEE 453  
+Urban Hydrology and Hydraulics  
+CEE 465  
+Design of Structural Systems  
+CEE 484  
+Applied Soil Mechanics  
+CEE 493  
+Sustainable Design Eng Tech 
+ 
+ 
+ 
+
+Civil Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 26 ~ 
+8. 
+Appendix B. Design Content of CEE Courses  
+The design content of a course is a number representing the number of academic credits of 
+the course that are directly associated with engineering design. The design content of each 
+CEE course in the catalog are listed below: 
+Course Code 
+Course Name 
+Academic Credit 
+CEE 190  
+Project Based Introduction to CEE  
+0.00  
+CEE 199  
+Undergraduate Open Seminar  
+0.00  
+CEE 201  
+Systems Engineering & Economics  
+1.50  
+CEE 202  
+Engineering Risk & Uncertainty  
+1.50  
+CEE 300  
+Behavior of Materials  
+1.00  
+CEE 310  
+Transportation Engineering  
+1.00  
+CEE 311  
+Engineering Surveying  
+1.20  
+CEE 320  
+Construction Engineering  
+1.50  
+CEE 330  
+Environmental Engineering  
+0.50  
+CEE 331  
+Fluid Dynamics in the Natural and Built Environment  
+0.00  
+CEE 340  
+Energy and Global Environment  
+1.00  
+CEE 350  
+Water Resources Engineering  
+1.30  
+CEE 360  
+Structural Engineering  
+0.50  
+CEE 380  
+Geotechnical Engineering  
+1.00  
+CEE 401 
+Concrete Materials  
+1.00  
+CEE 405  
+Asphalt Materials, I  
+2.00  
+CEE 406  
+Pavement Design, I  
+2.50  
+CEE 407 
+Airport Design  
+2.00  
+CEE 408  
+Railroad Transportation Engineering  
+1.00  
+CEE 409  
+Railroad Track Engineering  
+2.00  
+CEE 410  
+Railway Signaling and Control  
+1.00  
+CEE 411  
+Railroad Project Design & Construction  
+2.00  
+
+Civil Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 27 ~ 
+CEE 412  
+High-Speed Rail Engineering  
+1.00  
+CEE 415  
+Geometric Design of Roads  
+3.00  
+CEE 416  
+Traffic Capacity Analysis  
+1.50  
+CEE 417  
+Urban Transportation Planning  
+0.00  
+CEE 418  
+Public Transportation Systems  
+1.00  
+CEE 419  
+Transportation Economics  
+0.00  
+CEE 420  
+Construction Productivity  
+2.10  
+CEE 421  
+Construction Planning  
+2.50 
+CEE 422  
+Construction Cost Analysis  
+1.80  
+CEE 424  
+Sustainable Const Methods  
+1.00  
+CEE 430  
+Ecological Quality Engineering  
+1.00  
+CEE 432  
+Stream Ecology  
+1.00  
+CEE 433  
+Water Technology and Policy  
+0.50  
+CEE 434  
+Environmental Systems, I  
+2.00  
+CEE 435  
+Public Health Engineering  
+0.00  
+CEE 437  
+Water Quality Engineering  
+1.50  
+CEE 438  
+Science and Environmental Policy  
+0.25  
+CEE 440  
+Fate Cleanup Environ Pollutant  
+1.00  
+CEE 441  
+Air Pollution Sources, Transport, and Control  
+2.00  
+CEE 442  
+Env Eng Principles, Physical  
+0.50  
+CEE 443  
+Env Eng Principles, Chemical  
+0.00  
+CEE 444  
+Env Eng Principles, Biological  
+0.00  
+CEE 447  
+Atmospheric Chemistry  
+0.00  
+CEE 449  
+Environmental Engineering Lab  
+2.00  
+CEE 450  
+Surface Hydrology  
+0.75  
+CEE 451  
+Environmental Fluid Mechanics  
+0.60  
+CEE 452  
+Hydraulic Analysis and Design  
+2.50  
+
+Civil Engineering 
+ZJU-UIUC Institute 
+Class of 2027 
+~ 28 ~ 
+CEE 453  
+Urban Hydrology and Hydraulics  
+3.00  
+CEE 457  
+Groundwater  
+0.25  
+CEE 458  
+Water Resources Field Methods  
+1.00  
+CEE 459  
+Ecohydraulics  
+0.80  
+CEE 460  
+Steel Structures, I  
+2.40  
+CEE 461  
+Reinforced Concrete, I  
+2.40  
+CEE 462  
+Steel Structures, II  
+2.40  
+CEE 463  
+Reinforced Concrete, II  
+2.25  
+CEE 465  
+Design of Structural Systems  
+3.00  
+CEE 467  
+Masonry Structures  
+2.40  
+CEE 468  
+Prestressed Concrete  
+2.40  
+CEE 469  
+Wood Structures  
+2.40  
+CEE 470  
+Structural Analysis  
+1.00  
+CEE 471  
+Structural Mechanics  
+0.30  
+CEE 472  
+Structural Dynamics  
+1.00  
+CEE 473  
+Wind Effects on Structures  
+0.00  
+CEE 474  
+Mechanics of Additive Manufacturing  
+0.75  
+CEE 483  
+Soil Mechanics and Behavior  
+1.50  
+CEE 484  
+Applied Soil Mechanics  
+2.50  
+CEE 490  
+Computer Methods  
+0.00  
+CEE 491  
+Decision and Risk Analysis  
+1.50  
+CEE 492  
+Data Science for Civil and Environmental Engineering  
+0.00  
+CEE 493  
+Sustainable Design Eng Tech  
+2.00  
+CEE 495  
+Professional Practice  
+0.00  
+CEE 497*  
+Independent Study*  
+0.00  
+CEE 498* 
+Special Topics*  
+0.00  
+*Note: Design content in CEE 497 and CEE 498 is by default assigned to be zero. 

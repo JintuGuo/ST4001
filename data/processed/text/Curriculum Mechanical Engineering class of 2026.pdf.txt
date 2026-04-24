@@ -1,0 +1,1470 @@
+ 
+ 
+ 
+ 
+ 
+ 
+Curriculum  
+of 
+Mechanical Engineering  
+For 
+Class of 2026 
+ 
+ 
+ 
+ 
+ 
+ 
+Zhejiang University/University of Illinois Urbana-Champaign Institute 
+(ZJU-UIUC INSTITUTE) 
+ 
+
+Mechanical Engineering 
+ZJU-UIUC Institute 
+Class of 2026 
+~ 1 ~ 
+Table of Contents 
+ 
+1. 
+Overview ........................................................................................................................ 2 
+2. 
+Graduation Requirement ............................................................................................. 2 
+3. 
+Required Courses ......................................................................................................... 4 
+4. 
+Elective Courses ........................................................................................................... 6 
+5. 
+ZJU Required General Education ............................................................................ 11 
+6. 
+Course Schedule Sample by Semester .................................................................. 12 
+6.1 
+First Year-First (Fall) Semester .................................................................... 12 
+6.2 
+First Year-Second (Spring) Semester ......................................................... 13 
+6.3 
+Second Year-First (Fall) Semester ............................................................... 14 
+6.4 
+Second Year-Second (Spring) Semester .................................................... 14 
+6.5 
+Third Year-First (Fall) Semester ................................................................... 15 
+6.6 
+Third Year- Second (Spring) Semester ....................................................... 15 
+6.7 
+Fourth Year-First (Fall) Semester................................................................. 15 
+6.8 
+Fourth Year- Second (Spring) Semester ..................................................... 16 
+7. 
+Curriculum Flow Map ................................................................................................. 17 
+8. 
+Technical GPA (TGPA) and 2.25 GPA requirements on the Courses in 
+Mechanical Engineering Curriculum ................................................................................ 18 
+ 
+ 
+ 
+
+Mechanical Engineering 
+ZJU-UIUC Institute 
+Class of 2026 
+~ 2 ~ 
+1. Overview 
+The Zhejiang University/University of Illinois Urbana-Champaign Institute (ZJU-UIUC Institute) 
+offers a joint dual-degree engineering program. Upon successful completion of the program, 
+and after meeting the graduation requirements of both universities, students will obtain 
+bachelor’s degrees separately from Zhejiang University (ZJU) and the University of Illinois 
+Urbana-Champaign (UIUC). 
+Mechanical engineering may be the most diverse of the engineering fields, embracing many 
+sub-fields and affecting all aspects of our lives. Mechanical engineers work on new machines, 
+products, and processes that hold the promise of better lives for all of us. They are concerned 
+with both technological and economic aspects in the design, development, and use of their 
+products. Today, one of the challenges is to design efficient, low-cost machines and processes 
+that use the fewest possible natural resources to improve the lives of people throughout the 
+world. 
+The technical portion of the Mechanical Engineering program curriculum is designed as a 
+sequence of increasingly specialized experiences. The student’s first year is spent mastering 
+the basics of science: math, chemistry, and physics. Building on this base, in the second year, 
+students begin to take fundamental engineering courses such as statics, dynamics, basic 
+circuits and electronics, thermodynamics, and strength of materials. By the third year, students 
+are taking specialized mechanical engineering courses in the sub-fields of fluid mechanics, 
+heat transfer, dynamic systems and controls, materials, mechanical design, and 
+manufacturing. Finally, during the senior year, students have the opportunity to both broaden 
+and deepen their knowledge of the field through technical elective courses. At the end of the 
+curriculum, students take the capstone senior design course in which the knowledge and skills 
+they have learned are applied to projects submitted to the department by industrial firms or by 
+faculty members. Engineering design, communication, teamwork, and laboratory experiences 
+are integrated throughout the curriculum from the first year to the last year. 
+During their junior and senior years students are encouraged to take courses and involve 
+themselves in research projects in cross-disciplinary areas with Civil and Environmental 
+Engineering, Electrical Engineering, Computer Engineering, and others. 
+ 
+2. Graduation Requirement 
+2.1 Graduation Requirements for UIUC degree 
+2.1.1 
+Grade Point Average Requirement 
+A student must maintain a minimum GPA of 2.0 (A=4.0) to remain in good standing and 
+graduate. UIUC degree is subjected to the final review by UIUC. 
+2.1.2 
+Junior Eligibility Requirement 
+To be eligible to enroll in the ME courses listed in the third year of the curriculum, a student 
+must have completed, with a combined 2.25 grade point average, the mathematics, physics, 
+computer science, and electrical and computer engineering courses listed in the first two years. 
+
+Mechanical Engineering 
+ZJU-UIUC Institute 
+Class of 2026 
+~ 3 ~ 
+2.1.3 
+Curriculum Requirement 
+The curriculum leading to the degree of Bachelor of Science in Mechanical Engineering at 
+UIUC requires 128 academic credits (or academic units, AUs) and is organized into required 
+courses, technical electives, general education, and other electives.  
+i). Required courses, see section 3 for details. 
+Academic Credit 
+a) Orientation and Professional Development  
+1 
+b) Foundational Mathematics and Science 
+29 
+c) Technical Core  
+53 
+d) Composition 
+8 
+e) Advanced Composition* 
+4 
+Total Required AUs: 
+95 
+ 
+ 
+ii). Elective courses, see section 4 for details. 
+ 
+a) Science Electives 
+4 
+b) Statistic Electives 
+3 
+c) MechSE Electives 
+6 
+d) Technical Electives 
+6 
+e) General education 
+12 
+f) 
+Free Electives 
+6 
+Total Required AUs: 
+37 
+*Students take ME 470+498 to satisfy advance composition and technical elective requirement, 
+and credits can be given for both. 
+ 
+2.1.4 
+Additional requirements  
+For UIUC degree, in addition to the specific course and grade point average requirements 
+listed above, each candidate for a bachelor’s degree from UIUC must meet the following 
+requirements: 
+i). Residency Requirement  
+Earn a minimum sixty (60) semester AUs of UIUC credit, of which at least twenty-one (21) AUs 
+must be 300 or 400 level UIUC credit courses.  
+ii). Transfer Requirement  
+Students should have a satisfactory English Proficiency Test score on TOEFL, IELTS or other 
+exams approved by UIUC, and maintain a good standing on academic studies that all term 
+GPAs, overall GPA on UIUC courses are suggested to be above 2.5. In junior year, students 
+
+Mechanical Engineering 
+ZJU-UIUC Institute 
+Class of 2026 
+~ 4 ~ 
+will apply for international transfer to be admitted to UIUC and change academic status from 
+non-degree student to degree student in Fall semester of senior year.  
+To remain in good academic standing and to graduate from the ME curriculum, a student must 
+have the curriculum courses satisfied with the TGPA or GPA requirements listed in section 8. 
+2.2 Graduation Requirements for ZJU degree 
+In addition to the 128-AU requirement listed above, the curriculum leading to the degree of 
+Bachelor of Engineering from ZJU requires students to complete additional 33.5 credits of 
+ZJU-required general education courses for domestic students and additional six courses (22 
+credits) in Chinese language and society study for international students. Please refer to 
+section 5 for details. 
+ 
+3. Required Courses 
+3.1 Orientation and Professional Development 
+This course introduces students to the opportunities and resources our institute and curriculum 
+can offer you as you work to achieve your career goals. It also provides the skills to work 
+effectively and successfully in the engineering profession. 
+Course Code 
+Course Name 
+Academic Credit 
+ENG 100 
+Engineering Orientation 
+1 
+ME 290 
+Seminar 
+0 
+ 
+Total Required AUs: 
+1 
+ 
+3.2 Foundational Mathematics and Science 
+These courses emphasize the fundamental mathematical and scientific principles upon which 
+the engineering discipline is based. 
+Course Code1 
+Course Name 
+Academic Credits 
+MATH 221 
+Calculus I 
+4 
+MATH 231 
+Calculus II 
+3 
+MATH 241 
+Calculus III 
+4 
+MATH 2572 
+Linear Algebra with Computational Application  
+3 
+MATH 285 
+Intro Differential Equations 
+3 
+CHEM 102 
+General Chemistry I 
+3 
+CHEM 103 
+General Chemistry Lab I 
+1 
+
+Mechanical Engineering 
+ZJU-UIUC Institute 
+Class of 2026 
+~ 5 ~ 
+PHYS 211 
+University Physics: Mechanics 
+4 
+PHYS 212  
+University Physics: Elec & Mag 
+4 
+ 
+Total Required AUs: 
+29 
+1 To register for third-year Mechanical Engineering (ME) courses, students are required to have a grade-point 
+average (GPA) of 2.25 or above in the course except MATH 415. 
+2 To remain in good academic standing and to graduate from the ME curriculum, a student must have a GPA 
+of at least 2.0 in the course. 
+ 
+3.3 Technical Core 
+These courses stress fundamental concepts and basic laboratory techniques that comprise 
+the common intellectual understanding of mechanical engineering. 
+Course Code 
+Course Name 
+Academic Credits 
+CS 101 
+Intro Computing: Engineering & Science 
+3 
+ECE 2051 
+Electrical and Electronic Circuits 
+3 
+ECE 206 
+Electrical and Electronic Circuits Lab 
+1 
+TAM 2102 
+Introduction to Statics 
+2 
+TAM 212 
+Introductory Dynamics 
+3 
+TAM 251 
+Introductory Solid Mechanics 
+3 
+ME 170 
+Computer-Aided Design 
+3 
+ME 270 
+Design for Manufacturability 
+3 
+ME 200 
+Thermodynamics 
+3 
+ME 310 
+Fundamentals of Fluid Dynamics 
+4 
+ME 320 
+Heat Transfer 
+4 
+ME 330 
+Engineering Materials 
+4 
+ME 340 
+Dynamics of Mechanical Systems 
+3.5 
+ME 360 
+Signal Processing 
+3.5 
+ME 370 
+Mechanical Design I 
+3 
+ME 371 
+Mechanical Design II 
+3 
+ME 4703 
+Senior Design Project 
+3 
+ME 4983 
+Senior Design Supplement 
+1 
+
+Mechanical Engineering 
+ZJU-UIUC Institute 
+Class of 2026 
+~ 6 ~ 
+ 
+Total Required AUs: 
+53 
+1 ECE 205 can be substituted by ECE 110 (Introduction to Electronics, 3 AUs) + ECE 211 (Analog Circuit & 
+System, 2 AUs) or ECE 210 (Analog Signal Processing, 4 AUs); 
+2 TAM 210 can be substituted by TAM 211; 
+3 ME 470 + ME 498 satisfy the Advanced Composition requirements. 
+ 
+3.4 Composition 
+i) These courses teach fundamentals of expository writing. 
+Course Code 
+Course Name 
+Academic Credits 
+RHET 101 
+Principles of Writing 
+4 
+RHET 102 
+Principles of Research 
+4 
+ 
+Total Required AUs: 
+8 
+ii) The Advanced Composition requirement is fulfilled by a writing-intensive course beyond 
+basic composition. It is normally taken in the junior or senior year. 
+Course Code 
+Course Name 
+Academic Credits 
+ME 470* 
+Senior Design Project 
+3 
+ME 498* 
+Senior Design Supplement 
+1 
+ 
+Total Required AUs: 
+4 
+* ME 470+498 is also a required technical core. 
+ 
+4. Elective Courses 
+4.1 Science Electives 
+The science electives augment the foundational science courses in an area of interest to the 
+student and provide preparation for later courses. The science, statistics, and MechSE 
+electives, and additional technical courses, stress the rigorous analysis, design, and statistics 
+principles practiced in mechanical engineering. 
+Student must select one set of science electives from either Chem 104 and Chem 105, or 
+Phys 213 and Phys 214, or MCB 150. 
+Course Code 
+Course Name 
+Academic Units 
+CHEM 104 
+General Chemistry II 
+3 
+CHEM 105 
+and General Chemistry Lab II 
+1 
+PHYS 213 
+Univ Physics: Thermal Physics 
+2 
+PHYS 214 
+and Univ Physics: Quantum Physics 
+2 
+
+Mechanical Engineering 
+ZJU-UIUC Institute 
+Class of 2026 
+~ 7 ~ 
+MCB 150 
+Molecular & Cellular Basis of Life 
+4 
+ 
+Total Required AUs: 
+4 
+ 
+4.2 Statistic Electives 
+Student must select One (1) course from the following list. 
+Course Code 
+Course Name 
+Academic Credits 
+IE 300 
+Analysis of Data 
+3 
+STAT 400/Math 463 
+Statistics and Probability I 
+4 
+ECE 313 
+Probability with Engineering Application 
+3 
+ 
+Total Required AUs: 
+3 
+ 
+4.3 MechSE Electives  
+Students must take Two (2) courses from MechSE elective courses as listed in the following 
+table. 
+Course Code 
+Course Name 
+Academic Credits 
+ME 400 
+Energy Conversion System 
+3 
+ME 401 
+Refrigeration and Cryogenics 
+3 
+ME 402 
+Design of Thermal Systems 
+3 
+ME 403 
+Internal Combustion Engines 
+3 
+ME 404 
+Internal Thermodynamics 
+4 
+ME 410 
+Intermediate Gas Dynamics 
+3 
+ME 411 
+Viscous Flow & Heat Transfer 
+4 
+ME 412 
+Numerical Thermo-Fluid Mechanics 
+3 
+ME 420 
+Intermediate Heat Transfer 
+4 
+ME 430 
+Failure of Engineering Materials 
+3 
+ME 431 
+Mechanical Component Failure 
+3 
+ME 432 
+Fundamentals of Photovoltaics 
+3 
+ME 440 
+Kinematics & Dynamics of Mechanical System 
+3 
+ME 445 
+Introduction to Robotics 
+4 
+ME 446 
+Robot Dynamics and Control 
+4 
+ME 447 
+Computational Design and Dynamics of Soft 
+Systems 
+4 
+
+Mechanical Engineering 
+ZJU-UIUC Institute 
+Class of 2026 
+~ 8 ~ 
+ME 451 
+Computer-Aided Manufacturing System 
+3 
+ME 452 
+Numerical Control of Manufacturing Processes 
+3 
+ME 453 
+Data Science in Manufacturing Quality Control 
+3 
+ME 455 
+Micromanufacturing Process & Automation 
+3 
+ME 458 
+Additive Manufacturing and Product Design 
+3 
+ME 460 
+Industrial Control System 
+4 
+ME 461 
+Computer Control of Mechanical System 
+3 
+ME 462 
+Advanced Computer Control 
+4 
+ME 471 
+Finite Element Analysis 
+3 
+ME 472 
+Introduction to Tribology 
+3 
+ME 475 
+Bioinspired Design 
+3 
+ME 481 
+Whole-Body Musculoskeletal Biomechanics 
+3 
+ME 482 
+Musculoskeletal Tissue Mechanics 
+3 
+ME 483 
+Mechanobiology 
+4 
+ME 485 
+MEMS Devices & Systems 
+3 
+ME 487 
+MEMS-NEMS Theory & Fabrication    
+4 
+ME 498VS 
+Vacuum Engineering in Semiconductor 
+Industry 
+3 
+TAM 412 
+Intermediate Dynamics 
+4 
+TAM 413 
+Fund of Engineering Acoustics 
+3 
+TAM 416 
+Introduction to Nonlinear Dynamics and 
+Vibrations 
+4 
+TAM 424 
+Mechanics of Structural Metals 
+3 
+TAM 428 
+Mechanics of Composites 
+3 
+TAM 435 
+Intermediate Fluid Mechanics 
+4 
+TAM 445 
+Continuum Mechanics 
+4 
+TAM 451 
+Intermediate Solid Mechanics 
+4 
+TAM 456 
+Experimental Stress Analysis 
+3 
+TAM 461 
+Cellular Biomechanics 
+4 
+TAM 470 
+Computational Mechanics 
+3 
+ 
+4.4 Technical Electives 
+Students must take Two (2) courses (6 AUs) from Technical elective courses as listed. 
+
+Mechanical Engineering 
+ZJU-UIUC Institute 
+Class of 2026 
+~ 9 ~ 
+Agri. Bio Eng. (ABE): 361, 430*, 436, 445, 452*, 455, 456, 459, 466, 469, 476, 483, 488. 
+Aerospace Eng. (AE): 352, 402, 403, 410, 412, 416, 419, 420, 428, 433, 434, 442, 443, 451, 
+452, 454, 456, 460, 461, 482, 483.  
+Biochemistry (BIOC): 406, 446, 455 
+Bioengineering (BIOE): 380, 414, 415, 416, 461, 476, 479, 481, 482. 
+Biophysics (BIOP): 401, 419, 432. 
+Civil & Env. Eng. (CEE): 310, 330,340, 350, 360, 380, 401, 405, 406, 407, 408, 409, 410, 
+411, 412, 415, 416, 417*, 418, 420, 421, 422, 434, 437, 438, 440, 442, 443, 444, 447, 449, 
+450, 451, 453, 457, 458, 460,461, 462, 463, 465, 467, 468, 469, 470, 471, 472, 483, 
+484,491 
+Chem. & Biomol. Eng. (CHBE): 422,424,451,452,453,456,471,472,473,474,475,476. 
+Chemistry (CHEM): 232, 233, 236, 237, 312, 315, 317, 332, 420, 436, 437, 440, 442, 444, 
+445, 447, 460, 472, 474, 480, 482, 483, 488. 
+Computer Science (CS): 225, 233, 242, 341, 357, 374, 410, 411, 412, 413, 414, 418, 419, 
+420, 421, 422, 423, 424, 425, 426, 427, 428, 429, 431, 433, 436, 438, 439 ,440, 445, 446, 447, 
+450, 460, 461, 463, 465, 466, 467, 468*, 473, 475, 476; 477, 481, 483, 484. 
+Computational Science and Eng. (CSE): 401, 402, 412, 441, 450, 451, 461. 
+Electrical & Computer Eng. (ECE): 329, 330, 333, 340, 342, 343, 380, 395, 401, 402, 403, 
+408, 411, 412, 414, 415, 416, 417, 418, 419, 420, 422, 424, 425, 428, 431, 432, 435, 437, 438, 
+439, 441, 444, 447, 448, 451, 452, 453, 454, 455, 456, 457, 458, 459, 460, 462, 463, 464, 465, 
+466, 467, 468, 469, 470, 472, 473, 476, 478, 480, 481, 482, 483, 485, 486, 487, 488, 489, 490, 
+491, 492, 493, 495. 
+Economics (ECON): 302*. 
+Industrial Engineering (IE): 310, 311, 330, 340, 360, 410, 411, 412, 413, 420, 430, 431, 445*. 
+Mathematics (Math): 347, 357, 403, 412, 413, 414, 417, 418, 423, 424, 425, 427, 432, 442, 
+444, 446, 447, 448, 450, 453, 464, 473, 475, 481, 482, 484, 487, 489, 
+Molecular & Cellular Biology (MCB): 401, 402, 450, 493*. 
+Materials Science & Engineering (MSE): 304, 307, 308, 401, 402, 403, 405, 406, 420, 421, 
+422, 440, 441, 443, 450, 453, 455, 456, 457, 458, 460, 461, 466, 470, 473, 474, 480, 481, 
+485, 487, 488, 489. 
+Nuclear Plasma & Radiological (NPRE): 402, 412, 421, 423, 429, 435, 441, 442, 448, 451, 
+455, 457, 461, 470, 475. 
+Physics (PHYS): 330, 401, 402, 403, 404, 406, 427, 435, 436, 460, 466, 470, 475, 485, 486, 
+487, 496* 
+Systems Eng (SE): 400*, 402, 411, 412, 413, 420, 422, 423, 424, 450*. 
+Statistics (STAT): 409, 410, 420, 424, 425, 428, 429, 440, 448, 458, 480. 
+
+Mechanical Engineering 
+ZJU-UIUC Institute 
+Class of 2026 
+~ 10 ~ 
+Technology Entrepreneurship (TE): 461*. 
+Technology and Management (TMGT):460, 461  
+Mechanical Engineering (ME)**: All of 400-level classes, except for 470, 497, 498. 
+Theoretical and Applied Mechanics (TAM)**: All of 400-level classes, except for 497, 498 
+* This course falls under the Professional Elective category. No more than 3 hours of 
+Professional Elective credit may be used to satisfy the Technical Elective requirements.  
+** The credits in excess of the 6 AU requirement of MechSE electives can fulfill Technical 
+Elective requirements.  
+ 
+4.5 General Education 
+The general education courses develop students’ understanding of human culture and society, 
+build skills of inquiry and critical thinking, and lay a foundation for civic engagement and lifelong 
+learning. To satisfy the General Education requirements, students must complete a minimum 
+of twelve (12) AUs in general education courses. Students must take all courses for grade 
+and complete sufficient courses in required categories based on the table below: 
+Required course category 
+Number of courses 
+Academic Credits 
+1) Humanities & Arts 
+Two (2) 
+6 
+2) Social & Behavioral Sciences1  
+Two (2) 
+6 
+Additional Requirements: 
+i) Culture Studies2  
+ 
+ 
+Western/Comparative Culture(s) 
+One (1) 
+3 
+Non-Western Culture(s) 
+One (1) 
+3 
+U.S. Minority Culture(s)3 
+One (1) 
+3 
+ii) Aesthetic Education4 
+One (1) 
+3 
+ 
+Total required AUs: 
+12 
+1 One of the Social and Behavioral Science courses must be an introductory economics course (ECON 
+102 or ECON 103). 
+2 Proper selection of Social and Behavioral Sciences and in Humanities and the Arts courses will assure that 
+these courses also fulfill Western, non-Western and US Minority Cultures requirements. 
+3 Not required if students pursue ZJU degree only. 
+4 Required only for ZJU degree. 
+ 
+For courses that fail in multiple categories of general education, the academic units of the 
+course will be counted to satisfy the AU requirements of each category, but be counted only 
+once in satisfying the total minimum academic unit requirements (12 AUs) of general education. 
+ 
+4.6 Free Electives 
+
+Mechanical Engineering 
+ZJU-UIUC Institute 
+Class of 2026 
+~ 11 ~ 
+These unrestricted electives give students the opportunity to explore any intellectual area of 
+unique interest. This freedom plays a critical role in helping students define their research 
+specialties. Students are encouraged to take cross-disciplinary courses as free electives. 
+Students must complete a minimum of six (6) AUs in free electives. 
+5. ZJU Required General Education 
+These courses introduce modern Chinese history, social development, government policies, 
+etc., and help students improve their English and maintain a healthy lifestyle.  
+5.1 For domestic students 
+Domestic students must complete all the courses below to fulfill the graduation requirements 
+for the Bachelor of Engineering Degree at ZJU. These courses can be taught in Chinese. The 
+academic credits in this section are additional to 128 AUs of credits required for UIUC degree. 
+Course Code Course Name 
+Academic Credits 
+LAW 1002 
+Ideology, Morality and Rule of Law 
+3 
+HIST 2001 
+Modern Chinese History 
+3 
+PHIL 2002 
+Introduction to the Principle of Marxism 
+3 
+PS 2011 
+Intro.to Mao Thought & Theoretical System of China 
+Socialism 
+3 
+PS 3011 
+General Introduction to Xi Jinping Thought on 
+Socialism with Chinese Characteristics for a New 
+Era 
+3 
+PS 1001B 
+Situation and Policy I 
+1 
+PS 2001 
+Situation and Policy II 
+1 
+ENGL 1001 
+Integrated English I 
+1.5 
+ENGL 1002 
+Integrated English II 
+1.5 
+ENGL 2001 
+Advanced Spoken English I 
+1.5 
+ENGL 2002 
+Advanced Spoken English II 
+1.5 
+PE 1001 
+Physical Education I 
+1 
+PE 1002 
+Physical Education II 
+1 
+PE 2001 
+Physical Education III 
+1 
+PE 2002 
+Physical Education IV 
+1 
+PE 4021 
+Physical Education VII-Fitness test and exercise 
+0.5 
+MITR 1001 
+Military Training 
+2 
+
+Mechanical Engineering 
+ZJU-UIUC Institute 
+Class of 2026 
+~ 12 ~ 
+Course Code Course Name 
+Academic Credits 
+MITR 2001 
+Military Theory 
+2 
+ST 4001 
+Senior Thesis 
+2 
+ 
+Total Required AUs: 
+33.5 
+ 
+5.2 For International students 
+International students are required to complete the following courses in Chinese language 
+study and Chinese society to fulfill the graduation requirements along with the above 128 
+credits of courses towards the Bachelor of Engineering Degree at ZJU.  
+Course Code 
+Course Name 
+Academic Credits 
+CHIN 1001 
+Chinese I 
+4 
+CHIN 1002 
+Chinese II 
+5 
+CHIN 1003 
+Chinese III 
+4 
+CHIN 1004 
+Chinese IV 
+4 
+CULT 2001 
+China Survey 
+3 
+ST 4001 
+Senior Thesis 
+2 
+ 
+Total Required AUs: 
+22 
+ 
+6. 
+Course Schedule Sample by Semester 
+6.1 
+ First Year-First (Fall) Semester 
+List of ZJUI/UIUC courses for both domestic and international students 
+No Course Code Course Name 
+Academic Credits 
+1 
+Rhet 101 
+Principles of Writing 
+4 
+2 
+Chem 102 
+General Chemistry I 
+3 
+3 
+Chem 103 
+General Chemistry Lab I 
+1 
+4 
+Math 221 
+Calculus I 
+4 
+5 
+ECE 110 
+Intro to Electronics 
+3 
+6 
+CS 101 
+Intro Computing: Engrg & Sci 
+3 
+7 
+Eng 100  
+Engineering Orientation 
+1 
+8 
+ME 290 
+Seminar 
+0 
+
+Mechanical Engineering 
+ZJU-UIUC Institute 
+Class of 2026 
+~ 13 ~ 
+  
+  
+Total: 
+19 
+List of ZJU courses for domestic students 
+No 
+Course Code 
+Course Name 
+Academic Credits 
+1 
+MITR 1001 
+Military Training  
+2 
+2 
+ENGL 1001 
+Integrated English I 
+1.5 
+3 
+PE 1001 
+Physical Education I 
+1 
+4 
+PS 1001 
+Situation and Policy I 
+ 
+ 
+List of ZJU courses for International students 
+No Course Code Course Name 
+Academic Credits 
+1 
+CHIN 1001 
+Chinese I 
+4 
+ 
+6.2 
+First Year-Second (Spring) Semester 
+List of ZJUI/UIUC courses for both domestic and international students 
+No Course Code Course Name 
+Academic Credits 
+1 
+Rhet 102 
+Principles of Research 
+4 
+2 
+Math 231 
+Calculus II 
+3 
+3 
+Phys 211 
+University Physics: Mechanics  
+4 
+4 
+Chem 104 
+General Chemistry II 
+3 
+5 
+Chem 105 
+General Chemistry II Lab 
+1 
+6 
+ME 170 
+Computer-Aided Design 
+3 
+  
+  
+Total: 
+18 
+List of ZJU Courses for domestic students 
+No 
+Course Code 
+Course Name 
+Academic Credits 
+1 
+LAW 1002 
+Ideology, Morality and Rule of Law 
+3 
+2 
+ENGL 1002 
+Integrated English II 
+1.5 
+3 
+PE 1002 
+Physical Education II 
+1 
+4 
+PS 1001 
+Situation and Policy I 
+1 
+ 
+List of ZJU Courses for international students 
+No Course Code Course Name 
+Academic Credits 
+1 
+CHIN1002 
+Chinese II 
+5 
+ 
+
+Mechanical Engineering 
+ZJU-UIUC Institute 
+Class of 2026 
+~ 14 ~ 
+6.3 
+Second Year-First (Fall) Semester 
+List of ZJUI/UIUC courses for both domestic and international students 
+No 
+Course Code Course Name 
+Academic Credits 
+1 
+Math 241  
+Calculus III 
+4 
+2 
+MATH 257 
+Linear Algebra with Computational Application 
+3 
+3 
+Phys 212   
+University Physics: Elec& Mag 
+4 
+4 
+TAM 211 
+Statics 
+3 
+5 
+ME 270 
+Design for Manufacturability 
+3 
+ 
+  
+Total: 
+17 
+List of ZJU Courses for domestic students 
+No 
+Course Code 
+Course Name 
+Academic Credits 
+1 
+PS 2011 
+Intro.to Mao Thought & Theoretical System of 
+China Socialism 
+3 
+2 
+ENGL 2001 
+Advanced Spoken English I 
+1.5 
+3 
+PE 2001 
+Physical Education III 
+1 
+4 
+MITR 2001 
+Military Theory 
+2 
+5 
+PS 2001 
+Situation and Policy II 
+ 
+ 
+List of ZJU Courses for international students 
+No 
+Course Code 
+Course Name 
+Academic Credits 
+1 
+CHIN 1003 
+Chinese III 
+4 
+2 
+CULT 2001 
+China Survey 
+3 
+ 
+6.4 
+Second Year-Second (Spring) Semester 
+List of ZJUI/UIUC courses for both domestic and international students 
+No 
+Course Code 
+Course Name 
+Academic Credits 
+1 
+Math 285 
+Intro to Differential Eq 
+3 
+2 
+TAM 212 
+Introductory Dynamics 
+3 
+3 
+TAM 251 
+Introductory Solid Mechanics 
+3 
+4 
+ME 200 
+Thermodynamics 
+3 
+5 
+ECE 211 
+Analog Circuits & Systems 
+2 
+6 
+GenEd  
+General Education Elective 
+3 
+  
+  
+Total: 
+17 
+
+Mechanical Engineering 
+ZJU-UIUC Institute 
+Class of 2026 
+~ 15 ~ 
+List of ZJU Courses for domestic students 
+No 
+Course Code Course Name 
+Academic Credits 
+1 
+HIST 2001 
+Modern Chinese History 
+3 
+2 
+PHIL 2002 
+Introduction to the Principle of Marxism 
+3 
+3 
+ENGL 2002 
+Advanced Spoken English II 
+1.5 
+4 
+PS 2001 
+Situation and Policy II 
+ 
+5 
+PE 2002 
+Physical Education IV 
+1 
+ 
+List of ZJU Courses for domestic students 
+No 
+Course Code Course Name 
+Academic Credits 
+1 
+CHIN 1004 
+Chinese IV 
+4 
+ 
+6.5 
+Third Year-First (Fall) Semester 
+No 
+Course Code 
+Course Name 
+Academic Credits 
+1 
+ME 340 
+Dynamics of Mechanical Systems 
+3.5 
+2 
+ME 330 
+Engineering Materials 
+4 
+3 
+ME 370 
+Mechanical Design I 
+3 
+4 
+STAT 400* 
+Statistics and Probability I 
+4 
+5 
+ECE 206 
+Elec & Electronic Circuits Lab 
+1 
+  
+  
+Total: 
+15.5 
+*IE 300, Math 463, ECE 313 can be a substitute. 
+6.6 
+Third Year- Second (Spring) Semester 
+No 
+Course Code Course Name 
+Academic Credits 
+1 
+ME 310 
+Fundamentals of Fluid Dynamics 
+4 
+2 
+ME 371 
+Mechanical Design II 
+3 
+3 
+ME 360 
+Signal Processing 
+3.5 
+4 
+Free Elec 
+Free Elective 
+3 
+5 
+GenEd 
+General Education Elective 
+3 
+  
+  
+Total: 
+16.5 
+6.7 
+Fourth Year-First (Fall) Semester 
+List of ZJUI/UIUC courses for both domestic and international students 
+
+Mechanical Engineering 
+ZJU-UIUC Institute 
+Class of 2026 
+~ 16 ~ 
+No 
+Course Code Course Name 
+Academic Credits 
+1 
+ME 320 
+Heat Transfer 
+4 
+2 
+MechSE E 
+MechSE Elective 
+3 
+3 
+MechSE E 
+MechSE Elective 
+3 
+4 
+Free Elec 
+Free Elective 
+3 
+5 
+GenEd 
+General Education Elective 
+3 
+  
+  
+Total: 
+16 
+List of ZJU Courses for domestic students 
+No 
+Course Code 
+Course Name 
+Academic Credits 
+1 
+PS 3011 
+General Introduction to Xi Jinping Thought on 
+Socialism with Chinese Characteristics for a 
+New Era 
+3 
+2 
+PS 2001 
+Situation and Policy II 
+ 
+6.8 
+Fourth Year- Second (Spring) Semester 
+List of ZJUI/UIUC courses for both domestic and international students 
+No 
+Course Code Course Name 
+Academic Credits 
+1 
+ME 470 
+Senior Design Project 
+4 
+2 
+ME 498 
+Senior Design Supplement 
+1 
+3 
+Tech Elec 
+Technical Elective 
+3 
+4 
+Tech Elec 
+Technical Elective 
+3 
+5 
+Free Elec 
+Free Elective 
+3 
+6 
+GenEd 
+General Education Elective 
+3 
+  
+  
+Total: 
+17 
+List of ZJU Courses for domestic students 
+No 
+Course Code 
+Course Name 
+Academic Credits 
+1 
+PE 4021 
+Physical Education VII-Fitness test and 
+exercise 
+0.5 
+2 
+PS 2001F 
+Situation and Policy Ⅱ 
+1 
+3 
+ST 4001 
+Senior Thesis 
+2 
+ 
+List of ZJU Courses for international students 
+No 
+Course Code 
+Course Name 
+Academic Credits 
+1 
+ST 4001 
+Senior Thesis 
+2 
+ 
+ 
+
+Mechanical Engineering 
+ZJU-UIUC Institute 
+Class of 2026 
+~ 17 ~ 
+7. 
+Curriculum Flow Map 
+The following flow map provides a quick summary of the main features of the Mechanical 
+Engineering curriculum. 
+ 
+ZJU Required General Education Course 
+ 
+
+Mechanical Engineering 
+ZJU-UIUC Institute 
+Class of 2026 
+~ 18 ~ 
+8. 
+Technical GPA (TGPA) and 2.25 GPA requirements on the 
+Courses in Mechanical Engineering Curriculum 
+Course Rubric 
+Course Name 
+Credit TGPA1 
+2.25 GPA2 
+Orientation and Professional Development 
+ENG 100 
+Engineering Orientation 
+0 
+□ 
+□ 
+ME 290 
+Seminar 
+0 
+□ 
+□ 
+Foundational Mathematics and Science 
+MATH 221 
+Calculus I 
+4 
+□ 
+■ 
+MATH 231 
+Calculus II 
+3 
+□ 
+■ 
+MATH 241 
+Calculus III 
+4 
+□ 
+■ 
+MATH 257 
+Linear Algebra with Computational 
+Application  
+3 
+■ 
+□ 
+MATH 285 
+Intro Differential Equations 
+3 
+□ 
+■ 
+CHEM 102 
+General Chemistry I 
+3 
+□ 
+■ 
+CHEM 103 
+General Chemistry Lab I 
+1 
+□ 
+■ 
+PHYS 211 
+University Physics: Mechanics 
+4 
+■ 
+□ 
+PHYS 212  
+University Physics: Elec & Mag 
+4 
+■ 
+□ 
+Mechanical Engineering Technical Core 
+CS 101 
+Intro Computing: Engineering & Science 
+3 
+□ 
+■ 
+ECE 2053 
+Electrical and Electronic Circuits 
+3 
+■ 
+■ 
+ECE 206 
+Electrical and Electronic Circuits Lab 
+1 
+■ 
+■ 
+TAM 2104 
+Introduction to Statics 
+2 
+■ 
+■ 
+TAM 212 
+Introductory Dynamics 
+3 
+■ 
+■ 
+TAM 251 
+Introductory Solid Mechanics 
+3 
+■ 
+■ 
+ME 170 
+Computer-Aided Design 
+3 
+□ 
+■ 
+ME 270 
+Design for Manufacturability 
+3 
+■ 
+□ 
+ME 200 
+Thermodynamics 
+3 
+■ 
+□ 
+ME 310 
+Fundamentals of Fluid Dynamics 
+4 
+■ 
+□ 
+ME 320 
+Heat Transfer 
+4 
+■ 
+□ 
+ME 330 
+Engineering Materials 
+4 
+■ 
+□ 
+ME 340 
+Dynamics of Mechanical Systems 
+3.5 
+■ 
+□ 
+ME 360 
+Signal Processing 
+3.5 
+■ 
+□ 
+ME 370 
+Mechanical Design I 
+3 
+■ 
+□ 
+ME 371 
+Mechanical Design II 
+3 
+■ 
+□ 
+ME 470 
+Senior Design Project 
+3 
+■ 
+□ 
+ME 498 
+Senior Design Supplement 
+1 
+■ 
+□ 
+Electives and Composition 
+ 
+ 
+Rhet 101 
+Principles of Writing 
+4 
+□ 
+□ 
+Rhet 102 
+Principles of Research 
+4 
+□ 
+□ 
+Stat Elec 
+IE 300, STAT 400 / MATH 463 
+3 
+■ 
+□ 
+Sci. Elec. 
+CHEM 104&105, 
+4 
+□ 
+■ 
+ 
+MCB 150, PHYS 213&214 
+ 
+■ 
+■ 
+Tech Elec 
+Chosen from list in 4.4, often in TGPA 
+6 
+■ 
+□ 
+
+Mechanical Engineering 
+ZJU-UIUC Institute 
+Class of 2026 
+~ 19 ~ 
+MechSE Elec 
+TAM and ME courses from Tech Elec list 
+6 
+■ 
+□ 
+GenEd 
+ 
+12 
+□ 
+□ 
+Free Elec 
+ 
+6 
+□ 
+□ 
+1 To remain in good academic standing and to graduate from the ME curriculum, a student must 
+have a GPA of at least 2.00 in the courses marked with an “■”. 
+2 To register for third-year Mechanical Engineering (ME) courses, students are required to have a 
+grade-point average of 2.25 or above in the courses marked with an “■”. 
+3 ECE 205 can be substituted by ECE 110 (Introduction to Electronics, 3 AUs) + ECE 211 (Analog Circuit & 
+System, 2 AUs) or ECE 210 (Analog Signal Processing, 4 AUs); 
+4 TAM 210 can be substituted by TAM 211; 
+ 

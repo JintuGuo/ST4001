@@ -1,0 +1,239 @@
+Information Engineering, ISEE
+COLLEGE OF INFORMATION SCIENCE AND ELECTRONIC ENGINEERING
+(ISEE)
+Information Engineering Curriculum
+(Updated in January 2025)
+1. Educational Objectives
+Information Engineering encompasses telecommunications, networking, signal and information
+processing - all important and rapidly growing industries in today's information age. It provides
+students with an understanding of the entire stack of modern networked computers, from the
+design and architecture of the CPU in a smartphone, through the information theory and
+wireless protocols connecting it to the internet, to the operating systems and databases
+providing back-end support in the cloud.
+2.
+Graduation Requirement
+The curriculum leading to the degree of Bachelor of Information Engineering at ZJU requires
+135 credits and is organized into required courses, technical electives, liberal education,
+Chinese language and society study for international students, and other electives.
+3. Required Courses
+3.1 Orientation and Professional Development
+These courses introduce you to the opportunities and resources that our program can offer
+you as you work towards your career goals. They also provide you with the skills to work
+effectively and successfully in the engineering profession.
+
+Information Engineering, ISEE
+~ 1 ~
+Course Code
+Course Name
+Credit
+ENGR 100
+Engineering Orientation
+1
+3.2 Foundational Mathematics and Science
+These courses stress the fundamental mathematical and scientific principles upon which the
+engineering discipline is based.
+Course Code
+Course Name
+Credit
+MATH 221
+Calculus I
+4
+MATH 231
+Calculus Ⅱ
+3
+MATH 241
+Calculus III
+4
+MATH 257
+Linear Algebra with Computational Applications
+3
+MATH 285
+Intro Differential Equations
+3
+PHYS 211
+University Physics: Mechanics
+4
+PHYS 212
+University Physics: Elec& Mag
+4
+PHYS 213
+Univ Physics: Thermal Physics
+2
+Total required
+27
+3.3 Technical Core
+These courses stress fundamental concepts and basic laboratory techniques that comprise
+the common intellectual understanding of information engineering.
+Course Code
+Course Name
+Credit
+ECE 110
+Intro to Electronics
+3
+ECE 210
+Analog Signal Processing
+4
+ECE 220
+Computer Systems & Programming
+4
+ECE 310
+Digital Signal Processing
+3
+ECE 311
+Digital Signal Processing Lab
+1
+
+Information Engineering, ISEE
+~ 2 ~
+ECE 313
+Probability with Eng App
+3
+ECE 329
+Fields and Waves I
+3
+ECE 385
+Digital Systems Laboratory
+3
+ECE 498SS
+Signals and Systems
+4
+ECE 498PC
+Principles of Communications
+3
+ECE 498PI
+Project Internship
+2
+ECE 498FTP
+Final Term Project
+12
+Total required
+45
+4. Elective Courses
+4.1 Technical Electives
+This elective requirement gives each student the freedom to develop further in mathematics,
+science and a technical course of study in information engineering of considerable breadth
+and focus. Students must complete a minimum of 15 credits on technical electives.
+Course Code
+Course Name
+Credit
+CS 101
+Intro to Computing: Engrg & Sci
+3
+CS 225
+Data Structures
+4
+MATH213
+Introduction to Discrete Mathematics
+3
+CHEM102
+General ChemistryⅠ
+3
+CHEM103
+General Chemistry LabⅠ
+1
+CHEM104
+General Chemistry II
+3
+CHEM105
+General Chemistry Lab II
+1
+ECE 314
+Probability in Engineering Lab
+1
+ECE 330
+Power Circuits & Electromechanics
+3
+ECE 340
+Semiconductor Electronics
+3
+ECE 342
+Electronic Circuits
+3
+
+Information Engineering, ISEE
+~ 3 ~
+ECE 343
+Electronic Circuits Laboratory
+1
+ECE 350
+Fields and Waves II
+3
+ECE 364
+Programing Methods for Machine Learning
+3
+ECE 365
+Data Science and Engineering
+3
+ECE 374
+Introduction to Algorithms & Models of Computation
+4
+ECE 485
+MEMS Devices & Systems
+3
+4.2 Liberal Education
+The liberal education courses develop students’ understanding of human culture and society,
+build skills of inquiry and critical thinking, and lay a foundation for civic engagement and
+lifelong learning. To satisfy the liberation education requirements, students must take all
+courses for grade and complete courses based on the table below:
+Category
+Credit
+1) Humanities & Arts (Two courses)
+6
+2) Social & Behavioral Sciences (Two courses)
+6
+3) Culture Studies
+6
+Western/Comparative Culture(s) (One course)
+Non-Western Culture(s) (One course)
+Total required
+18
+Appropriate choices in the Social and Behavioral Sciences and in the Humanities and Arts
+will ensure that these courses also fulfil the requirements in the areas of Western and Non-
+Western Cultures.
+4.3 Free Electives
+These unrestricted electives give the student the opportunity to explore any intellectual area
+of unique interest. This freedom plays a critical role in helping students to define research
+specialties. Students are encouraged to take cross-discipline courses as free electives for 9
+（2021-2022）and 8(2023-) credits.
+
+Information Engineering, ISEE
+~ 4 ~
+5. Chinese Language and Society
+These courses are compulsory for all international students. They introduce Chinese modern
+history, social development, government policies, etc., and help students improve their
+Chinese and understanding about China.
+International students need to complete Chinese language study and Chinese society to
+fulfill the graduate requirement.
+2020-2022
+2023-
+Course Code
+Course Name
+Credit
+Credit
+CHIN 1001
+Chinese Ⅰ
+4
+4
+CHIN 1002
+Chinese Ⅱ
+5
+4
+CHIN 1003
+Chinese Ⅲ
+4
+4
+CHIN 1004
+Chinese Ⅳ
+4
+4
+CHIN1005
+International Chinese Language
+Proficiency and Testing
+2
+CULT 2001
+China Survey
+3
+3
+Total required
+20
+21

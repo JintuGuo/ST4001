@@ -1,0 +1,553 @@
+ZJUI_UndergradEd
+6 分钟读完
+ZJUI Micro-minor Program in Intelligent
+Engineering
+In a world driven by rapid technological advancement, interdisciplinary
+collaboration, and dynamic problem-solving, Zhejiang University / University of
+Illinois Urbana-Champaign Institute (ZJUI) proudly introduce the Micro-minor
+Program in Intelligent Engineering (MPIE). This transformative education
+program, approved by Zhejiang University, is designed to prepare students for a
+future where intelligence systems are at the heart of global engineering
+challenges.
+ 
+1.Overview
+ 
+As a globally-oriented institute of higher education, ZJUI is committed to
+fostering interdisciplinary learning and innovative skill development. The MPIE is
+a forward-thinking initiative aimed at broadening the educational horizons of our
+undergraduate programs in Civil Engineering, Computer Engineering, Electrical
+Engineering and Mechanical Engineering.
+ 
+MPIE has four focus areas that address complex engineering challenges:
+ 
+Robotics and Automation: This area covers advanced concepts in robotic
+systems, autonomous operation, and smart manufacturing, preparing
+students to excel in sectors such as industrial automation, healthcare, and
+service industries.
+ 
+Artificial Intelligence (AI): From machine learning fundamentals to deep
+learning applications, students explore the capabilities of AI in transforming
+2026/2/22 11:20
+ZJUI Micro-minor Program in Intelligent Engineering
+https://zjuintl.sharepoint.com/sites/ZJUIUG/SitePages/ZJUI-Micro-minor Program.aspx
+1/8
+
+industries, while addressing ethical and societal implications of AI
+technologies.
+ 
+Data Science and Analytics: With a focus on data-driven decision-making,
+this area provides hands-on training in big data analytics, statistical
+modeling, and data visualization, equipping students to tackle real-world
+data challenges in various engineering domains.
+ 
+Smart Cities: Students gain insight into sustainable urban development
+through technologies like IoT, smart infrastructure, and energy-efficient
+systems, aiming to build cities that are efficient, livable, and resilient.
+ 
+MPIE enables students to supplement their primary engineering studies with a
+focus on emerging intelligent technologies, enhancing their competitiveness and
+adaptability in the global engineering landscape. By completing this program,
+students will not only develop a solid foundation in intelligent engineering
+principles but also gain practical skills that are highly sought after in the industry.
+ 
+2. Requirements
+ 
+To complete a MPIE program, students must fulfill the following:
+ 
+1.1 Coursework (12 credits)
+ 
+Students must complete a minimum of 12 additional credits in interdisciplinary
+engineering courses. These credits, detailed in Section 4 of the program
+curriculum, cannot be double-counted toward the requirements of both the
+student's primary and MPIE programs. However, up to 6 free elective credits may
+be applied.
+ 
+1.2 Multi-disciplinary Senior Design Project or Thesis
+ 
+Students are required to complete a senior design project or thesis that integrates
+principles across their primary program with MPIE focus areas. The design courses
+ECE 445, ME 470 or ST 4001 may fulfill this requirement alongside primary
+graduation requirements.
+ 
+Upon completion of these requirements, students will be awarded a certificate
+from Zhejiang University, signifying their proficiency in a MPIE area and their
+ability to apply core principles to solve complex problems. This certificate will also
+serve as evidence of their dedication and commitment to a rigorous and
+challenging program of study and will enhance their career prospects in the
+engineering industry.
+ 
+2026/2/22 11:20
+ZJUI Micro-minor Program in Intelligent Engineering
+https://zjuintl.sharepoint.com/sites/ZJUIUG/SitePages/ZJUI-Micro-minor Program.aspx
+2/8
+
+3. Application
+ 
+3.1 Eligibility
+ 
+GPA Requirement: Students must maintain a minimum cumulative GPA of 3.0
+in both their major-specific courses and their overall coursework.
+ 
+Coursework: Eligible students should have completed specific courses from
+MPIE curriculum and are expected to fulfill all requirements by the end of the
+spring semester of their senior year.
+ 
+3.2 Registration
+ 
+Students interested in a MPIE program must submit an application form through
+the application portal during the Spring semester of their senior year. The
+application should include:
+ 
+A summary of relevant courses completed,
+A description of how their senior design project aligns with a MPIE focus
+area,
+A brief personal statement outlining their interest in the program.
+ 
+3.3 Certification
+ 
+The admission committee will assess applications based on academic
+performance, commitment to MPIE, relevant coursework and senior design or
+thesis project. Notifications regarding admission decisions will be sent out after
+evaluations are complete. Each student can only be admitted to one MPIE focus
+area. Qualified students will receive a micro-minor certificate of “Intelligent
+Engineering” in their chosen focus area from Zhejiang University, recognizing
+their interdisciplinary skills and expertise.
+ 
+4. Curriculum
+ 
+To fulfill the MPIE curriculum requirements, students may take advantage of
+course resources not only at ZJUI but also during exchanges at UIUC or at
+Zhejiang University’s main campus. Additional courses not listed in the curriculum
+but deemed equivalent in content may be approved by ZJUI for credit toward the
+program requirements.
+ 
+4.1 Robotics and Automation
+ 
+2026/2/22 11:20
+ZJUI Micro-minor Program in Intelligent Engineering
+https://zjuintl.sharepoint.com/sites/ZJUIUG/SitePages/ZJUI-Micro-minor Program.aspx
+3/8
+
+The Robotics and Automation area is a highly interdisciplinary field combining
+core principles from mechanical engineering, electrical engineering, and
+computer science. This focus equips students with skills applicable across multiple
+sectors, including manufacturing, healthcare, and transportation. Courses in this
+area cover topics such as control systems, robotic kinematics, automation
+technology, and applications in real-world environments.
+ 
+Course Code
+Course Name
+Credits
+Prerequisite
+ECE 470/ME 445
+Introduction to Robotics
+4
+one of Math
+225, Math
+286, Math
+415, Math
+418
+ECE 489/ME 446
+Robot Dynamics and
+Control
+4
+ECE 470/ME
+445
+ECE 486
+Control System
+4
+ECE 210
+ECE 448/CS 440
+Artificial Intelligence
+3
+CS 225; one
+of CS 361,
+STAT 361, ECE
+313, MATH
+362, MATH
+461, MATH
+463, STAT
+400   
+ECE 449/CS 446
+Machine Learning
+3
+CS 225, Math
+257, ECE 313
+or STAT 400
+ECE 408
+Applied Parallel
+Programming
+4
+ECE 220
+ECE 484
+Principles of Safe
+Autonomy
+4
+ECE 220, ECE
+313
+ECE 364
+Programming Method for
+Machine Learning
+3
+Math 257
+ME 440
+Kinematics & Dynamics
+of Mechanical System
+3
+ME 370
+ME 447
+Computational Design
+and Dynamics of Soft
+Systems
+4
+CS 101, Math
+257
+CS 444
+Deep Learning for
+Computer Vision
+3
+ECE 220
+ECE 410
+Neutral Circuits and
+System
+ 
+ 
+ECE 426/ABE 426
+Principles of Mobile
+Robotics
+4
+Math 285,
+ECE 313 or
+IE300 or STAT
+400, CS 101
+ME 360
+Signal processing
+3.5
+ME 340
+2026/2/22 11:20
+ZJUI Micro-minor Program in Intelligent Engineering
+https://zjuintl.sharepoint.com/sites/ZJUIUG/SitePages/ZJUI-Micro-minor Program.aspx
+4/8
+
+*Courses highlighted in blue were already offered at ZJUI.
+ 
+4.2 Artificial Intelligence
+ 
+The Artificial Intelligence (AI) area focuses on the creation and application of
+computer systems capable of performing tasks traditionally requiring human
+intelligence, such as image recognition, natural language processing, and
+complex decision-making. This interdisciplinary field integrates principles from
+computer science, mathematics, and statistics to equip students with skills in
+machine learning, neural networks, and AI ethics, preparing them to contribute to
+rapidly evolving AI applications across industries like healthcare, finance, and
+technology.
+ 
+Course Code
+Course Name
+Credits
+Prerequisite
+ECE 448/CS 440
+Artificial Intelligence
+3
+CS 225; one
+of CS 361,
+STAT 361, ECE
+313, MATH
+362, MATH
+461, MATH
+463, STAT 400
+ECE 449/CS 446
+Machine Learning
+3
+CS 225, Math
+257, ECE 313
+or STAT 400
+ECE 364
+Programming Method for
+Machine Learning
+3
+Math 257
+ECE 410
+Neural Circuits and
+Systems
+3
+MATH 285 or
+equivalent
+CS 101 or
+equivalent
+ECE 417
+Multimedia Signal
+Processing
+4
+ECE
+310 or ECE
+401; one
+of ECE 313,
+CS361,
+or STAT 400
+ECE 418
+Image & Video
+Processing
+4
+ECE 310; one
+of ECE 313,
+STAT 400, IE
+300, Math
+461; Math
+257
+ECE 421
+Neural Interface
+Engineering
+3
+ECE
+210 or BIOE
+205 and NE
+330
+2026/2/22 11:20
+ZJUI Micro-minor Program in Intelligent Engineering
+https://zjuintl.sharepoint.com/sites/ZJUIUG/SitePages/ZJUI-Micro-minor Program.aspx
+5/8
+
+Course Code
+Course Name
+Credits
+Prerequisite
+CS 412
+Introduction to Data
+Mining
+3
+CS 225
+CS 443
+Reinforcement Learning
+3
+CS 225, Math
+241, Math
+257, ECE 313
+CS 447
+Natural Language
+Processing
+3
+ECE 374
+CS 444
+Deep Learning for
+Computer Vision
+3
+Math 241,
+Math 257,
+ECE 313 or
+STAT 400
+*Courses highlighted in blue were already offered at ZJUI.
+ 
+4.3 Data Science and Analytics
+ 
+The Data Science and Analytics area focuses on employing statistical and
+computational methods to derive valuable insights from large, complex datasets.
+This interdisciplinary field merges principles from statistics, computer science, and
+engineering, equipping students with skills in data mining, predictive modeling,
+and data visualization. Students in this area are prepared to address data-driven
+challenges across sectors, including healthcare, finance, social media, and beyond,
+where informed decision-making is essential.
+ 
+Course Code
+Course Name
+Credits
+Prerequisite
+ECE 365
+Data Science and
+Engineering
+3
+ECE 313
+ECE 364
+Programming Method for
+Machine Learning
+3
+Math 257
+CS 412
+Introduction to Data
+Mining
+3
+CS 225
+ECE 449/CS 446
+Machine Learning
+3
+CS 225, Math 257, ECE
+313 or STAT 400
+ECE 491/CS 450
+Numerical Analysis
+3
+CS 101, Math 257, Math
+285
+STAT 432
+Basics of Statistical
+Learning
+3
+STAT 400
+ECE 471
+Data Science Analytics
+using Probabilistic Graph
+Models
+3
+ECE 313
+ECE 408
+Applied Parallel
+Programming
+4
+ECE 220
+ME 453
+Data Science in
+Manufacturing Quality
+Control
+3
+ME 270, Math 257, ECE
+313 or STAT 400
+CS 415
+Data Visualization
+3
+CS 225
+2026/2/22 11:20
+ZJUI Micro-minor Program in Intelligent Engineering
+https://zjuintl.sharepoint.com/sites/ZJUIUG/SitePages/ZJUI-Micro-minor Program.aspx
+6/8
+
+*Courses highlighted in blue were already offered at ZJUI.
+ 
+4.4 Smart Cities
+ 
+The Smart Cities area centers on using technology and data to improve urban
+living by enhancing infrastructure, optimizing services, and minimizing
+environmental impact. This interdisciplinary field brings together principles from
+civil engineering, electrical engineering, and computer science, enabling students
+to work on sustainable urban development projects. Key topics include Internet of
+Things (IoT) integration, smart infrastructure, energy management, and
+environmental monitoring, all aimed at creating efficient, resilient, and livable
+cities for the future.
+ 
+Course Code
+Course Name
+Credits
+Prerequisite
+CEE 340
+Energy and Global
+Environment
+3
+Phys 211:
+Phys 213 or
+ME 200; CEE
+201 or IE 310;
+CEE 202 or
+STAT 200
+ECE 364
+Programming Method for
+Machine Learning
+3
+Math 257
+CEE 498/CS 498
+Introduction to Smart
+Cities
+3
+ 
+ECE 448/CS 440
+Artificial Intelligence
+3
+CS 225; one
+of CS 361,
+STAT 361, ECE
+313, MATH
+362, MATH
+461, MATH
+463, STAT 400
+CS437
+Topics in Internet of
+Things
+3
+CS 241 or CS
+341
+ABE 436
+Renewable Energy
+Systems
+3
+Phys 211
+CEE 417
+Urban Transportation
+Planning
+3
+ 
+ECE 498DASC
+Data Analytics for Smart
+Cities
+3
+ 
+*Courses highlighted in blue were already offered at ZJUI.
+ 
+5. Appendix
+ 
+The following is a list of prerequisites for the courses in MPIE curriculum. Some
+pre-requisites are optional. Please refer to the curriculum table for the corresponding
+program.
+2026/2/22 11:20
+ZJUI Micro-minor Program in Intelligent Engineering
+https://zjuintl.sharepoint.com/sites/ZJUIUG/SitePages/ZJUI-Micro-minor Program.aspx
+7/8
+
+ 
+Course Code
+Course Name
+Credits
+CS 101
+Introduction to Computing: Engineering
+& Science
+3
+MATH 221
+Calculus Ⅰ
+4
+MATH 231
+Calculus Ⅱ
+3
+MATH 241
+Calculus Ⅲ
+4
+MATH 257
+Linear Algebra with Computational
+Application
+3
+MATH 285
+Introduction to Differential Equation
+3
+PHYS 211
+University Physics: Mechanics
+4
+PHYS 212
+University Physics: Elec & Mag
+4
+CS 225
+Data Structures
+4
+ECE 313/MATH 362
+Probability with Engineering Application
+3
+CS 361/STAT 361
+Probability & Statistics for Computer
+Science
+3
+MATH 461
+Probability Theory
+3
+MATH 463/STAT 400
+Statistics and Probability I
+4
+BIOE 310
+Computational Tools for Biological Data
+3
+CEE 201
+Systems Engineering & Economics
+3
+CEE 202
+Engineering Risk & Uncertainty
+3
+ 
+ 
+published by ZJUI Office of Undergraduate Academic Affairs
+2026/2/22 11:20
+ZJUI Micro-minor Program in Intelligent Engineering
+https://zjuintl.sharepoint.com/sites/ZJUIUG/SitePages/ZJUI-Micro-minor Program.aspx
+8/8
