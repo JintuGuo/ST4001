@@ -288,7 +288,7 @@ def ask_question(query: str):
             "content": prompt
         }
     ]
- 
+
     ans = deepseek_chat(messages)
     fallback_markers = [
         "资料未覆盖",
