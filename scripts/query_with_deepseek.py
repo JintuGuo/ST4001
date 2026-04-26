@@ -133,7 +133,80 @@ def fallback_answer(query: str, contacts: dict):
 
 {note}
 """
+def is_contact_list_question(query: str) -> bool:
+    q = query.strip().lower()
 
+    keywords = [
+        "联系谁",
+        "找谁",
+        "联系人",
+        "联系方式",
+        "老师联系方式",
+        "教务老师",
+        "contact",
+        "who should i contact",
+        "who to contact"
+    ]
+
+    return any(k in q for k in keywords)
+
+
+def contact_list_answer(contacts: dict) -> str:
+    course = contacts.get("course", {})
+    exam = contacts.get("exam", {})
+    student_status = contacts.get("student_status", {})
+    default = contacts.get("default", {})
+
+    return f"""如果资料未覆盖，或者你需要进一步确认，可以根据问题类型联系对应老师：
+
+1. {course.get("name", "刘钰")}
+邮箱：{course.get("email", "yuliu@intl.zju.edu.cn")}
+负责：{course.get("note", "课程设置，选课，退课，毕业审核")}
+
+2. {exam.get("name", "孙佳怡")}
+邮箱：{exam.get("email", "jiayisun@intl.zju.edu.cn")}
+负责：{exam.get("note", "成绩登录，考试安排，补考，特考，四六级考试，学位转换(UIUC transfer)，开具成绩单")}
+
+3. {student_status.get("name", "王若沁")}
+邮箱：{student_status.get("email", "ruoqinwang@intl.zju.edu.cn")}
+负责：{student_status.get("note", "学籍管理，学期报到，学位登记，学位证照片，本科生科研训练，SRTP，暑研，海外交换项目，助教管理")}
+
+4. {default.get("name", "邵昉伟")}
+邮箱：{default.get("email", "fangweishao@intl.zju.edu.cn")}
+负责：{default.get("note", "其他无法判断或综合性问题")}
+"""
+def is_capability_question(query: str) -> bool:
+    q = query.strip().lower()
+
+    keywords = [
+        "你会什么",
+        "你能干什么",
+        "你可以做什么",
+        "你有什么功能",
+        "你能回答什么",
+        "你是谁",
+        "你是干嘛的",
+        "你能帮我什么",
+        "你可以帮我什么",
+        "what can you do",
+        "who are you",
+        "what are you",
+        "your function",
+        "your capabilities"
+    ]
+
+    return any(k in q for k in keywords)
+
+
+def capability_answer():
+    return """我是 ZJUI 本科教务 AI 助手，可以基于已收录的教务资料回答部分本科教务相关问题。
+
+我目前可以帮助你查询和理解一些常见事项，例如：
+- 课程设置、选课、退课、毕业审核
+- 成绩、考试、补考、特考、四六级、成绩单
+- 学籍管理、学期报到、学位登记、SRTP、暑研、海外交换等
+
+需要注意的是，我的回答主要依据当前知识库中的文件和网页资料。如果资料没有覆盖相关问题，我不会随便编造，而是会尽量提供对应教务老师或办公室的联系方式，方便你进一步确认。"""
 def rewrite_query(query: str) -> str:
     q = query.strip()
     rewrite_parts = [q]
@@ -164,13 +237,24 @@ def rerank_by_source(query: str, hits):
 
 
 def ask_question(query: str):
+    contacts = load_contacts()
+    if is_capability_question(query):
+        return {
+            "answer": capability_answer(),
+            "sources": [],
+            "fallback": False,
+        }
+    if is_contact_list_question(query):
+        return {
+            "answer": contact_list_answer(contacts),
+            "sources": [],
+            "fallback": False,
+        }        
     model = SentenceTransformer(EMBED_MODEL)
     index = faiss.read_index(INDEX_PATH)
 
     with open(META_PATH, "r", encoding="utf-8") as f:
         meta = json.load(f)
-
-    contacts = load_contacts()
 
     rewritten_query = rewrite_query(query)
     hits = retrieve(rewritten_query, model, index, meta, TOP_K)
