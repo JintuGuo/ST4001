@@ -143,14 +143,18 @@ def is_contact_list_question(query: str) -> bool:
         "联系方式",
         "老师联系方式",
         "教务老师",
+        "教务联系方式",
+        "资料未覆盖",
+        "没有覆盖",
+        "谁负责",
+        "负责老师",
+        "办公室",
         "contact",
         "who should i contact",
         "who to contact"
     ]
 
     return any(k in q for k in keywords)
-
-
 def contact_list_answer(contacts: dict) -> str:
     course = contacts.get("course", {})
     exam = contacts.get("exam", {})
@@ -180,14 +184,17 @@ def is_capability_question(query: str) -> bool:
 
     keywords = [
         "你会什么",
+        "你会干什么",
         "你能干什么",
+        "你可以干什么",
         "你可以做什么",
         "你有什么功能",
         "你能回答什么",
-        "你是谁",
-        "你是干嘛的",
         "你能帮我什么",
         "你可以帮我什么",
+        "你是谁",
+        "你是干嘛的",
+        "介绍一下你",
         "what can you do",
         "who are you",
         "what are you",
@@ -196,7 +203,6 @@ def is_capability_question(query: str) -> bool:
     ]
 
     return any(k in q for k in keywords)
-
 
 def capability_answer():
     return """我是 ZJUI 本科教务 AI 助手，可以基于已收录的教务资料回答部分本科教务相关问题。
@@ -215,10 +221,18 @@ def rewrite_query(query: str) -> str:
         rewrite_parts.append("curriculum course list elective required")
 
     if "毕业" in q or "学分" in q:
-        rewrite_parts.append("degree requirements credits")
+        rewrite_parts.append("degree requirements credits graduation requirements")
+
+    if (
+        "体测" in q
+        or "体质" in q
+        or "体育测试" in q
+        or "体质健康测试" in q
+        or "physical fitness" in q.lower()
+    ):
+        rewrite_parts.append("体质健康测试 体测 体育测试 国家学生体质健康标准 physical fitness test test items test schedule")
 
     return " ".join(rewrite_parts)
-
 
 def rerank_by_source(query: str, hits):
     reranked = []
